@@ -45,29 +45,30 @@ class DataManager():
         return
 
     def load_train_data(self):
-        self.trian_data = self.load_data(self.train_data_file_name);
+        self.trian_data = self.load_data(self.train_data_file_name)
+        self.get_word_vector(self.trian_data)
         return
 
     def load_test_data(self):
-        self.test_data = self.load_data(self.test_data_file_name);
+        self.test_data = self.load_data(self.test_data_file_name)
         return
 
     def load_dev_data(self):
-        self.dev_data = self.load_data(self.dev_data_file_name);
+        self.dev_data = self.load_data(self.dev_data_file_name)
         return
 
     def load_data(self, file_name):
         data = {}
-        vector_data = {}
-
+        vocabulary = []
         with open(self.data_path + file_name, 'r', newline='' , errors='ignore') as csvfile:
+
             spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
             for row in spamreader:
                 split = row[1].split()
-                data[row[0]] = [split[x] for x in range(1, len(split))]
-                vector_data[row[0]] = [self.look_up_word_vector(split[x]) for x in range(1, len(split))]
 
-        return data, vector_data
+                data[row[0]] = [split[x] for x in range(1, len(split))]
+
+        return data
 
     def get_train_data(self):
         return self.train_data
@@ -81,7 +82,12 @@ class DataManager():
         else:
             return None
 
-    def get_word_vector(self):
+    def get_word_vector(self, data):
+        vocabulary = data.values()
+
+        print(vocabulary)
+        vocabulary = list(set(vocabulary))
+        print(vocabulary)
         return
 
     def test(self):
