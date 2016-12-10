@@ -75,11 +75,14 @@ class DataManager():
     def get_test_data(self):
         return
 
-    def look_up_word_vector(self, word):
+    def look_up_word2vec(self, word):
         if(word in self.look_up_table):
             return self.look_up_table[word]
         else:
             return None
+
+    def get_word_vector(self):
+        return
 
     def test(self):
         return
