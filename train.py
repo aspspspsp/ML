@@ -14,7 +14,10 @@ from tensorflow.contrib import learn
 
 # Data loading params
 tf.flags.DEFINE_float("dev_sample_percentage", .1, "Percentage of the training data to use for vaildation")
-tf.flags.DEFINE_string("train_data_file", "./data/07.csv")
+tf.flags.DEFINE_string("loss_circulation_data_file", "./data/loss_circulation_data.txt")
+tf.flags.DEFINE_string("kick_data_file", "./data/kick_data.txt")
+tf.flags.DEFINE_string("stuck_pipe_data_file", "./data/stuck_pipe_data.txt")
+tf.flags.DEFINE_string("other_data_file", "./data/other_data.txt")
 
 # Model Hyperparameters
 tf.flags.DEFINE_integer("embedding_dim", 128, "Dimesorinality of character emgedding (default: 128)")
@@ -44,7 +47,7 @@ print("")
 
 # Load data
 print("Loading data...")
-x_text, y = data_helpers.load_data_and_labels()
+x_text, y = data_helpers.load_data_and_labelsConfigProto
 
 # Build vocabulary
 max_document_length = max([len(x.split(" ") for x in x_text)])
