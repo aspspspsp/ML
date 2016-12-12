@@ -73,4 +73,7 @@ with graph.as_default():
         dropout_keep_prob = graph.get_operation_by_name("dropout_keep_prob").outputs[0]
 
         # Tensors we went to evaluate
-        p
+        predictions = graph.get_operation_by_name("output/predictions").outputs[0]
+
+        # Generate batches for one epoch
+        batchse = data_helpers
