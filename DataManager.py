@@ -45,8 +45,7 @@ class DataManager():
         return
 
     def load_train_data(self):
-        self.trian_data = self.load_data(self.train_data_file_name)
-        self.get_word_vector(self.trian_data)
+        self.train_data, self.train_data_vet = self.load_data(self.train_data_file_name)
         return
 
     def load_test_data(self):
@@ -59,7 +58,8 @@ class DataManager():
 
     def load_data(self, file_name):
         data = {}
-        vocabulary = []
+        data_vect = {}
+
         with open(self.data_path + file_name, 'r', newline='' , errors='ignore') as csvfile:
 
             spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
@@ -67,8 +67,8 @@ class DataManager():
                 split = row[1].split()
 
                 data[row[0]] = [split[x] for x in range(1, len(split))]
-
-        return data
+                data_vect[row[0]] = [self.look_up_word2vec(split[x]) for x in range(1, len(split))]
+        return data, data_vect
 
     def get_train_data(self):
         return self.train_data
@@ -82,17 +82,10 @@ class DataManager():
         else:
             return None
 
-    def get_word_vector(self, data):
-        vocabulary = data.values()
-
-        print(vocabulary)
-        vocabulary = list(set(vocabulary))
-        print(vocabulary)
-        return
-
     def test(self):
         return
 
+'''
 def main():
     data_path = 'Data/'
     look_up_table_file_name = 'glove.840B.300d.txt'
@@ -103,3 +96,4 @@ def main():
     data_manager = DataManager(data_path, look_up_table_file_name, train_data_file_name, test_data_file_name, dev_data_file_name)
 
 main()
+'''
