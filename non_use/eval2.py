@@ -1,35 +1,34 @@
 #! /usr/bin/env python
 
-import tensorflow as tf
-import numpy as np
-import os
-import time
-import datetime
-import data_helpers
-from text_cnn import TextCNN
-from tensorflow.contrib import learn
 import csv
+import os
+
+import numpy as np
+import tensorflow as tf
+from tensorflow.contrib import learn
+
+from cnn import data_helpers
 
 # Parameters
 # ================================================
 
-# Data Parameters
-tf.flags.DEFINE_string("loss_circulation_data_file", "./data/loss_circulation_data.txt")
-tf.flags.DEFINE_string("kick_data_file", "./data/kick_data.txt")
-tf.flags.DEFINE_string("stuck_pipe_data_file", "./data/stuck_pipe_data.txt")
-tf.flags.DEFINE_string("other_data_file", "./data/other_data.txt")
+# data Parameters
+tf.flags.DEFINE_string("loss_circulation_data_file", "./data/loss_circulation_data.txt", "Data source for loss circulation")
+tf.flags.DEFINE_string("kick_data_file", "./data/kick_data.txt", "Data source for kick")
+tf.flags.DEFINE_string("stuck_pipe_data_file", "./data/stuck_pipe_data.txt", "Data source for stuck pipe")
+tf.flags.DEFINE_string("other_data_file", "./data/other_data.txt", "Data source for other")
 
 # Eval Parameters
 tf.flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 64)")
 tf.flags.DEFINE_string("checkpoint_dir", "", "Checkpoint directory from training run")
-tf.flags.DEFINE_boolean("eval train", False, "Evaluate on all training data")
+tf.flags.DEFINE_boolean("eval_train", False, "Evaluate on all training data")
 
 # Misc Parameters
 tf.flags.DEFINE_boolean("allow_soft_placement", True, "Allow device soft device placement")
 tf.flags.DEFINE_boolean("log_device_placement", False, "Log placement of ops on device")
 
 
-FLAGS = tf.tlags.FLAGS
+FLAGS = tf.flags.FLAGS
 FLAGS._parse_flags()
 print("\nParameters:")
 for attr, value in sorted(FLAGS.__flags.items()):
@@ -76,4 +75,24 @@ with graph.as_default():
         predictions = graph.get_operation_by_name("output/predictions").outputs[0]
 
         # Generate batches for one epoch
-        batchse = data_helpers
+        batches = data_helpers.batch_iter(list(x_test), FLAGS.batch_size, 1, shuffle=False)
+
+        # Collect the predictions here
+        all_predictions = []
+
+        for x_test_batch in batches:
+            batch_predictions = sess.run(predictions, {input_x: x_test_batch, dropout_keep_prob: 1.0})
+            all_predictions = np.concatenate([all_predictions, batch_predictions])
+
+# Print accuracy if y_test is defined
+if y_test is not None:
+    correct_predictions = float(sum(all_predictions == y_test))
+    print("Total number of test examples: {}".format(len(y_test)))
+    print("Accuracy: {:g}".format(correct_predictions/float(len(y_test))))
+
+# Save the evalualtion
+predictions_human_readable = np.column_stack((np.array(x_raw), all_predictions))
+out_path = os.path.join(FLAGS.checkpoint_dir, "..", "prediction.csv")
+print("Saving evaluation to {0}".format(out_path))
+with open(out_path, 'w') as f:
+    csv.writer(f).writerows(predictions_human_readable)

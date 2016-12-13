@@ -24,17 +24,18 @@ def clean_str(string):
     return string.strip().lower()
 
 
-def load_data_and_labels(self,
-        loss_circulation_data_file, kick_data_file, stuck_pipe_data_file, other_data_file):
+def load_data_and_labels(
+        loss_circulation_data_file, kick_data_file,
+        stuck_pipe_data_file, other_data_file):
     """
     Loads MR polarity data from files, splits the data into words and generates label.
     Return split sentences and labels
     """
     # Load data from files
-    loss_circulation_examples = self.examples(loss_circulation_data_file)
-    kick_examples = self.examples(kick_data_file)
-    stuck_pipe_example = self.examples(stuck_pipe_data_file)
-    other_data_example = self.examples(other_data_file)
+    loss_circulation_examples = read_sample(loss_circulation_data_file)
+    kick_examples = read_sample(kick_data_file)
+    stuck_pipe_example = read_sample(stuck_pipe_data_file)
+    other_data_example = read_sample(other_data_file)
     # Split by words
     x_text = loss_circulation_examples + kick_examples + stuck_pipe_example + other_data_example
     x_text = [clean_str(sent) for sent in x_text]
@@ -47,7 +48,7 @@ def load_data_and_labels(self,
     return [x_text, y]
 
 def read_sample(example_file):
-    examples = list(open(example_file, "r").readlines())
+    examples = list(open(example_file, "r", errors='ignore').readlines())
     examples = [s.strip() for s in examples]
     return examples
 

@@ -87,7 +87,7 @@ class DataManager():
 
 '''
 def main():
-    data_path = 'Data/'
+    data_path = 'data/'
     look_up_table_file_name = 'glove.840B.300d.txt'
     train_data_file_name = '07.csv'
     test_data_file_name = ''
