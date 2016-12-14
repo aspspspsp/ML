@@ -1,0 +1,614 @@
+bullheading jobperformed bullheading with <number> sg mud from drillpipe and annulus two times annulus volume  <number> spm initial pressure <number>  <number> psi  final pressure <number> psi
+npt opened pipe rams and performed flow check well static level drop  <number> mfilled annulus no static losses observed
+ sicp stabilized <number> psi mud weight inside the hole still <number> pcfbumped float  sidp<number> psi
+ circulation through the choke <number> spm using driller methodicp<number> psi minimum mud weight out at btm up is <number> pcf and increased gradually with circulation to <number> pcfmaximum gases <number>% flaring the gas for <number> min the flare was <number> meters highmeanwhile
+cont'd circ meanwhile mixing kill mud to <number> pcf
+pjsm  killed the well by ww methodicp<number> psi  fcp<number> psikmw<number> pcf circulated with <number>% hole volume until mud wt in<number> pcf and mud wt out at <number> pcf shut in the well and observed pressures sidp zero  sicp zero opened the well and flow check hole static ok
+ npt rih <number> stands of <number> drill pipe to <number> m oedp installed safety valve secured the well monitoring well on trip tank total gain in ttk <number> m<number>  wait for <number> min no pressure sidpp <number> psi scp<number> psi open bop and flow check observed flow  pumped <number> m<number> slug <number> sg
+ npt pooh drill pipe from <number> m to surface
+ npt mu slick bha tci bit without nozzles and rih to <number> m no downhole losses
+ npt flow check circulate at <number> m flowrate<number> lpm spp<number> psi losses at shakers <number> m<number> no downhole losses
+ npt continued rih from <number> m to <number> m no downhole losses
+ npt flow check  circulated at <number> m flowrate<number> lpm spp<number> psi  no downhole losses
+ npt continue rih free from <number> m to <number> m no downhole losses
+ npt flow check circulate at <number> m flowrate <number> lpm spp <number> psi  no downhole losses
+ npt flow check circulate at <number> m flowrate<number> lpm spp<number> psi no downhole losses 
+ npt continued rih from <number> m to <number> m no drag wash and ream last stand no downhole losses
+ npt circulated and increased mud density from <number> sg to <number> sg at bottom flow rate <number> lpm spp <number> psi  pump and spot <number> m<number> lcm pill no downhole losses                                                                                                                                 
+ npt flow check well static no downhole loss
+ npt pooh from <number> m to <number> m no drag  actual metal displacement <number> m<number> actual hole fill <number> m<number> wet pipe no down hole losses
+ npt pump lcm pill <number> m<number> at <number> m with flow rate <number> lpm spp <number> psi
+ npt continued pooh from <number> m to <number> m <number> csg shoe no drag                                                                                                                                                                                                                                                        actual metal displacement <number> m<number> actual hole fill <number> m<number> wet pipe no down hole losses
+ npt flow check well static no down hole loss
+ npt continued pooh from shoe to <number> m actual metal displacement <number> m<number> actual hole fill <number> m<number> wet pipe no downhole losses
+ npt flow check well static no down hole losses
+ npt continued pooh from <number> m to <number> m
+ npt continued pooh from <number> m to surface ld one joint <number> dc <number> jar <number> tci bit actual metal displacement <number> m<number> actual hole fill <number> m<number> wet pipe no downhole losses
+npt connectedxxunitahose from choke to shaker circulating with scr rate through choke pump rate<number> spm spp<number> psi pump rate<number> spm spp<number> psicirculated bottom up and dumped <number> m<number> contaminated mud with sulphurous water to waste pitinitialxxunitmwin<number>sgxxunitmwout <number> sg ph in  <number> ph out <number>after bottom upxxunitmwin <number>sgxxunitmwout <number> sgmax h<number>s <number> ppm
+npt continued circulating through choke manifold to homogenize the mudflow rate  <number> lmin  press <number> psimw in <number> sgxxunitmwout <number>  sg dynamic down hole losses <number> m<number>surface losses  <number> m<number>mean while welder cut cemented lines and recovered <number> elbows and <number> flangesopened side window of poor boy and clean cement insideweldingxxunitanew line to poor boy in progressmove the string every <number> min strippingno overpull observed
+npt confirmedxxunitmwinout<number>sg opened bopflow check  well static
+npt aramco monitor pressure sidpp  sicp  <number> psi open bop and circulate two complete cycles
+npt aramco circulate hole with <number> gpm  <number> psi observed pocket of gases with the bottomsup <number>% of lel reading shut the well in sidpp  sicp  <number> psi circulate through the choke
+npt aramco circulation through the choke minimum mud weight out is <number> pcf and increased gradually with circulation to <number> pcf flaring the gas for <number> min the flare was <number> meters high
+npt aramco opened the well and circulation through the shakers with observing the down hole losses mud wt inout <number> pcf avrg down hole losses <number> bph increase mud weight to <number> pcf
+npt aramco circulation while raising the mud weight from <number> pcf to <number> pcf <number> gpm  <number> psi attempt to condition mud inout at <number> pcf mud in<number> pcf  out<number> pcf avrg down hole losses started at <number> bblhr and decreased gradually to zero at <number> hrs perform flow check for one hour and then circulate bottoms up to check gases
+npt aramco performed extended flow check well is flowing at <number> bblhr and decrease to <number> bblhr
+npt aramco circulate bottom up with <number> gpm  <number> psi after <number> strokes pumped observed flow out increase from <number>% to <number>% xxunitmwout <number> pcf  <number>xxunitperceof gas shut the well in
+npt aramco read pressures sidpp  sicp  <number> psi circulate through choke manifold and poor boy untilxxunitmwout is <number> pcf <number> spm  <number> psi stop mud pumps and performed flow check for <number> min on choke manifold  poor boy and observed well with slight flowing up to <number> bblshr flaring the gas for <number> min the flare was <number> meters high
+npt aramco continue circulating through choke manifold and poor boy with <number> spm  <number> psi  note stop mud pumps open bop and continue with direct circulation  increasexxunitmwfrom <number> pcf to <number> pcf and condition the mudin progress
+npt aramco continue circulation while raisedxxunitmwup from <number> pcf to <number> pcf <number> gpm  <number>  <number> psi mud weight in xxunitmwout  <number> pcf stop mud pumps to perform flow checknote while homogenize mud in the hole and active system observed slight down hole losses <number> bblshr during <number> min decrease flow rate to <number> gpm and then no down hole losses observed
+npt aramco performed flow check observed well with slight returns <number> bph decreased gradually until well became static in <number> min's ok
+npt aramcowait on decision continue circulation and condition the mud <number> gpm  <number> psi mud weight in xxunitmwout  <number> pcf
+npt aramcocontinue circulation while increasing the mud weight and condition the mud from <number> pcf to <number> pcf flow <number> gpm  <number> psi mud weight in xxunitmwout  <number> pcftook scr's
+npt aramco performed extended flow check observed slight flow starting from <number> bblhr to <number> bblshr observed well static for the last <number> min
+npt aramcopooh free for wiper trip from <number>' to <number>' inside <number> liner shoe observed hole in good conditions no tight spots monitor well on trip tank  trip sheet theoretical displacement <number> bbls actual displacement <number> bbls
+npt aramcorih back to bottom free from <number>' to <number>'
+npt aramcocirculate bottoms up with <number> gpm  <number> psi observed <number>xxunitperceof gas at bottoms up minimum mud weight out at bottoms up <number> pcf just one sample condition the mud weight inout at <number> pcf rack back one stand make up tds and space out for flow check
+npt aramco performed extended flow check for <number> hrs well static static losses <number> bblhr
+observed <number>bbl gainxxunitinactive while drilling at <number>m flowchecked  <number>bbl gainxxunitin<number>mins shut wellxxunitinon lower annular
+commenced <number>st circulation of drillers kill method brought pump <number> up to <number>spm kill rate keeping wellhead pressure
+completed <number>st circulation of drillers method bottoms up mud samplexxunitmwreduced from <number> to <number>ppg owr
+flushed choke and kill lines to clear choke adjusted pulsation dampenersxxunitinpump room
+completed <number>nd circulation of drillers kill method with <number>ppg kill mud brought pump <number> up to <number>spm kill rate 
+isolate well with upper pipe rams flush kill and choke line and circulate kill line to <number> ppg mud
+circulate riser via boost line to <number> ppg mud while monitoring shutxxunitinpressures
+perform <number>st flowcheck via gas relief line ¨c <number>xxunitbblgained at <number> bblhr 
+circulate well increase flowratexxunitinstages and monitor for losses
+washed and rotated from <number>m to <number>m <number>klbs resistance at <number>m flowcheck on connection  <number>bbls gainxxunitin
+continue to circulate at <number> gpm
+continue circulation <number> ppg at bit reduce circulating rate from <number> gpm to <number> gpm 
+extended flowcheck <number>bbl gain over <number>mins rate decreased to <number>bblhr
+pumped out of hole from <number>m to <number>m <number>bbls lost at <number>gpm
+extended flowcheck <number>bbl gain over <number>mins rate steady at <number>bblhr
+rih from <number>m and washed down last stand to <number>m
+commenced circulating bottoms up dosed active system with <number>ppb finemedium lcm 
+continued circulation dosing active with <number>ppb finemedium lcm once lcm above shoe staged up pumps
+pumped balanced pill of <number>bbls <number>ppg mud and displaced with <number>bbls <number>ppg mud <number>bbls underdisplaced 
+pooh from <number>m to <number>m holexxunitingood condition
+gas reading <number> % circulated and performed flow checkwell is flowing very slowly circulated to increase mud weight from <number> sg to <number> sgrotating hours <number> stab sn<number>h <number> hrs <number> stab sn<number>h <number> hrs jarhydraulic sn<number>h <number> hrs
+npt circulated to condition mud weight to <number> sg
+closed wellxxunitinon lower annular at <number>hrs and monitored pressures hung off on lower pipe rams
+continued monitoring pressures increasedxxunitmwin active pit from <number>ppg to <number>ppg
+commenced well kill with <number>ppg mud at <number>spm 
+restarted well kill different pump and at <number>spm with choke fully closed pressures were not increasing 
+restarted well kill by starting pumps with choke already open to minimise surge pressures controlled choke to 
+flushed through kill bop and choke line via gas relief valve to displace choke line to <number>ppg kill mud while 
+commenced displacing riser to <number>ppg kill mud via boost line conducted flow check through choke to minitrip 
+completed displacing riser to <number>ppg mud 
+flowchecked with well open  <number>bbl gainxxunitin<number>mins
+circulated bottoms up at <number>gpm <number>ppg ecd and confirmed string free performed <number> x dummy connections
+flowchecked  well static
+flowchecked  <number>bbl gainxxunitin<number>mins
+circulated bottoms up at <number>gpm bottoms up gas peak <number>% connection gas <number>% background <number>% 
+flowchecked  <number>bbl gainxxunitin<number>mins commenced circulating bottoms up while increasing mud weight from 
+completed circulating well to <number>ppg bottoms up gas peak <number>% flowchecked  <number>bbl gainxxunitin<number>mins
+circulated bottoms up <number>% connection gas from <number>m no gas from flowcheck attempted <number>x stethoscope pressure tests at <number>m <number>m and <number>m  unable to achieve seal
+continued displacing riser to <number>ppg via boost line while building lcm pill no flowcheckbottoms up gas
+completed displacing riser to <number>ppg via boost line while building lcm pill
+flowchecked  gain <number>bblsxxunitin<number>mins close well in wellbore pressure <number>psi to <number>psi
+displaced riser to <number>ppg mud max gas <number>%
+opened choke line up to well and minitrip tank observed <number>bbl gainxxunitin<number>mins wellbore pressure <number>psi open 
+closed lower annular and displaced choke line to <number>ppg mud taking returns up kill line
+displaced kill line to <number>ppg mud taking returns up choke
+continued circulation started boost pumps once bottoms upxxunitinriser when mud from casingopen hole reached 
+circulated influx to <number>strks below bop shut wellxxunitinon lower annular and circulated influx up choke to surface
+commenced circulating influx to <number>m below bop
+observed <number>bbl gainxxunitin<number>mins while drilling flowchecked  observed <number>bbl gainxxunitin<number>mins shut wellxxunitinand observed
+observed flow with rov circulated until unable to see flow on sonar flowchecked  well static
+made up bha <number> and rih to shoe at <number>m flow checked and confirmed gain of <number>bbl'shr 
+closed annular and displaced riser to <number>ppg mud at <number>gpm
+flow checked well  static displaced choke and kill lines to <number>ppg 
+rih from <number>m to <number>m precautionary washed from <number>m tripping procedure changed due to potential 
+displaced well to <number>ppg mud increased flow ratexxunitin<number>gpm increments confirmed able to circulate at <number>gpm 
+pooh from <number>m to surface broke off bit
+picked up off bottom and observed flow well appeared to be flowing at <number>bbl'shr flow very consistent no 
+prepared <number>ppg mud while boosting riser with <number>ppg mud max gas  <number>%
+monitored well on tt via choke line  initial flow back very fast <number> bbl'shr trend reduced to <number> bbl'shr 
+pooh out of heavy slug from <number>m to <number>m no hole problems gained <number> bbl's
+circulated dp volume to <number>ppg mud 
+pooh from <number>m to <number>m no hole problems
+flow checked <number> bbl'shr gain 
+circulated well to <number>ppg mud <number>gpm no significant losses max gas from <number>m <number>%
+flow checked well and confirmed well flowing at <number>bbl's  hr
+rih from <number>m to <number>m 
+flow checked well  static 
+pumped ooh from <number>m to <number>m <number>ppg mud <number>gpm
+flow checked well and confirmed well flowing at <number>bbl's  hr gained <number> bbl's
+rih from <number>m to <number>m gained <number> bbl's
+pumped <number>bbl's <number>ppg <number>m and balanced with <number>bbl's <number>ppg mud while pumping mud lost total of  <number>bbl's 
+observed slight increasexxunitinactive volume flowchecked  well flowing monitored and confirmed 
+opened lower annular and displaced well to <number>ppg mud <number>% bottoms up gas using ecd to control well
+flowchecked static
+flowchecked drilling break  well flowing <number>bblsxxunitin<number>mins
+circulated bottoms up bottoms up gas <number>% background gas <number>% no gainxxunitinactive volume
+observed gainxxunitinactive pit volume flowchecked  <number>bbls gainxxunitin<number>mins shutxxunitinwell on lower annular
+circulated out influx through choke with <number>ppg mud keeping wellbore pressure constant at <number>psi 
+flowchecked via choke to mini triptank  <number>bbls gainxxunitin<number>mins wellbore pressure <number>psi
+circulated out influx and killed well with <number>ppg mud kept wellbore pressure constant at <number>psi while  
+flowchecked well through riser bypassing closed upper pipe rams via middleupper choke inlets well static
+circulated bottoms up max gas <number>% background gas <number>% <number>ppg ecd with <number>gpm no losses
+circulated bottoms up max gas <number>% background gas <number>%
+flowchecked  <number>bbl gainxxunitin<number>mins constant flow rate
+displaced well to <number>ppg mud flowcheck gas <number>% background <number>%
+performed dummy connection at <number>m  <number>bbl gainxxunitin<number>mins closed wellxxunitinon lower annular
+stripped into upper annular string free spaced out and landed off on middle pipe rams displaced choke and kill
+equalised well across middle pipe rams and observed well static opened middle pipe rams flowchecked  static
+spotted <number>bbls lcm <number>ppb mediumcoarse grade on bottom
+pumped out of hole from <number>m to <number>m unable to pull conventionally without swabbing
+flowchecked at shoe  static
+pumped out of hole from <number>m to <number>m <number>bbl gain during trip
+dynamic flowcheck  <number>bblshr loss at <number>gpm
+static flowcheck  <number>bbls gainxxunitin<number>mins
+circulated bottoms up to allow dynamic losses to  <number> feed lcm material into fractures and <number> ensurexxunitmwis <number>ppg 
+rih from <number>m to <number>m <number>bbl gain over <number> stands pipe displacement 
+commenced circulating bottoms up 
+pumped out of hole at <number>gpm from <number>m to <number>m flowchecked  <number>bbl gainxxunitin<number>mins declining trend
+circulated bottoms up <number>% gas from flowcheck observed losses of <number>bblshr decreasing to <number>bblshr higher 
+flow checked  slow increasexxunitintt  linear line circulated bottoms up and confirmed pumps off gas  <number>% 
+circulated bottoms up and confirmed max gas <number>%  pumps off gas no losses bg gas <number>  <number>%
+npt  shut in well and monitored casing shutin pressurepressure built up to <number> psi
+npt  bleed off pressure through flare line and performed extended flow checkobserved mixed gases going out of flare when bled offmeanwhile mixing <number> sg mud
+npt  opened bop  well started to flow immediately with <number> ppm of h<number>sshutin the well again and kept choke opened to flare linemeanwhile mixing <number> sg mud
+npt  shut in the well and kept choke opened to flare linemeanwhile mixing <number> sg mud
+npt  shut in the well and kept choke opened to flare line  observed mixed gases going out through vent line closed choke and monitored pressure  pressure built up to <number> psimeanwhile mixing <number> sg mud
+npt  bullhead with <number> m<number> of <number> sg mudpumped through kill line with <number> lmin spp <number> psi
+npt  flow check through flare line  well flowing mud and mixed gases in burstsmeanwhile mix <number> sg mud
+npt  well flow at flare line stopped continue to observe well at flare line  no flow observedmeanwhile mix <number> sg mud
+npt  strip out with drill string with annular bop closed from <number> m to <number> m inside previous casing shoe stripping operations carried out due to uncertainty in well behaviormeanwhile mix <number> sg mud
+npt  open annular bop and perform flow check  no flow observed unable to see fluid level from surfacemeanwhile mix <number> sg mud
+npt  pooh conventiionaly from <number> m to surfacefill up annulus from trip tank with <number> lpmunable to see fluid level from surfacebit dull grading  <number>wtaeinohp meanwhile mix mud
+npt  mix mud in progress  continuously pumping into annulus at <number> lpm unable to see fluid level from surface
+npt  observed flow at surface shut in the well sicp  <number> psi
+npt  bleed off pressure from <number> psi to <number> psi through vent line observed mix gases at flare bit meanwhile prepared mud tank for mix fluid for cement  job
+npt  shut in the well and kept choke opened to flare lineflow check through flare line no flow observed
+npt  bullhead <number> m<number> of <number> sg drilling fluid in the annulus with slow pump rate <number>  <number> lpm  spp <number>  <number> psi pumped <number> m<number> of <number> sg drilling fluid in dp
+npt  extended flow check mixed gasses coming from the well bore unable to see fluid level from surface
+npt attempted to pup  rih one stand from derrick observed well flowing shut in the well  sicp  <number> psi
+npt  flow check through flare line  well flowing mud and mixed gases in burstsmeanwhile mixing <number> sg mud
+npt  closed choke and monitored pressure  pressure built up to <number> psi meanwhile mixing <number> sg mud
+npt  sicp stabilized at <number> psimeanwhile keep mixing <number> sg mud
+npt  bled off pressure through flare line received large amount of mixed gases and mudobserved well flowing in bursts through falre linemeanwhile keep mixing <number> sg mud
+npt  monitor well flowing through flare line bypassing choke  mud with mixed gases flowing through flare line  looks consistent and weak estimated <number> lminmeanwhile keep mixing <number> sg muddumped mixed fluid due to contamination with mudcleaned tank for cement mix water
+npt  monitor well flowing through flare line bypassing choke  mud with mixed gases flowing through flare line  looks consistent and weak estimated <number> lminmeanwhile keep mixing <number> sg mudprepare mix fluid for cement plugstrip cement string out of hole from <number> m to <number> mru cement lines
+npt  bullhead annulus with <number> m<number> of <number> sg mudspp  <number> psicp  <number> psi
+npt  performed injectivity test with mud pumps through drill string<number> lmin    <number> psi  <number> lmin    <number> psi<number> lmin  <number> psicasing pressure  <number> psi during test
+npt observed gain at the active system performed flow check well flowing closed boptotal pit gain <number> m<number> sidp <number> psi sicp <number> psiobserved the well and recorded casing pressure every <number> min <number> psi <number> psi <number> psi <number> psi <number> psi <number> psi <number> psiattempt to bleed off <number> psi pressure returned after <number> min
+npt held pjsm to kill well well control drillers method applied kill pumping rate <number> psmsidp <number> psi sicp <number> psiicp <number> psixxunitmwin <number>xxunitmwout <number> sgduring circulation pump pressure began fluctuating  <number> psi shut down and checked pump mud pump <number> sucking air switched to mud pump <number>pumped volume <number> m<number>returned volume <number> m<number>mud lost <number> m<number>
+npt switch to mud pump <number> and continue to circulate out kick
+npt stop circulation due to lack of mudsidp <number> psi sicp <number> psibleed off remaining casing pressure to <number> psi open bop well static fluid level droppingattempt to fill up annulus with <number> m<number> from trip tank fluid level static below bop
+npt held pjsm to kill well well control first circulation of drillers method applied kill pumping rate <number> psmsidp <number> psi sicp <number> psistand pipe pressure <number> psixxunitmwin <number>xxunitmwout <number> sgfinal circulation pressure in drill pipe <number> psi stop mud pump shut the well in monitoring casing pressure to <number> psi mud weight out while circulate less than <number> sgtotal cicle stroks <number> stkstotal stroks pumped <number> stksno downhole losses observed during the circulation kick out the well bore
+npt pooh wireline tools pexmsipaitgrspcblvdl from <number> m to surfacetotal gain acumulated <number> m<number>
+npt shut the well in and recorded the casing pressure for <number> hour <number> psi <number> psi <number> psi <number> psi <number> psi <number> psi <number> psi <number> psinote while monitored the pressure increased density at <number> m<number> with <number> sg  
+npt bullheading <number> m<number> of <number> sg mud with <number> spmstrokes    sidpp    sicp                     psi        psi<number>              <number>        <number>              <number>      <number>              <number>      <number>              <number>      <number>              <number>      <number>              <number>      <number>              <number>      <number>              <number>      <number>              <number>      <number>            <number>      <number>
+npt stop mup pump and monitored the pressure to <number> psi open blind rams and performed flow check level drop fill up with <number> lts
+nptbit service mu <number> pdc bit  conventional bha and rih from surface to <number> m monitored the well through trip thank fill up drilling string at <number> m  <number> m down hole losses  <number> m<number>  <number> m<number>hr no surfaces losses
+npt rih from <number> m to <number> mmonitored the well through trip thankfill up drilling string at <number> m  <number> mobserved <number> m<number> increase in trip tank 
+nptperfomed flow check and observed the well flowing shut the well in and monitored the casing pressure casing pressure not increased observed <number> m<number> increase in trip tank
+npt open annular bop and performed flow check level droped  rih from <number> m to <number> m monitored the well through trip thank 
+npt shut the well in and recorded the casing pressure <number> psi <number> psi <number> psi <number> psi <number> psi <number> psi
+npt held pjsm to kill well well control first circulation of drillers method applied kill pumping rate <number> psmsidp <number> psi sicp <number> psistand pipe pressure <number> psixxunitmwin <number>xxunitmwout <number> sgtotal strokes pumped  <number> stkstotal cicle stroks <number> stksno downhole losses observed
+npt open annular bop and performed flow check level dropedrih from <number> m to <number> m precautionary wash down from <number> mmonitored the well through trip thankfill up drilling string at <number> m down hole losses  <number> m<number>  <number> m<number>hr surfaces losses  <number> m<number>  <number> m<number>hr
+npt circulation at bottom  close annular and circulated to choke manifold  flow rate <number> lpm spp <number>  <number> psi mw in <number>xxunitmwout <number> sgtotal strokes pumped  <number> stkstotal cicle stroks <number> stksafter pumping first cicleincreasexxunitmwin  to <number>sgmw out<number> sgopen annular and continued circulate and homogenize mud inout <number>sgcirculation flow rate <number> lpm spp <number> psi no caving observed in shale shakersdown hole losses  <number> m<number>  <number> m<number>hr surfaces losses  <number> m<number>  <number> m<number>h
+npt  flow check at bottom observed downhole losses <number> <number> min  <number>hr
+nptwiper trip from <number> m to <number> m pulled out from <number> m to <number> m down hole losses  <number> m<number>  <number> m<number>hr surfaces losses  <number> m<number>  <number> m<number>hr
+nptflow check  <number> m downhole losses <number> m<number> min   <number> m<number>hr
+npt  rih from <number> m to <number> m precautionary reaming down from <number> m <number> lpm <number> psi <number> rpm monitored the well through trip thank down hole losses  <number> m<number>  <number> m<number>hr surfaces losses  <number> m<number>  <number> m<number>hr
+nptreaming dowm from <number> m to <number> m <number> lpm <number> psi <number> rpm down hole losses  <number> m<number>  <number> m<number>hr surfaces losses  <number> m<number>  <number> m<number>hr
+npt  circulate well bore through flow line with <number> lpm and <number> psi mud weight in <number> sg mud weight out at bottom up <number> sg mud weight out after total cicle complete <number> sg down hole losses  <number> m<number>  <number> m<number>hr no surfaces losses gas reading during circulation <number> %
+nptperformed flow check for <number> min level droped and fill up with <number> liters
+npt pumped and spotted <number> m<number> hivis lcm pill <number> ppb in the well bore <number> lpm and <number> psi down hole losses  <number> m<number>  <number> m<number>hr no surfaces losses
+npt performed flow check for <number> min level droped and fill up with <number> lts
+npt  pooh from <number> m to <number> m recorded volumen with trip tank measured each stand in the derrick down hole losses  <number> m<number>  <number> m<number>hr surfaces losses  <number> m<number>  <number> m<number>hr
+npt performed flow check for <number> min level droped and fill up with <number> lts 
+npt performed flow check for <number> min level droped and fill up with <number> lts <number>hr
+npt  pooh from <number> m to surface recorded volumen with trip tank measured each stand in the derrick down hole losses  <number> m<number>  <number> m<number>hr surfaces losses  <number> m<number>  <number>hr
+npt cleaned rig floor and performed pjsm prior to rig up wireline surface equipment monitored the well through trip tank down hole losses  <number> m<number>  <number> m<number>hr
+nptrigged up schlumberger equipment and logging tools
+npt rih wireline logging tools pexmsipaitgrspcblvdl from surface to <number> m performed calibration in wireline drawworks brake due found brake over tight monitored the well through trip tank down hole losses  <number> m<number>  <number> m<number>hr
+while drilling  <number> m after mud transfer into active system observed gain performed flow check well flowing <number> m<number>hr shut the well total gain <number> m<number> mwin <number> sg   mwout <number> sg sicp <number> psi  sidp <number> psi
+circulate reserve mud through choke with <number> sg mud flow rate <number> lpm  spp <number>  <number> psi  cp <number>  <number> psi mwin <number> sg  mwout <number> mud losses <number> m<number>hr  lost this period <number> m<number>
+open bop well flowing <number> m<number>hr mud gain <number> m<number> close bop and circulate through choke flow rate <number> lpm  spp <number>  <number> psi  cp <number>  <number> psi mwin <number> sg  mwout <number> crude oil in mud from well <number>% mud losses <number> m<number>hr lost in this period <number> m<number> 
+shut in well initial sicp <number> psi final sicp <number> psi increasedxxunitmwin active system to <number> sg
+circulate through choke manifold with <number> sg flow rate <number> lpm spp <number> psi cp <number> psi  mwin <number> sg mwout <number> sg crude oil in mud from well <number>%  h<number>s  shaker <number> ppm mud losses <number> m<number>hr lost this period <number> m<number>
+opened bop circulate through flowline  flow rate <number> lpm  spp <number>  <number> psi mwin <number> sg mwout <number> sg crude oil in mud from well <number>% h<number>s  shaker <number> ppm transfering mud unknown gainloss
+performed flow check well flowing closed bop sidpp <number> psi  sicp <number> psi
+circulated through choke while mixing directly into active flowrate <number> lpm spp <number> psi cp <number> psi mwin <number> sg mwout <number> sg crude oil in mud from well <number>%  h<number>s  shaker <number> ppm mud losses <number> m<number>hr  lost in this pedriod <number> m<number> pumped <number> m<number> lcm pill
+opened bop circulate through flow line mixing directly into active flowrate <number>  <number> lpm spp <number> psi mwin <number> sg mwout <number> sg crude oil in mud from well <number>%  h<number>s  shaker <number> ppm mud gain <number> m<number>hr gained this period <number> m<number>
+shut in well initial sicp <number> psi final sicp <number> psi begin building new mud
+circulated through choke record spp and observe for lossesgains flow rate        spp            cp          lossgain     <number> lpm         <number> psi     <number> psi        <number> m<number>hr   <number> lpm         <number> psi     <number> psi        <number> m<number>hr   <number> lpm         <number> psi     <number> psi        <number> m<number>hr mwin <number> sg mwout <number> sg crude oil in mud from well <number>%  h<number>s  shaker <number> ppm
+shut in well begin building new mud observe sicp       time           sicp      <number>        <number> psi      <number>        <number> psi      <number>        <number> psi      <number>        <number> psi      <number>        <number> psi      <number>        <number> psi      <number>        <number> psi      <number>        <number> psi      <number>        <number> psi      <number>        <number> psi      <number>        <number> psibled off through choke through degasser gas flowing for <number> min before reached chokesicp <number> psi
+begin building <number> m<number> sg mudobserve sicp       time           sicp      <number>        <number> psi      <number>        <number> psi      <number>        <number> psi      <number>        <number> psi
+attempted to open float valve and observed increase in sidpp from <number> to <number> psi after pumping <number> sg mud <number> stks <number> m<number> indicator of drill string empty
+started killing the well as follows sicp <number> psi pumped with <number> spm trying to keep drill pipe circulating pressure constant at icp <number> psi but observed cp increasing to <number> psi after the choke fully opened <number>% thick oil returning w  <number> sg shakers overflowing total pumped <number> m<number> lcm stopped the pump sicp <number> psi bypassed returns from poor boy degasser to sand trap  restart circulation with <number> spm but dp pressure slowly increasing from icp after the choke fully open thick oil overflowing sandtrap total pumped <number> m<number> lcm total lcm pumped <number> m<number> stopped the pump keeping casing pressure constant to attempt withxxunitalower kill rate sicp <number> psi connectedxxunitadischarge line from flare line to cuttings pit to receive returns of oil directly to the pit when attempted to pump with new kill rate <number> spm observed sudden increase in dp pressure to <number> psi no communication between drill string and annulus sicp <number> psi
+attempt to pump increased spp  from <number> psi to <number> psi bleed off the same to zero bit nozzles plugged attempt to circulate spp increased to <number> psi and hold for <number> min no success bleed of spp increased spp to <number> psi <number> psi <number> psi and bleed off each attempt no success
+started kill the well with bullheading method pumped new mud <number> sg through kill line as followsstrokes pumped     spm            sicp psi         <number>                          <number>                <number>       <number>                       <number>               <number>       <number>                       <number>               <number>       <number>                       <number>               <number>       <number>                     <number>               <number>       <number>                     <number>               <number>       <number>                     <number>               <number>       <number>                     <number>               <number>       <number>                     <number>               <number>       <number>                     <number>               <number>       <number>                     <number>               <number>note drilling string moved up and down every <number> min drilling string free
+stopped pump and observed sicp sicp initial <number> psi sicp final <number> psi 
+continued to kill the well through the kill line with <number> sg mudstrokes pumped     spm            sicp psi         <number>                   <number>                 <number>          <number>                   <number>                 <number>         <number>                   <number>                 <number>         <number>                   <number>                 <number>         <number>                   <number>                 <number>stop mud pump holding <number> psi in sicptotal volume pumped during bullheading operation <number> m<number> of new mud <number> sgnote drilling string moved up and down every <number> min drilling string free
+well shut in initial sicp <number> psi final sicp <number> psi
+continued to kill the well through the kill line with <number> sg mudstrokes pumped     spm            sicp psi         <number>                   <number>                 <number>         <number>                   <number>                 <number>         <number>                   <number>                 <number>         <number>                   <number>                 <number>         <number>                   <number>                 <number>stop mud pump holding <number> psi in sicptotal volume pumped during bullheading operation <number> m<number> of <number> sg mud note drilling string moved up and down every <number> min drilling string free
+prepared new mud <number> sg observed sicp sicp initial <number> psi sicp final <number> psi 
+started kill the well with bullheading method pumped new mud <number> sg through kill line as followsstrokes pumped     spm            sicp psi         <number>                          <number>                <number>       <number>                       <number>               <number>       <number>                       <number>               <number>       <number>                       <number>               <number>       <number>                     <number>               <number>       <number>                     <number>               <number>       <number>                     <number>               <number>       <number>                     <number>               <number>       <number>                     <number>               <number>       <number>                     <number>               <number>       <number>                     <number>               <number> note drilling string moved up and down every <number> min drilling string free meawhile prepared wireline tools for dummy run to check top of obstruction
+stopped pump and observed sicp sicp initial <number> psi sicp final <number> psi  meanwhile disconnected stand and rack back in monkey board connected tiw and held pjsm with wireline
+continued to kill the well through the kill line with <number> sg mud in progressstrokes pumped     spm            sicp psi         <number>                   <number>                 <number>         <number>                   <number>                 <number>         <number>                   <number>                 <number>         <number>                   <number>                 <number>         <number>                   <number>                 <number> total volume pumped during bullheading operation <number> m<number> of <number> sg mud ru wlbop  xo  <number> x <number> dp single in the mousehole  lifted and connected  <number> x <number> dp pup joint  side entry sub on top of tiw 
+hold pjsm and performed pressure test wireline bop with <number> psi x <number> min and <number> psi x <number> min ok
+run  ccl sinker bar inside drill string free run down to <number> m below is plugged correlated depth with bha and drill pipe tally 
+pjsm prior to make up guns 
+rig up  <number>  enerjet gun ccl  <number> shots  ft  total <number> ft <number> shots  rih from surface to <number> m continue rih
+continued rih <number> enerjet guns to <number> m perforation depth depth is correlated with ccl and bha tally
+closed wireline bop apply <number> psi inside drill string  perforated <number> drill collar  from <number> m<number> m  before perforating spp <number> psi cp <number> psi after perforating  spp <number> psi  cp <number> psi establish circulation with <number>  <number> spm spp increased to <number> psi cp increased to <number> psi and held constant with choke maintain cp <number> psi spp <number>  <number> psi oil  gas cut mud returned to surface  mwin <number> sg mwout <number> sg
+pooh  <number> enerjet gun and continued pumping with <number> spm  mwin <number> sg mwout <number> sg spp dropped suddenly from <number> psi to <number> psi closed choke and continued pumping cp <number> psi spp fluctuated between <number> psi  <number> psi before suddenly dropping to <number> psi and holding drop in active volume stopped mud pump <number> shut down due to washed out relief valve  total drop in active volume <number> m<number> switch to mud pump <number> continue pooh spp fluctuated between <number> psi  <number> psi spp suddenly dropped to <number> psi mud pump shut down due to plugged suction complete pooh wl started mud pump <number> with guns at surface spp increased to <number> psi pump stopped and pressure fell to <number> psi pressure increased to <number> psi mud pumps showing inconsistant performance suspect drill string plugged by lcm left <number> psi trapped in drill string shut down to rd wireline and check pumps total drop in active volume <number> m<number> for complete operation
+rig down <number> enerjet gun and wlbop  xo  <number> x <number> dp single in the mousehole  lifted and connected  <number> x <number> dp pup joint  side entry sub on top of tiw meanwhile troubleshooting both pumps
+mu tds to drill string start pump and observe pressure increase to <number> psi perforations plugged bled off and pressured up again to attempt to unplug without success moved dp up and down every <number> minutes free  decision is taken to make perforations   <number> m one dc higher than the first attempt  
+held pjsm to rig up lubricator and wlbop disconnected top drive mu side entry sub  <number> pup joint  <number> dp single  xo  wlbop in the mousehole lifted and connected on top of tiwnote very slow operation due to very strong windsobserved sicp static <number> psi
+held pjsm with slb wireline pressure test wl bop to <number> psi for <number> min ok
+pick up ccl  sinker bar for dummy run
+run in drill string with ccl  sinker bar tag obstruction at <number> m several attempts to pass no success
+pooh ccl  sinker bar
+pick up perforating tools
+pjsm with slb wl before arming guns all radios  mobile phones  transmitters switched off
+ru perforating tools and wl bop
+run in drill string wireline guns to <number> m
+cont to run in drill string wireline guns to <number> m correlate depth with ccl  bha tally unable to pass below <number> m due to obstruction
+closed wireline bop apply <number> psi inside drill string  perforated <number> drill collar  from <number> m<number> m <number> m from bit <number> shotsft <number>ft total <number> shots before perforating spp <number> psi cp <number> psi after perforating  spp <number> psi  cp <number> psi establish circulation with <number> sg mud at <number> lpm using cement pump spp decreased to <number> psi within <number>min  pooh wireline above hwdp choke closed during entire operation
+continued pumping <number> sg mud at <number> lpm with cement pump pp <number> psi  cp <number> psi meanwhile pooh wireline to <number> m and wait until pumping operation finished total volume pumped <number> m<number>
+continued pumping <number> sg mud at <number> lpm with cement pump pp <number> psi cp <number> psi cementing unit transmision light on decided to continue pumping until displacing lcm out of dp total volume pumped <number> m<number> sidp <number> psi  sicp <number> psi
+stop pumping <number> sg mud to pooh wl to surface and rig down  rigged down wirelines gun and wlbop  xo  <number> x <number> dp single in the mousehole  lifted and connected  <number> x <number> dp pup joint  tiw  side entry sub sidpp <number> psi  sicp <number> psi
+connected top drive and moved string updown free  attempted to circulate with rig pumps and observed pressure increase to <number> psi after starting the pumps suspect perforations plugged
+attempted to unplug perforations by applying pressure with cementing unit inside drillstring  <number> psi <number> psi <number> psi and quickly bled off each stage several attempts not successful
+ru side entry sub on top of tiw and high pressure t to connect lines from cementing unit and one side to wtiness returns from drillpipe connected pup joint and top drive above side entry sub
+bullheaded <number> m<number> of <number> sg mud through the annulus with <number> spm checking for returns through the drill string attempt to reverse circulate to unplug preforations no returns observed from drill string  initial sicp <number> psi  final sicp <number> psi shut in and observe well
+ru slb wireline mu side entry sub  pup joint  <number> jt <number> dp  wireline packoffinitial sicp <number> psifinal sicp <number> psi 
+pjsm with wireline and pressure test wireline pack off to <number> psi for <number> min oksicp <number> psi  <number> psi
+pjsm w slb wireline for perforationssicp <number> psi  <number> psi
+arm and pu <number> enerject guns  ccl w <number> spf for <number> feet total <number> shotssicp <number> psi  <number> psi
+rih enerjet guns  ccl obstruction tagged at <number> m correlate ccl to bha tallysicp <number> psi  <number> psi
+closed wireline bop apply <number> psi inside drill string  perforated <number> hwdp from <number> m <number> m <number> m from bit <number> shotsft <number>ft total <number> shots before perforating spp <number> psi cp <number> psi after perforating  spp <number> psi  cp <number> psi establish circulation with <number> sg mud at <number> lpm using cement pump spp increased to <number> psi bled off pressure and established circulation with <number> lpm and <number> psi begin to pooh wireline to <number> m choke closed during entire operation
+continued pumping <number> sg mud with cement unit at <number> lpm pressure fluctuated between <number>  <number> psi before leveling off at <number> psi opened packoff enough to pull wireline to <number> m continued pumping closed packoff and increased pump rate to <number> lpm pp <number> psi increased pump rate to <number> lpm pp <number> psi cp <number> psi total volume pumped <number> m<number> choke closed during entire operation
+perfs plugged with <number> psi bled off and pressured to attempt to release with no success switched to rig pump to free plug pressured up to <number> psi with rig pump twice plug freesicp <number> psi  <number> psi
+continued pumping <number> sg mud with rig pump through perforated drill string <number> m <number> m flow rate <number>  <number> lpm  spp <number> psi  <number> psi  cp <number>  <number> psi pressure constantly fluctuating <number> times pressure increased to <number> psi shut down pump and pressure released downhole  total volume pumped <number> m<number>  pumped this period <number> m<number> choke closed during entire operation
+pressure increased to <number> psi not releasing attempt to bleed off  and repressurize string no success repeat to <number> <number> and <number> psi on last attempt perfs clearedsicp <number> psi  <number> psi
+continued pumping <number> sg mud with rig pump through perforated drill string <number> m <number> m flow rate <number>  <number> lpm  spp <number> psi  <number> psi  cp <number>  <number> psi pressure constantly fluctuating total volume pumped <number> m<number>  pumped this period <number> m<number> choke closed during entire operation
+continued pumping <number> sg mud with rig pump flow rate <number>  <number> lpm  spp <number> psi  <number> psi  cp <number>  <number> psi pressure constantly fluctuating total volume pumped <number> m<number>  pumped this period <number> m<number> choke closed during entire operation
+continued pumping <number> sg mud with rig pump meanwhile pull out the perforating tools  from <number> m to <number> m flow rate <number>  <number> lpm  spp <number> psi  <number> psi  cp <number>  <number> psi total volume pumped <number> m<number>  pumped this period <number> m<number> choke closed during entire operation mixing <number> m<number> of <number> sg mud observed leak in the wlbop packing element and the cable was pushed to surface decide to stop pumping to rd wireline
+stop pumping to rd wireline pull out perforating tools to surface and break out lubricator mu side entry sub  tiw casing pressure rose to <number> psi while pumps off
+continued pumping <number> sg mud with rig pump through perforated drill string <number> m <number> m flow rate <number> lpm  spp <number> psi  <number> psi  cp <number> psi total volume pumped <number> m<number>  pumped this period <number> m<number> choke closed during entire operation meanwhile rd slb wireline mixing <number> m<number> of <number> sg mud
+break out side entry sub  tiw mu pup joint  tds casing pressure rose to <number> psi while pumps off mixing <number> m<number> of <number> sg mud
+continued pumping <number> sg mud with rig pump through perforated drill string <number> m <number> m flow rate <number> lpm  spp <number>  <number> psi  cp <number> psi total volume pumped <number> m<number>  pumped this period <number> m<number> choke closed during entire operation mixing <number> m<number> of <number> sg mud
+continued pumping <number> sg mud with rig pump through perforated drill string <number> m <number> m flow rate <number> lpm  spp <number>  <number> psi  cp <number> psi total volume pumped <number> m<number>  pumped this period <number> m<number> choke closed during entire operation mixing <number> m<number> of <number> sg mud moved the string up and down every hour free
+continued pumping with <number> sg mud with rig pump through perforated drill string <number> m <number> m stop pumping after <number> m<number> sg mud pumped observe the pressures flow rate <number> lpm  <number> lpm  spp<number>  <number> psi sicpinitial  <number> psi  sicp final at the end of pumping  <number> psi total volume pumped <number> m<number>  pumped this period <number> m<number> choke closed during entire operation moved the string up and down every hour free
+observed pressure stand pipe pressure decreased down to <number> psi with in <number> min sicp stayed constant at <number> psi
+pumped <number> m<number> of <number> sg mud through annulus to kill the well bullheadingpumping pressure gradually decreased while pumping initial <number> m<number> volume then stabilized at <number> psi for the rest <number> m<number> pumping rate  <number> lpm  <number> lpm  pumping pressure <number> psi  <number>  psi  sicpinitial  <number> psi  sicp final at the end of pumping  <number> psi total volume pumped <number> m<number>   choke closed during entire operation
+observed pressure <number> min sicp  <number> psi  sidp  <number> psi
+opened the choke observed no flow performed flow check opened the bop no flow
+attempted to fill up  wellbore to surface with <number> sg mud pumped <number> m<number> of <number> sg mud from kill line not filled pumped <number> m<number> of fresh water  get water at surface the level in annulus continued to drop shutin the well to observe pressures
+after filling with <number> m<number> of water observed level to surface and closed the annular to check for pressurestime           pressure<number> hr           <number> psi assumed the well was killed<number> hr           <number> psi confirmed the influx had not been killed<number> hr           <number> psi <number> hr           <number> psi pressure build up rate decreasing<number> hrs    <number> psi
+bled off  <number> lts to check returns on choke oil and gas no h<number>s bled through choke to waste pit sicp constant while bleeding off communicated this finding to the client
+observed well for <number> hours and sicp increased from <number> to <number> psi  continue mixing mud two cranes to expedite mixing time
+decide to bleed off xxunitavolume that can be measure and check the behavior of sicp bleed <number> lts  attempting to confirm if there was any free gas on surface sicp before bleeding <number> psi  sicp while bleeding <number> psi total time bleeding <number> minutes controlling slowly with manual choke sicp after bleeding immediately increase to <number> psi and within <number> minutes increased to <number> psi  oil water and gas released at surface no h<number>s <number>% oil <number>% water <number> sgright after this second bled off operation observed sidpp increased from <number>  <number> psi drill string filled with <number> sg from previous operation
+observed pressure <number> min while mixing mud sicp  <number>  <number> psi  sidpp  <number> psi
+observed pressure for <number> min while mixing mud sicp  <number>  <number>psi gradually increasing sidpp  <number>psi
+pumped <number> m<number> of <number> sg mud through annulus to kill the well bullheading casing pressure gradually decreased while pumping pumping rate  <number> lpm  <number> lpm  pumping pressure <number>xxunitpsi <number> xxunitpsigradually decreasing sicp initial  <number>xxunitpsi sicp final with pumps on  <number>xxunitpsigradually decreased before leveling off total volume pumped <number>xxunitmthre choke closed during entire operation
+stop pumping and observed pressure for <number> hrs first <number>xxunitminafter pump casing pressure rose from <number>xxunitpsi <number> psi sicp  <number>  <number>xxunitpsi gradually increasing  sidp  <number> psi spp increased from <number>xxunitpsito <number>xxunitpsiduring the <number> hour observation moved the string up  down every hour free continued mixing mud
+bleed off approximately <number> liters from the drill string to determine the fluid in the drill string and found it to be <number>% oil <number>% water and gas with no h<number>s the spp decreased to <number>xxunitpsiduring the sample taking operation moved the string up  down every hour free observed preasures sicp <number>xxunitpsi <number>xxunitpsigradually increasing  sidp <number>  <number> psi
+mixing <number> m<number> of <number> sg mud <number> m<number> of <number> sg mud and <number> m<number> of <number> sg mud for well kill moved dp up and down every hour string free  observe well while shut in sicp <number>xxunitpsi <number> gradually increasing  sidp <number>xxunitpsi <number> psi
+continue mixing <number> m<number> of <number> sg mud <number> m<number> of <number> sg mud and <number> m<number> of <number> sg mud for well kill moved dp up and down every hour string free  observe well while shut in sicp <number>xxunitpsi <number> gradually increasing  sidp <number>xxunitpsi <number> psi changed out liners on mud pump <number> to <number>
+attempt to pump <number> sg mud down drill string pressure immediately rose to <number> psi stopped pump pressure bled to <number> psixxunitin<number> min applied pressure to <number> psi stopped pump pressure bled to <number> psixxunitin<number> min quickly bled off to <number> psi attempted to pressure up string to <number>xxunitpsiand <number>xxunitpsiwith quick bleed offs no success attempt to pressure string to <number>xxunitpsi<number> liner max pressure <number> psi pop off opened at <number> psi sicp <number>xxunitpsi <number>xxunitpsigradually increasing
+attempt to pressure up again pop off valve washed out replaced pop off valve on pump <number> sicp <number>xxunitpsi <number>xxunitpsigradually increasing
+attempt to free perfs by pressuring up and bleeding off pressured up to <number>psi waited for <number> min perssure decreased just <number> psixxunitin<number> min no success pressured up to <number>psi <number> times with subsequent bleed offs no success sicp <number>psi  <number>psi gradually increasing
+preparing mud tanks for bullheading and top up operation transferred <number>sg mud from active system to cement tank with sump pump fill up active system with water for topping up and measuring losses after bullheading
+started bullheading through annulus pumped <number> lts cancelled the operation sicp went down from <number> to <number> psi
+held pjsm before bleed off from choke to trip tankbleed off <number> bled <number> m<number> off to trip tank in <number> minsicp before bleed off  <number> psi sicp during bleeding off  <number> psi sicp after bleed off <number>psisidp <number> psi moved the string up  down every hour free observed sicp pressure for <number> hrs sicp <number>xxunitpsiconstant
+held pjsm before bleed off from choke to trip tankbleed off<number> bled <number> m<number> off to trip tank in <number> minfluid sample properties <number>% oil  <number>% solids  no h<number>ssicp before bleed off <number> psi sicp during bleeding off  <number> psitotal <number>xxunitmthrebled off since <number> amsidp <number> psi moved the string up  down every hour free observed pressure for <number> hrs sicp <number>xxunitpsigradually increasing same choke opening as bleed off <number>
+held pjsm before bleed off from choke to trip tankbleed off<number> bled <number> m<number> off to trip tank in <number> minfluid sample <number>% oil  <number>% water  <number>% solids  no h<number>ssicp before bleed off <number> psi sicp during bleeding off <number> psisicp <number> hrs after bleed <number> psi total <number>xxunitmthrebled off since <number> amsidp <number> psi moved the string up  down every hour free observed pressures for <number> hrs sicp <number>xxunitpsi <number>xxunitpsigradually increasing same choke opening as bleed off <number>
+held pjsm before bleed off from choke to trip tankbleed off<number> bled <number> m<number> off to trip tank in <number> minfluid sample <number>% oil  <number>% water  <number>% solids  no h<number>ssicp before bleed off <number> psi sicp during bleeding off <number> psisicp <number> hrs after bleed <number> psi total <number>xxunitmthrebled off since <number> amsidp <number> psi moved the string up  down every hour free observed pressures sicp <number>xxunitpsi <number>xxunitpsigradually increasing observed compressed gas pushing the liquid out of the trip tank while bleeding off  adjusted choke opening
+held pjsm before bleed off from choke to trip tankbleed off<number> bled <number> m<number> off to trip tank within <number> minfluid composition <number>% oil  <number>% solids  no h<number>ssicp before bleed off <number> psi sicp during bleeding off <number> psisicp <number> hrs after bleed <number> psi total <number>xxunitmthrebled off since <number> amsidp <number> psi moved the string up  down every hour free observed pressures sicp <number>xxunitpsi <number>xxunitpsigradually increasing same choke opening as bleed off <number>  <number>
+conditioned mud for bullheading through the annulusincreased the viscosities of <number> and <number> sg mud to <number> secobserved sicp <number>xxunitpsigradually increasing sidpp  <number>
+held pjsm before bullheading and make up top driveattempted to fill up inside drill string to check fluid levelnot able to top up drill string established circulation through perforations pumped <number> m<number> of <number> mud  <number> lpm sicp decreased from <number> to <number> psi stop pumping of <number> mud while pumping the <number> sg mud into drillstring the spp went from <number> to <number> psi while the sicp continued decreasing to <number> psi the spp then started decreasing gradually to <number> while the sicp started increasing gradually and constantly to <number> psi
+continue pumping <number> sg mud through drill string  <number> lpm to keep the perfs opened while preparing the <number> mudpumped total <number> m<number> of <number> sg mudsicp increased from <number> psi to <number> psi then remained contsantspp <number> psi negative reading
+bullhead <number> m<number> of <number> sg mud through the drill string at <number> m<number>hr increased flow rate in steps from <number> lpm to <number> lpm spp increased from <number> to <number> psi and then decreased to <number> psi by the end of pumpingsicp decreased gradually from <number> psi to <number> psi after pumping <number> m<number>sicp remained constant at <number> psi while pumping the remaining <number> m<number> of the <number> sg
+bullhead with <number> m<number> of <number> sg mud through the kill line down the annulus  <number> lpm  <number> lpmspp increased <number> psisicp decreased from <number> psi to <number> psi after <number> m<number>
+flow check through the choke line  well staticopened the annular bop  observed level dropping in the annulus
+pooh from <number>xxunitmto <number>xxunitmwhile pumping down the annulus  with <number> sg hivis <number> secquart mud at <number> lpm  unable to fill annulusobserved minor obstructions up to <number> mtons op while pooh at <number> m <number> m <number> m <number> <number>  pulled through obstructions without working the string
+continued pooh and rack back <number> bha from <number>xxunitmto surface break out bit  continue pumping into the annulus  with <number> sg hivis mud at <number> lpm  no returns last <number> m of bha plugged with lcm bit dull grade <number>btan<number>pnbha
+visualy inspect annular bop element  ok mu bit sub w float  <number> stands <number> dp  ibop grey valve and rih <number> drill pipe to <number> m continue pumping into the annulus  with <number> sg hivis mud at <number> lpm  no returns
+continued rih <number> drill pipe f <number> m  <number> m continue pumping into the annulus  with <number> sg hivis mud at <number> lpm  no returns fill up every <number> m with <number> m<number> of <number> sg mud the drill string on vacuum pu <number> jts of <number> dpcontinued mixing mud available mud<number> sg lcm hivis  available <number> m<number> current density  <number> sg  more barite required<number> sg hivis  <number> m<number> available  more barite required to keep mixing and pumping into the annulus<number> sg hivis  available <number> m<number> sg  available <number> m<number>
+pumped <number> m<number> of <number> sg mud into the drill string and shut in the wellcontinued mixing mud for barite  cement plugs
+continued mixing mud for barite  cement plugs <number> m<number> of <number> sg hivis lcm pill in progress  more barite required <number> m<number> of <number> hivis clean pill in progress  more barite required move the drill string every <number> hr  free heldxxunitarigsite planning meeting with ipm rmg mi wsv  fod to discuss and finalize the plan for setting barite and cement plugs
+waited on barite <number> big bags required to continue mixing move the drill string every <number> hr  free observed sicp increasing gradually from <number> to <number> psi between <number> to <number> dispatch an apt team to search for missing trucks and assist clearance through checkpoints
+prepared mud for lcm pill barite plug and cement plug <number> m<number> of <number> sg hivis lcm pill mixing <number> m<number> of <number> hivis clean pill mixing <number> m<number> of <number> hi vis mud mixing  from rig <number> m<number> of <number> hi vis mud already prepared move the drill string every <number> hr  free sicp continued to increase gradually from <number> psi to <number> psi
+pumped <number> m<number> of <number> sg hi vis lcm displaced with <number> m<number> of <number> sg hi vis clean mud through drill pipes sicp decreased from <number> psi  <number> psi during first <number> m<number> then stabilized spp decreased from <number> psi  <number> psi during first <number> m<number> then stabilized
+cleaned out all discharge and suction lines prepared <number> m<number> more of <number> sg mud for bull heading through the annulus total <number> sicp <number> psi  <number> psi
+bullhead <number> m<number> of <number> sg mud down the annulus at <number> lpm sicp decreased from <number>  <number> psi after <number> m<number>  pumping pressure <number> psi flow check through the choke line  well static opened annular bop  fluid level not at surface 
+rih oedp to bit depth from <number> m  tagged obstruction at <number> m while pumping down the drill string rack back <number> stand and pick upxxunitasingle joint of <number> dp continue pumping <number> sg mud from kill line down the annulus at <number> m<number>hr
+held pjsm before pumping barite plug w mi swaco ipm well services and rig crew pumping <number> sg mud due to pit configuration from kill line down the annulus at <number> m<number>hr
+mix and spot on bottom <number> m<number> of <number> sg barite plug slurry from cementing unit batch mixer  flow rate <number> lpm  pp <number> psi displace with <number> m<number> of <number> sg hi vis mud flow rate <number> lpm  pp <number>  <number> psi pooh slowly one stand during last <number> m<number> of displacement continue pumping <number> sg mud due to pit configuration from kill line down the annulus at <number> m<number>hr
+pooh <number> stands of <number> dp continue pooh <number> dp continue pumping <number> sg mud from kill line down the annulus at <number> m<number>hr
+continued pooh to <number> m clean cementing unit prepare tanks and batch mixer for cement plug job pump <number> m<number> of <number> hi vis mud down the drill string continue pumping <number> sg mud from kill line down the annulus at <number> m<number>hr
+cleaned batch mixer  pill tank prepare cement water and mud push continued pumping <number> sg hivis mud  <number> lpm into the annulus
+rih with <number> dp from <number> m to tag barite plug tag  <number> m with <number> tons <number> meters of plug in place washed down last two stands with <number> lpmcontinued pumping <number> sg hivis mud  <number> lpm into the annulus
+pjsm w mi swaco well services and rig crew for cement plug continued pumping <number> sg hivis mud  <number> lpm into the annulus
+pressure test lines to <number> psi mix <number> sg cement in batch mixer continued pumping <number> sg hivis mud  <number> lpm into the annulus
+spotted balanced cement plug from <number> m to <number> m pumped <number> m<number> of mudpush ii  <number> m<number> of <number> sg cement slurry  <number> m<number> of <number> sg spacer displaced with <number> m<number> of water total displacement amount is <number> m<number> fr  <number> lpm pressure  <number> psipooh of <number> dp from <number> m to <number> m <number> stands  continued pumping <number> sg hivis mud  <number> lpm into the annulus after breaking out circulating head drill pipe on vacuum
+continued pooh oedp from <number> to <number> m <number> casing shoe  <number> m continued pumping <number> sg hivis mud  <number> lpm into the annulus pumped <number> m<number> of <number> hivis mud into the drill string observed fluid in drillstring while pooh at <number> m
+woc continued pumping <number> sg hivis mud into the annulus  <number> lpm  no returns continued mixing <number> sg hivis mud
+rih from <number> m to <number> m to tag toc pumped <number> m<number> of <number> sg mud into drillstring checked cement sample at surface  not hard enough to tag continued pumping <number> sg hivis mud into the annulus  <number> lpm  no returns continued mixing <number> sg hivis mud
+woc end of string  <number>m continued pumping <number> sg hivis mud into the annulus  <number> lpm  no returns continued mixing <number> sg hivis mud moved the pipe every <number> hr  free
+rih from <number> m to <number> tag tocmake up top drive  <number> m continued rih with circulation to tag toc tagged top of cement  <number> m with <number> mton  ok with circulation  continued mixing <number> sg hivis mud
+pooh drillstring to <number> m continued mixing and pumping <number> sg hivis mud  <number> lpm  no returns
+held pjsm prior to pumping water into annulus continued mixing and pumping <number> sg hivis mud  <number> lpm  no returns
+stopped pumping <number> sg hivis mud into the annulusstarted pumping water into annulus to fill up and to observe the gainlossrecovered return at surface after pumping <number> m<number> of waterpumping rate <number> lpm <number> m<number>hr
+continued pumping water into the annulus from kill line got full return observed <number> m<number> gain in <number> min influx rate <number> m<number>hr
+stopped pumping water into the annulus performed flow check for <number> min the well is flowing very slowlyclose annular bop to observe sicp  sidpp pressuressicp increased from <number>  <number> psi within <number> hrsidp <number> psi moved the drill string every <number> hr
+bled off through choke  <number>l returned oil and mud at gut line sample content <number>% oil  <number>% water  <number>% solids  opened bop and performed flow check well flow increasing sicp before bleeding <number> psi  sicp after bleeding <number> psi
+shut the well in  observed casing pressure moved the drill string every <number> hr      time        sicp     <number>      <number> psi     <number>      <number> psi     <number>      <number> psi     <number>      <number> psi     <number>      <number> psi     <number>      <number> psi     <number>      <number> psi     <number>      <number> psi     <number>      <number> psi
+bled off through choke <number> m<number> to trip tank returned oil and mud no h<number>s observed sample content <number>% oil  <number>% water  <number>% solids  sicp before bleeding <number> psi during bleed off sicp  <number> psi   sicp after bleeding <number> psi moved the drill string every <number> hr
+shut the well in  observed casing pressure moved the drill string every <number> hr      time        sicp     <number>      <number> psi     <number>      <number> psi     <number>      <number> psi     <number>      <number> psi     <number>      <number> psi
+bled off through choke <number> m<number> to trip tank returned oil and mud  no h<number>s sample content <number>% oil  <number>% water  <number>% solids  sicp before bleeding <number> psi during bleed off sicp  <number> psi   sicp after bleeding <number> psimoved the drill string every <number> hr
+shut the well in  observed casing pressure moved the drill string every <number> hr      time        sicp     <number>      <number> psi     <number>      <number> psi     <number>      <number> psi    <number>      <number> psiheld safety stand down meeting  safety meeting attended by ipm management with all rig personnel in the location
+bled off through choke <number> m<number> to trip tank returned oil and mud no h<number>salthough sicp decreased down to <number> psi the well flows at <number> m<number>hrclose the well to flow  sample content <number>% oil  <number>% water  <number>% solids sicp before bleeding <number> psi during bleed off sicp  <number> psi   sicp after bleeding <number> psimoved the drill string every <number> hr
+shut the well in  observed casing pressure moved the drill string every <number> hr      time        sicp     <number>      <number> psi     <number>      <number> psi     <number>      <number> psi
+pumped <number> m<number> of <number> mud through annulus bullheadingopened the choke no flow opened the bop  flow ckeck level is droppingpumped <number> sg mud from kill lne with <number> lpm <number> m<number>hr meanwhile run oedp to <number> m  to circulate <number> sg mud through drill string
+pumped <number> m<number> of  <number> sg mud through drill pipes pp <number> psimeanwhile continued pumping <number> sg highvis mud down to annullus from kill line no returnmoved the string every <number> hr  free
+pooh drill string from <number> m to <number>  m for bullhead cementingstop pumping <number> sg higvis mud down to annulus closed annular bopsicp <number> psi
+waited for fresh water and cementing chemicals for bullhead cementing operation to cure lossesclosed bop observed sicp sicp builded up to <number> psi after <number> hrs
+pumped <number> m<number> of <number> mud through annulus bullheadingopened the choke no flow opened the bop  flow ckeck level is droppingsicp <number> psi with choke open check geoservices sensor calibration sicp <number> psipumped <number> sg mud from kill lne at <number> lpm <number> m<number>hr meanwhile rih to <number> m
+continued rih down to <number> m with <number> oedp 
+spotted <number> m<number> of <number> sg hivis lcm pill from <number> m to <number> m
+pooh <number> oedp from <number> m to <number> m for cementing operationmeanwhile held operation meeting for bull head cementing operationmeanwhile continued pumping <number> sg mud down to annulus
+pumped <number> m<number> of <number> sg higvis lcm pill throuhg dp and displaced with <number> m<number> of <number> mudbop open no return
+pumped down <number> m<number> of <number> sg hivis to annulus from kill line meanwhile made up circulating head and cementing lines held pjsm tested to <number> psi okclosed the annular bop no returns on surface
+closed annular bop and pumped <number> m<number> of fresh water as preflush through drill pipes  prepared and pumped <number> m<number> of <number> sg cement slurry and pumped <number> m<number> of fresh water as spacer continued displacement of cement with <number> m<number> of <number> sg mud 
+pooh one stand and circulate <number> m<number> of <number> sg mud through drill pipe begin to pooh opened bopand observed level out of sight pumped <number> sg mud down annulus
+pooh oedp from <number> m to surface continuously pumped <number> sg mud down the annulus no returns
+ld string stabilizers and <number> x <number> drill collars plugged with lcm continued pumping <number> sg hivis mud  <number> lpm no returns
+ld <number> x perforated <number> drill collar <number> x plugged <number> drill collar attempted to flush drill collar with <number> psi no success two usable <number> drill collars in rotary continued pumping <number> sg hivis mud  <number> lpm no returns
+rack back <number> drill collars pu plug tester and testing assembly to test shear rams continued pumping <number> sg hivis mud  <number> lpm no returns
+mu <number> tricone bit without nozzles  <number> x <number> dcs  jar  <number> x <number> dc  <number> x <number> dcs  <number> hwdp lay down <number> x perforated hwdp pu new <number> hwdp continued pumping <number> sg hivis mud  <number> lpm no returns
+seeing returns while running in hole flow check hole full fluid level falling checked trip tank mud weight <number> sg due to open valve on mud tanks during transfer filled trip tank with <number> sg mud and continued to fill annulus at <number> lpm
+rih from <number> m to <number> m continued pumping <number> sg hivis mud  <number> lpm recovering some returns only while running in hole hole still losing
+circulated at <number> m with <number> sg fr <number> lpm spp <number> psi recovering returns and partial losses <number> m<number>hr
+continued to rih from <number> m to <number> m recovering some returns only while running in hole hole still losing
+wash down from <number> m to  <number> m fr <number> lpm spp <number> psi mud sg <number> no obstructions observed top of cement plug not detected  washing down asxxunitaprecaution due to bullheading cement job posibility to tag cement deeperrecovering some returns  partial losses <number> m<number>hr
+continue to wash down from <number> m to<number> m fr <number> lpm spp <number> psi tag top of cement   <number> m no obstructions observed washing down asxxunitaprecaution due to bullheading cement job posibility to tag cement deepercirculating with <number> sg mud partial loss loss rate  <number> m<number>hr
+drill out cement with <number> bit from <number> m to <number> m with <number> sg mud with partial losses <number> m<number>hr to <number> m<number>hr spotted <number> m<number> of lcm  <number> m<number>  <number> m<number>  <number> m<number> flow rate <number> lpm spp <number> psi wob <number>  <number> ton <number> rpm trq <number> lbft average rop <number> mhr average on bottom rop <number> mhr
+circulate hole clean  flowrate <number> lpm  spp <number> psi mud losses <number> m<number>  hr  lost this period <number> m<number> m<number> hi vis mud lost over shakers
+pooh from <number> m to <number> m continously filling up with <number> sg mud mud losses <number> m<number>hr
+flow check at shoe fluid level falling slowly perform kick drill
+pooh from <number> m to surface by ld <number> dc and bit sub bit dull grading <number>wtaeinotd continuously filling up with <number> sg mud mud losses <number> m<number>hr
+conducted inflow test by closing shear rams and opening well up to kill line observed rapid <number>bbl gain closed well in kill line pressure rapidly stabilised at <number>psi repeated test  <number>bbl gain pressure stabilised at <number>psi repeated test  further <number>bbls gain before flow stopped total influx <number>bbls zero pressure 
+displaced choke line to seawater and repeated inflow test  <number>bbl gain before flow stopped
+flowchecked well via choke line  static
+prepared <number>bbls <number>ppg mudxxunitinsurface pits continued flowcheck via choke line  static
+displaced riser to <number>ppg mud via boost with well isolated opened well and flowchecked  initial <number>bbl loss becoming stable
+rih from <number>m to <number>m <number>bbl loss over trip flowcheck  static
+closed annular and pumped <number>ppg mud via boost line until <number>ppg mud above bop displaced out of riser
+opened annular and displaced <number>bbls <number>ppg mud down string closed annular and displaced <number>ppg mud out of riser opened annular and completed circulation via string and boost flowchecked  static
+circulated at <number>gpm with <number>ppg mud until <number>ppg above bop increased rate using boost and continued 
+displaced well to <number>ppg mud increased rate using boost once <number>ppg above bop no losses 
+flowchecked  static displaced choke and kill lines to <number>ppg mud took choke kill  string scrs 
+closed wellxxunitin kill line pressure increased to <number>psixxunitin<number>mins still slowly increasing completed displacing riser 
+opened ibop and monitored pressures  kill line reduced to <number>psi then increased to <number>psi spp increased to <number>psi 
+bled back <number>bbls into mini trip tank flow rate reduced rapidly toxxunitaslow gain closed wellxxunitinand monitored pressures  
+continued monitoring pressures  kl increased from <number>  <number>psi  spp increased from <number>  <number>psi
+bled back <number>bbls into trip tank displaced well from <number>ppg to <number>ppg mud through fully open chokekill lines
+closed well in monitored pressures  casing <number>psi spp constant at <number>psi commenced displacing riser to <number>ppg mud
+closed well in monitored pressures  casing <number>psi spp <number>psixxunitin<number>hrs completed displacing riser to <number>ppg mud
+completed displacing well from <number>ppg to <number>ppg through fully open chokekill lines no losses
+closed well in monitored pressures  casing <number>psi spp constant at <number>psi no changexxunitin<number>hrs commenced displacing 
+flowchecked well through choke line to mini trip tank  static completed displacing riser to <number>ppg via boost
+closedxxunitinwell opened gas relief valve and flowchecked well bypassing closed annular  static
+completed flowcheck as above  static flushed bop via chokekill line max gas <number>% opened annular and 
+closed annular and circulated bottoms up through fully open chokekill lines <number>% gas peak  mud condition normal
+closed wellxxunitinand monitored pressures drill pipe increased to <number>psi choke pressure increased to <number>psi both 
+bled off pressure  initial flow <number>bbls then <number>bbls over <number>mins into mini trip tank
+continued flow check total <number>bbls bled into mini trip tank
+closed wellxxunitinand monitored pressures drill pipe increased to <number>psi choke pressure increased to <number>psi slightly
+monitored pressures drill pipe increased from <number>psi to <number>psi choke increased from <number>psi to <number>psi commenced 
+bled off <number>bbls to mini trip tank opened annular and confirmed string free flowchecked on main trip tank  <number>bbl gain
+closedxxunitinwell and monitored pressures no pressure on drill pipe <number>psi on choke line consistent with <number>bbl gain
+circulated bottoms up through fully open chokekill lines mas gas <number>% es decreased from <number> to <number> mud weight
+shutxxunitinwell and monitored pressures note stack wb sensor nonoperational sidpp  <number>psi sicp  <number>psi 
+circulated kick out with driller method <number>ppg <number>spm <number> bpm returns taken up both choke and kill line to
+monitor shutxxunitinpressures pressures built up to sidpp  <number>psi sicp  <number>psi geoservices sicp  <number>psi
+attempted to circulate with <number>spm <number>bpm pumped <number> bbl's observed no returns varied choke observed no change
+confirmed mud weightxxunitinriser required to kill well <number>ppg emw on bottom <number>ppg mud engineer confirmed 
+circulated riser at <number>spm <number>gpm via boost line weighted up systemxxunitinstages 
+continued to increase riser weight to <number>ppg increased flow rate to <number>gpm <number>spm
+bled off <number>bbl's from annulus sicp <number>psi sidpp <number>psi  while bleeding off observed pressures 
+displaced kill line to <number>ppg mud shutxxunitinand observe sidpp <number>psi sicp <number>psi bled off <number>bbl <number>psi 
+flushed surface lines to <number>ppg lined up annulus and bullheaded <number>bbl's mud <number>bpm ann p <number>psi
+bullheaded drillstring with <number>bbl's <number>ppg mud at <number>bpm circulating pressures dp <number>psi final dp <number>psi no 
+flushed stack choke and kill lines to <number>ppg mud flushed gas relief line with <number>ppg max gas <number>% from 
+opened well and flow checked  <number>mins removed stand from above table and installed working stand with tiw valve
+extended flow check well observed to be flowing <number>bbl'shr shutxxunitinwell
+flushed choke and kill manifold to <number>ppg mud flushed kill line across all bop lines and up choke to <number>ppg 
+bullheaded <number>bbls <number>ppg mud at <number>bpm into annulus sidpp  <number>psi sicp  <number>psi
+flow checked well on mini tt  ok opened well and observed well on mini tt <number>  <number>xxunitbblhrflow
+pooh from <number>m to <number>m well appeared to be swabbing filled dp with <number>ppg mud 
+extended flow check well appeared to be ballooning  from dp fill with <number>ppg initial flow <number>bbl'shr reducing to 
+pooh from <number>m to <number>m observed <number>klb's overpull at <number>m pooh at <number>mins  stand to reduce swab effect 
+flow checked well  ok boosted riser for <number>minsxxunitinorder to condition <number>ppg mud flushed choke and kill lines to 
+pooh from <number>m to <number>m speed restricted <number>mins  stand every <number>hrs flushed <number> bbl's on <number>ppg into riser
+continued pooh from <number>m to <number>m speed restricted <number>minsstand observed tt lost rate slowly increasing
+continued pooh from <number>m to surface remove ra source broke off bit soft broke anadrill tools and moved
+gas observed on rov sonar after connection worked string while monitoring gas
+started displacing to <number>ppg wbm at <number>m
+at <number>m observed gas on rov sonar flow checked with rov small gas bubbles at wellhead
+at <number>m <number>m lag depth observed gas at the sonar torque increased to <number>k
+observed gas on sonar combined with erratic torque worked string multiple times until gas depletion 
+flowchecked  gain observed <number>bblsxxunitin<number>mins closed wellxxunitinon lower annular
+well shutxxunitin no pressure build up at wellhead gauge trip tank continued to gain at same rate investigated gain  
+closed wellxxunitinon lower annular and monitored pressures <number>psi sidpp <number>psi sicp no changexxunitinwellhead pressure 
+opened annular and circulated conventionally until influx <number>m below bop stack 
+closed lower annular commenced circulating down string and up both chokekill lines <number>gpm <number>psi
+completed circulating influx to surface through the choke and kill lines with the lower annular closed
+displaced well from <number>ppg to <number>ppg mud flow check  static took scrs
+displaced influx to <number>m below bop while increasing mud weight from <number>ppg to <number>ppg
+closed lower annular and circulated influx to surface via choke and kill lines with <number>ppg mud 
+opened well up and completed displacement to <number>ppg mud flow check  static
+npt rih <number> oedp from surface to <number>m perform kick drill while rih
+npt circulate  kill well wash down last stand at <number>m circulate w <number>lpm through fully open choke expecting h<number>s same time increasexxunitmwin to <number>sg recieve h<number>sxxunitinexcess of <number>ppm for <number>min w max pick <number>ppm audable alarm activated all personnel of location collected at master point  good result reroute from poor boy degasser to flare line and dump <number> of mud containing h<number>sxxunitinexcess of <number>ppm reroute to normal mode via flow line once h<number>s  <number>ppm increasexxunitmwto <number>sg and circulate untilxxunitmwin  out same <number>h losses
+npt flow check observe loss through bell nipple stablized at well head level
+npt pooh from <number>m to surface flow check at <number> casing shoe flow check at last two stands  flow check at surface <number>hr downhole losses
+worked the string while pumping at <number>gpm lost <number>bbls initial rate was <number>bblshr reduced to <number>bblshr
+pumped <number>bbls of hivis conditioned and circulated well clean using <number>gpmcontinued dusting with barite to control weight at <number>ppg and lcm to control losses when going sidewaysincreased pump from <number>gpm to <number>gpm in <number>gpm incrementsxxunitinattempt to control gains totalling of <number>bbls gain rate of <number> to <number>bblshr
+well shut in monitored pressures  sidpp <number>psi sicp <number>psi required kill mud weight  <number>ppg 
+commenced well kill with wait and weight method
+continued with well kill
+displaced kill line opened gas bleed valve and continued to displace ck line to <number>ppg flushed gas from below
+opened well up and broke circulation worked string free  slack off <number>klbs overpull <number>klbs while working torque
+flow checked well <number>bbls gain every <number>mins 
+circulated bottoms up max gas <number>% decreasing to <number>%  mud weight <number>ppg
+circulated mud weight to <number>ppg bottoms up gas from flow check <number>% decreasing to <number>%
+circulated mud weight to <number>ppg bottoms up gas from flow check  <number>% decreasing to <number>% 
+continued to circulate until mud weight even at <number>ppg <number>gpm ecd <number>ppge
+flow checked well  <number>bbl gain from <number>  <number>
+flow checked well  <number>bbl gain from <number>   <number>bblshr average trend decreasing
+circulated bottoms up <number>gpm ecd <number> ppg gas from bop <number>% gas from shoe <number>%  max gas from 
+continued to circulate until mud weight even at <number>ppg reducing gpm progressively to maintain ecd at <number>ppg
+flow checked well   <number> bbls gain <number>hrs  <number>hrs
+circulated bottoms up with <number>gpm ecd  <number>ppg max gas <number>%
+pumped ooh from <number>m to <number>m <number>gpm <number> rpm <number>mins  stand no hole problems 
+continued to increasexxunitmwto <number>ppg 
+flow checked well   total gain from <number>  <number>  <number>bbls
+increased mud weight to <number>ppg <number>gpm <number> rpm max gas from bottom  <number>%
+pumped ooh from <number>m to <number>m <number>gpm <number> rpm <number> mins  stand
+continued to pump ooh from <number>m to <number>m <number>gpm <number> rpm <number> mins  stand 
+circulate bottoms up from <number>m
+flow checked well  total gain from <number>  <number>  <number>bbls
+observedxxunita<number>xxunitbblgain into active system stopped drilling  flowchecked <number> bbls returns rapidly to trip tank 
+observed increasexxunitinflow show flowchecked  <number>bbl gainxxunitin<number>mins shutxxunitinwell and monitored pressures
+well shut in continued monitoring pressures while completing mixing of <number>ppg mud
+commenced displacing well to <number>ppg mud through choke 
+closedxxunitinwell and monitored pressures 
+brought pump up to kill speed <number>spm dp pressure increased from <number>psi to <number>psi fluctuating choke remained 
+set balanced heavy mud pill with <number>bbls <number>ppg <number>ppb mediumfine lcm followed by <number>bbls <number>ppg mud 
+flowchecked well with fully open choke initial gain <number>bblshr reducing to constant <number>bblshr total gain  <number>bbls
+closedxxunitinwell and monitored pressures no pressure observed on dp choke pressure increased to <number>psi where it 
+continued monitoring pressures with well shut in choke stable at <number>psi for <number>mins before climbing to <number>psi
+flowchecked well through fully open choke gain stabilised at <number>bblshr for <number>hrs before increasing to <number>bblshr
+closedxxunitinwell and monitored pressures no pressure observed on dp choke pressure increased atxxunitafaster rate
+pumped <number>bbls <number>ppg mud down string to confirm communication with annulus  kill gauge increased from <number>psi
+closed lower pipe rams and flushed choke and kill lines with <number>ppg mud 
+opened lower pipe rams and monitored pressures with well still shutxxunitinon lower annular choke <number>psi kill <number>psi 
+isolated choke manifold and pressure tested chokekill gauges to confirm gauge calibration
+opened lower pipe rams and monitored pressures with well shut in choke <number>psi dp <number>psi
+closed lower pipe rams and flushed choke and kill lines with <number>ppg mud with well isolated opened lower pipe rams
+bullheaded cased hole volume <number>bbls <number>ppg into well  
+monitored pressures  choke <number>psi dp <number>psi bled off <number>bbls to trip tank closedxxunitin choke pressure increased to
+bullheaded additional <number>bbls <number>ppg into well displaced riser to <number>ppg mud via boost line
+bullheaded additional <number>bbls <number>ppg into well total volume bullheaded <number>bbls 
+continued monitoring pressures with well shut in choke pressure stable at <number>psi prepared <number>bbls <number>ppg mud
+monitored pressures  chokekill line pressure <number>psi dp <number>psi
+opened choke line to atmosphere for <number>mins closed lower killchoke failsafes flushed through upper chokekill 
+flushed bop via choke and kill lines to confirm no gas below annular max gas <number>%
+opened annular and flowchecked well via riser initial flow rate <number>bblshr increasing to <number>bblshr total gain <number>bbls
+closed lower annular and monitored pressures sidpp <number>psi sicp <number>psi
+displaced chokekill lines to <number>ppg mud monitored pressures  sidpp <number>psi sicp <number>psi while displacing riser
+opened lower annular and observed loss rate <number>bblshr 
+pooh <number> stands from <number>m to <number>m observed losses of <number>bblsxxunitin<number>mins closed lower annular
+prepared to top fill riser with base oil
+bypassed closed annular via gas relief valve and choke failsafes chokekill isolation valves closed and monitored
+opened annular  observed losses of <number>bblsxxunitin<number>mins attempted to pooh <number> stand  observed <number>bbl gainxxunitin<number>mins 
+flowchecked well bypasing closed annular <number>bbl gainxxunitin<number>mins closed in commenced mixing <number>ppg mud
+displaced kill line to <number>ppg mud 
+monitored pressures  kill line pressure stabilised instantly at <number>psi mixed <number>bbls <number>ppg mud
+monitored pressures  zero pressure on kill and choke opened choke line to trip tank  no flow
+confirmed choke line fullno losses
+displaced riser and chokeboost line to <number>ppg mud
+flowchecked well bypasing closed annular <number>bbl gainxxunitin<number>mins at increasing rate closedxxunitinand observed no pressure 
+stripped pipe through upper annular from <number>m to <number>m holexxunitingood condition filled well with theoretical
+monitored pressures  no pressure build up observed flowchecked well bypasing closed annular  <number>bbl gainxxunitin<number>mins 
+monitored pressures  no build up observed confirmed no utubing between choke line and riser
+stripped pipe through upper annular from <number>m to <number>m filled well with theoretical closed end pipe displacment 
+monitor pressures <number>psi on choke line kill line closed
+open up kill line and monitor on both choke and kill line
+bleedoff <number>xxunitpsichoke line pressure 
+displace kill and choke lines to <number> ppg mud
+open well and monitor pressures on choke and kill line
+pump via kill line with <number> ppg at <number> spm <number> gpm
+closein well and monitor pressures on choke and kill line
+closein well and monitor pressures on choke and kill line increase active mudweight to <number> ppg
+lineup to circulate kill and choke lines to <number> ppg mud
+closein and monitor well on choke line
+line well up to trip tank via riser to main well via gas relief line and observe well
+closexxunitinand observe well
+displaced riser from <number>ppg to <number>ppg mud 
+flushed choke and kill lines with fresh <number>ppg mud 
+commenced displacing riser from <number>ppg mud to <number>ppg mudxxunitinstages 
+bullheaded <number>bbls <number>ppg into well via kill line at <number>gpm <number>psi
+flowchecked well to mini trip tank via choke line with <number>ppg mud  <number>bbl gainxxunitin<number>mins
+continued to displace <number>% of riser to <number> ppg mud <number>bbls pumped
+closedin well and continued to displace riser to <number> ppg 
+riser displaced to <number> ppg mud
+weighup riser volume mudweight to <number> ppg
+displaced riser to <number> ppg mudxxunitinstages <number>% <number> bbl <number>% <number> bbl <number>% <number>% <number> bbl
+lineup and pump <number>xxunitbblof <number> ppg mud down kill line and into riser pumping above closed upper rams ¨c 
+flowcheck with effective <number> ppg riser mudweight via gas relief line ?<number>xxunitbblgainxxunitin<number> minutes <number> bblhr
+open bop¡¯s and flowcheck 
+pump <number>xxunitbblof <number> ppg mud into riser via boost line
+line well up to trip tank and open bops
+choke line pressure  <number> psi unable to bleedoff choke line pressure pressure returns to <number>xxunitpsiafter bleeding
+pooh from <number>m to <number>m gain reduced from <number>bblsstand to <number>bblsstand for the first <number> stands then continued 
+monitored pressures sicp <number>psi sidpp <number>psi plugged
+bullhead <number>xxunitbblof <number> ppg below bop¡¯s via kill line flowchecked  <number>bbl gainxxunitin<number>mins
+displaced riser from <number>ppg to <number>ppg mudxxunitinstages
+isolated well and displaced choke and kill lines from <number>ppg to <number>ppg mud
+bullhead <number>bbls <number>ppg mud into well via kill line theoretical increasexxunitinpressure <number>psi
+flowchecked  <number>bbl lossxxunitin<number>mins increasing trend via the gas relief line
+flowchecked after <number>mins  <number>bbl lossxxunitin<number>mins increasing trend
+observe well flowchecking main well to trip tank
+flowcheck well via gas relief line <number>xxunitbblhrgain closein well choke line pressure  <number> psi kill line closed 
+flowcheck well via gas relief line <number> bbls lostxxunitin<number> minute
+commence filling riser annulus with base oil initial loss rate  <number>xxunitbblhr decreasing to <number>xxunitbblhraverage
+flowcheck well via gas relief line ¨c well stable
+shutin well
+open bops and flowcheck <number>xxunitbblhrtook <number>xxunitbblback
+lineup and pump <number>xxunitbblof <number> ppg mud into riser via boost line
+flowcheck well via gas relief line well static
+open bops and observe well on trip tank <number>xxunitbblhrgain pumped <number>bbls <number>ppg into riser via boost line 
+pooh from <number>m to <number>m total <number>bbls lost before bit above bop and shear rams closed pumped slug  string clear
+made up bha <number> from surface to <number>m 
+continued rih from <number>m to <number>m
+continued rih from <number>m to <number>m precautionary washed down from <number>m to tag toc at <number>m confirmed
+closed annular and displaced annulus ck lines to <number>ppg mud via drill string returns up both ck lines <number>gpm 
+drilled cement washedrotated through <number>m of cement before weight observed continued to drill cement to <number>m
+observed dynamic losses <number> bbl'shr followed by gain at same rate flowchecked well  <number>bbl's gainedxxunitin<number>mins 
+attempted to circulate using drillers method at <number>spm after pumping <number>bbl's observed no returns 
+bullheaded <number>bbl's of <number>ppg mud down annulus at <number>bpm <number>psi chkxxunitp<number>psi dpxxunitp <number>psi 
+observed pressures chkxxunitp <number>psi increasing to <number>psi dp  <number>psi 
+stripped back from <number>m to <number>m 
+installed cementing head installed cementing hose pressure tested hose <number>psi  <number>mins performed infectivity test 
+confirmed with town cementing programme 
+dressed off soft cement from <number>m to <number>m <number>gpm <number>psi
+circulated bottoms up max gas <number>% flow checked well
+circulated bottoms up  no gas 
+monitored well on trip tank while cleaning surface pits for changing well over to wbm 
+continued to monitor well on trip tank while cleaning surface pits once pits cleaned moved wbm from reserve to 
+displaced ckb lines to <number>ppg water based mud displaced well via drillstring to <number>ppg water based mud 
+lined up circulating system flushed surface equipment filled trip tank and circulated to condition mud to <number>ppg 
+drilled cement from <number>m  cement very soft requiring <number>klb's wob to drill at <number>mhr dynamic losses observed 
+bullheaded <number> bbl's <number>ppg mud down annulus kill line pressure <number>psi <number>bpm
+stripped back from <number>m to <number>m
+drilled cement from <number>m to <number>m <number> klb's <number>gpm <number>rpm no cement observed below shoe cleaned 
+circulated bottoms up at <number>gpm observed <number>bbl gain after pumping <number>bbl's flow checked well  <number>bbl's gained 
+circulated bottoms up through choke line at <number>spm <number>% returns at <number>spm <number>% returns 
+continued circulating while attempting to reduce gas level and circulate mud to <number>ppg gas level <number>% 
+as mud weight returns increased to <number>ppg loss rate increased to   <number>% at <number>gpm <number>spm attempted
+circulating system becoming plugged with fish eyes stopped circulating closed test rams flushed surface lines and
+flow checked well through choke line well flowing opened bop's and flow checked well well flowing at <number>bbl'shr
+attempted to strip ooh observed <number>klb's overpull attempted to pump down kill line and confirm communication 
+stripped ooh from <number>m to <number>m installed cementing head and hose 
+bled off pressure and flow checked well on choke line  stable reconfirmed flow check via gas relief line  stable 
+confirmed string free and circulated bottoms up shakers unable to handle <number>gpm observed returns at <number>ppg 
+stopped circulating to build more mud flow check well static 
+circulated and conditioned mud to <number>ppg <number>gpm <number>psi
+rih from <number>m to <number>m <number>gpm <number>rpm tagged resistance with <number>klb's picked up and increased 
+continued to drill through cement from <number>m to <number>mxxunitmw<number>ppg washed with no resistance from <number>m
+circulated and conditioned mudxxunitinorder to clean hole returns cement  degraded mud 
+drilled firm cement <number> klb's from <number>m to <number>m washed with no resistance from <number>m to <number>gpm<number>rpm
+flow checked well <number>mins  ok circulated bottoms up <number>gpm max gas <number>% 
+washed through cement <number>gpm <number>rpm from <number>m to <number>m observed <number>bbl'shr losses equivalent observed 
+stripped ooh from <number>m observed string stuck worked through pack off <number> kftlb's rotation to work string free
+before makingxxunitaconnection at <number>m driller picked up stringxxunitinorder to take an mwd survey pumps off rov
+kill well operation using wait  weight method in progress pump <number> pcf kill mud at <number> spm  following step down chart in the kill sheet slow circulation pressure <number> psi slow circulation rate <number> spm sidpp <number> psi sicp <number> psi initial circulation pressure <number> psi final circulation pressure <number> psixxunitmwin  <number> pcf no down hole losses

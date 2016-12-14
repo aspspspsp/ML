@@ -1,0 +1,710 @@
+npt rih with oedp from surface to bottom at <number>m  down hole losses <number> m<number>hr
+npt circulated to establish dynamic losses rate  flow rate <number> lpm spp <number>  <number> psi down hole losses <number> m<number>hr 
+npt spotted <number> high visc lcm pill flow rate <number> lpm spp <number> psi rpm <number>  down hole losses <number> m<number>hr 
+npt pooh from <number> m to <number> m above high visc lcm and gave lcm soaking time theoretical fill up <number> m<number> actual fill up <number> m<number> down hole losses <number> m<number>hr 
+npt waited for the lcm soaking time static losses <number> m<number>hr 
+npt waited for the lcm pill soaking timestatic losses <number> m<number>hr 
+npt rih with oedp from <number>m to bottom at <number> mdown hole losses <number> m<number>hr 
+npt circulated to establish dynamic losses rate  flow rate <number> lpm spp <number>  <number> psi down hole losses <number> m<number>hr  observed losses rate increased to <number>  <number> m<number>hr when the high visc lcm came out to shakers and shaker started to overflow reduced flow rate to <number> lpmincreased flow rate <number> lpm after lcm is out of the shaker down hole losses <number> m<number>hr 
+npt circulated to establish dynamic losses rate  flow rate <number> lpm spp <number>  <number> psi down hole losses <number> m<number>hr meanwhile mixed fluid for cement slurry 
+npt set cement plug flushed the line and pressured test to <number> psi by <number> min ok pumped <number> bbl <number> m<number> fresh water ahead  <number>  <number> bpm mix  pump on fly <number> bbl <number> m<number> of cement slurry <number> sg  <number>  <number> bpm during pumping cement  observed not losses  pumped <number> bbl <number> m<number> of fresh water behind  <number>  <number> bpm displaced with <number> bbl <number> m<number> of mud <number> sg <number>  <number> bpm      <number> bbl of under displacement during pumping cement  observed losses  <number>note reciprocated the drill string at least <number>m while pumping and displacing the cement 
+npt pooh <number> oedp  total <number> std from <number> m to <number>mtheoretical displacement  <number> m<number>  actual hole fill  <number> m<number>  downhole losses  <number> m<number>
+npt circulated one cycle  flow rate <number> lpm spp <number> psi down hole losses <number> m<number>hr observed cement on surface dumped <number> m<number> of contaminate cement 
+npt pooh <number> oedp stands from <number> m to <number> mtheoretical displacement  <number> m<number>  actual hole fill  <number> m<number>  downhole losses  <number> m<number>hr 
+npt performed flow check  static losses <number> m<number>hr 
+npt pooh oedp from <number>m to surface theoretical displacement  <number> m<number>  actual hole fill  <number> m<number>  downhole losses  <number> m<number>hr 
+npt pu racked back <number> drill collars with bit  bit sub stand bo bit bit sub and recovered totco survey barrel bit dull grading <number>btnxicttd inclination <number> deg at <number>m  
+npt mu same used <number> pdc bit with bha and rih to <number> m theoretical displacement  <number> m<number>  actual displacementl  <number> m<number>downhole losses <number> m<number>hr
+npt rih <number>  dp from <number> m to <number> mtheoretical displacement <number> m<number>  actual displacementl  <number> m<number>no downhole losses filled up string every <number> stand
+npt performed flow check well static
+services tdsflow rate <number> lmn spp  <number> psino downhole losses
+npt circulated flow rate <number> lpm spp  <number> psi no downhole lossesnote  observed cement sample in oven at <number> deg centigrade temp hard
+npt rih <number>  dp from <number> m to <number> mtheoretical displacement  <number> m<number>  actual displacementl  <number> m<number>no downhole losses
+npt wash down from <number> m to tag top of cement at <number> m  with maximum <number> tons slack of weight  down hole losses <number> m<number>hr 
+npt drilled soft cement from <number> m to <number> m flow rate <number>  <number> lpm spp <number>  <number> psi rpm <number> trq <number>  <number> kftlbs wob <number> tons average rop  <number> mhrs rop on bottom   <number> mhrs observed on shaker <number>% of cement pumped <number> high visc in the middle of each stand   observed shakers overflow due to plugging of shaker screens with soft cement changed two shakers screens with <number> mesh size to avoid overflow of mud down hole losses <number> m<number>hr   
+npt drilled soft cement from <number> m to <number> m flow rate <number>  <number> lpm spp <number>  <number> psi rpm <number> trq <number>  <number> kftlbs wob <number> tons average rop  <number> mhrs rop on bottom   <number> mhrs pumped <number> high visc in the middle of each stand   observed on shaker <number>% of cement observed shakers overflow due to plugging of shaker screens with soft cement  down hole losses <number> m<number>hr  note bit krev daily  cumm  <number>  <number> rotating hours<number> sstab sn <number>h today hrs <number> hrs cum hrs <number> hrs <number> sstab sn <number>h today hrs <number> hrs cum hrs <number> hrs <number> jar sn <number>h today hrs <number>  cum hrs <number> hrs  
+npt drilled soft cement from <number> m to <number> m flow rate <number>  <number> lpm spp <number>  <number> psi rpm <number> trq <number>  <number> kftlbs wob <number> tons average rop  <number> mhrs rop on bottom   <number> mhrs pumped <number> high visc in the middle of each stand  observed on shaker <number>% of cement  down hole losses <number> m<number>hr  
+npt drilled cement from <number> m to <number> m flow rate  <number> lpm  spp  <number> psi wob  <number> tons rpm  <number> torq  <number>xxunitkftlbsxxunitmwin  <number> sgxxunitmwout  <number> sg average rop  <number> mhrs rop on bottom  <number> mhrslast sample moderate hard cement <number>% down hole losses  <number> m<number> hr
+npt pumped <number> m<number> hivis and circulated one cycleflow <number> lpm spp  <number> psidown hole losses  <number> m<number>hr after circulate one cycle observed too much cement in shaker continue circulating until shaker is clean cleaned possum belly and shaker box ok last sample moderate hard cement <number>%
+npt performed flow check static losses <number> m<number>hr
+npt spotted <number> m<number> high visc lcm across hartha formation flow rate <number> lpm spp <number> psi rpm <number> trq <number> kftlbs  down hole losses <number> m<number>hr 
+npt pooh from <number> m to <number> m observed tight spot at <number> m  worked on string with maximum <number>  <number> tons over pull to pass through re passed the point  free  theoretical hole fill up <number> m<number> actual hole fill up <number> m<number>  down hole losses <number> m<number>hr 
+npt performed flow check  static losses at <number> m<number>hr 
+npt spotted <number> high visc lcm across dammam formation flow rate <number> lpm spp <number> psi rpm <number> trq <number> kftlbs  down hole losses <number> m<number>hr 
+npt pooh from <number> m to <number>m inside <number> casing shoe theoretical hole fill up <number> m<number> actual hole fill up <number> m<number>  down hole losses <number> m<number>hr  
+npt slip <number> m and cut <number> m drilling line meanwhile continue to monitor well via trip tank  reset acs and crown o matic system and function tested the same calibrated geoservice hook height and hook load sensors down hole losses <number> m<number>hr    
+npt pooh from <number>m to <number>m theoretical hole fill <number> m<number> actual hole fill <number> m<number>  down hole loss <number> m<number>hr note bit krev daily  cumm  <number>  <number> rotating hours<number> sstab sn <number>h today hrs <number> hrs cum hrs <number> hrs <number> sstab sn <number>h today hrs <number> hrs cum hrs <number> hrs <number> jar sn <number>h today hrs <number>  cum hrs <number> hrs  
+npt pooh from <number>m to <number>m top of bha theoretical hole fill <number> m<number> actual hole fill <number> m<number>  down hole loss <number> m<number>hr 
+npt performed flow check  static losses at <number> m<number>hr  
+npt pooh and lay down bha from <number>m to surface  theoretical hole fill <number> m<number> actual hole fill <number> m<number> down hole losses <number> m<number>hr   bit dull grading <number>  <number>  bt xxunitn x i ct  td 
+npt pooh from <number>m to <number>m meanwhile performed top fill cement job for <number> x <number> annulus
+npt circulated and cleaned <number> oedp assembly at <number> lpm flowarate
+npt circulated hole with <number> lpm flow rate with <number>% returns to surface while preparing for cement plug joboffline activities prepared <number> casing tally hse specialist at location reviewing applicable jsa wellhead section b checked and confirmed by cameron engineer prepared <number> casing joints to be sent to idc<number> rig
+npt rigged down side entry sub and safety valve pooh from <number>m to <number>m
+npt connected tds circulated and cleaned <number> oedp string with <number> lpm flow rate no returns to suface
+npt pumped at <number> lpm to fill in  hole no returns at surface
+npt increased pump rate to <number> lpm to establish loss rate returns at surface total downhole loss rate  <number>hr
+npt rih with <number> oedp string from <number>m to <number>m
+npt rih  <number> oedp washing down at <number> lpm from <number>m to <number>m  tagged toc at <number>m spp increased confirming toc
+npt  pooh from <number>m to <number>m circulated hole with <number> lpm no returns to surface finalized cement plug volume for plug <number>
+npt circulated to fill in hole and establish loss rate at different flow rates returns at surface once returns at surface circulated at <number> lpm for <number> min loss rate <number> m<number>hr increased flow rate to <number> lpm for <number> min loss rate <number> m<number>hr
+npt circulated to fill in hole and establish loss rate at different flow rates avg loss rate <number> m<number>hr at <number> lpm decision made to rih <number> bha
+npt pooh <number> oedp from <number>m to surface
+npt mu <number> bha and rih to <number>m pu <number> pdc bit mdi<number>lpx smith <number> nozzles bit sub with float valve and totco ring mu <number> dc  roller reamer  <number> x <number> dc  roller reamer  <number> x <number> dc  jar  <number> x <number> dc  xo  <number> x <number> dc  <number> x <number> hwdp
+npt rih <number> dp from <number>m to <number>m washing down at <number> lpm to <number>m avg downhole loss rate <number>hr tagged toc  <number>m
+npt drill out cmt from <number>m to <number>m flow pumps <number> lpm spp <number> psi rpm <number> torque <number> kftlbs wob <number> ton  avg overall rop  <number> mhr  avg on bottom rop  <number> mhr  average dynamic loss<number>hr dynamic losses increased to <number> m<number>hr and then dropped to <number> m<number>hr after pumping <number> hivis sweep
+npt  rih free and washed down from <number>m to btm  <number>m flow rate <number> lpm spp <number> psi  rpm <number> torque <number> kftlbs average dynamic loss<number>hr
+established parameters and confirmed losses at <number> gpm due to apparent packoff around stabilisers lost <number> bbls 
+flow checked well at <number>m  <number>bbl'shr  static monitored well and reconfirmed loss rate 
+pooh from <number>m to <number>m no hole problems observed 
+monitored well on trip tank  loss rate <number> bbl'shr prepared mud pits for diluting mud system to <number>ppg 
+displaced ck and boost lines to <number>ppg mud
+prepared mud pits for displacing well to <number>ppg
+displaced well to <number>ppg mud 
+continued to displace well to <number>ppg large visible increasexxunitincuttings when bottoms up returned at shakers 
+monitored well on tt loss rate  <number> bbl'shr 
+npt pooh due to total lost circulation plan to rih for cement plug
+npt pulled and broke out <number> pdc bit laid down string stabilizer and roller reamer
+lost circulation <number>bblhr <number>'  <number>' layoutxxunitasingle joint of pipe mix and pump <number> x <number>xxunitbbllcm pill w <number> lbbbl cottonseed hulls partial to full returns obtained lithology <number>% sand
+lost circulation <number>bblhr <number>'  <number>' layoutxxunitasingle joint of pipe mix and pump <number>xxunitbbllcm pill w <number> lbbbl mica nutplug and cottonseed hulls build volume <number> x <number>bbls and pump <number>xxunitbbllcm pill w <number> lbbbl medium nutplug and cottonseed hulls <number> rpm <number> gpm <number> psi <number> kftlb torque
+build volume pumped one <number> bbl <number> lbbbl lcm pill w cottonseed hulls course mica and medium nutplug build lcmxxunitinactive system to <number> lbbbl regain full returns <number> gpm <number> rpm <number>k ftlb torque <number> psi slowly increase pump rate to <number>gpm <number>psi w full returns
+lost circulation <number> bblhr build volume and pump <number>bbl lcm pills <number> rpm <number> k ftlbs torque <number> psi <number> gpm
+pooh f <number>' to <number>' to build volume
+lost circulation <number>' build volume pump lcm pills <number> rpm <number>k ftlbs torque
+regained circulation condition mud and circulate build lcmxxunitinactive system to <number> lbbbl using course mica medium nutplug and cottonseed hulls vis  <number> secqtxxunitmw <number> ppg <number> rpm <number> gpm <number>k ftlbs <number> psi pu <number>k so <number>k roffb <number>k
+<number>' to <number>' <number>psi <number> gpm pu <number>k so <number>k robw <number>k mud losses <number> bblhr bypass solids control equipment to allow lcm to remainxxunitinactive system  <number> lbbbl
+pooh bha to <number> m mud level monitoring in static mud loss decreased from <number> to <number>xxunitmthreper hour lcm pill preparation preparation of mud with weight <number> gcm<number>
+rih bha to <number> m pumping <number>xxunitmthreof lcm pill
+pooh bha to <number> m
+circulation no losses observed
+rih bha to <number> m
+mud level monitoring no losses prepared mud with weight <number> gcm<number>
+rih bha to <number>xxunitmwith circulation and rotation displacement with <number>xxunitgcmthremud conditioning mud cuttings washing out
+ at <number> m observed complete loss started to get partial returns loss rate  <number> m<number>hr  <number> lpm  reduced flowrate<number> lpm loss rate <number> m<number>hr reduced flow rate to <number> lpm loss rate <number> m<number>hr reduced flow rate to <number> lpm loss rate <number> m<number>hr  total downhole loss <number> m<number> downhole loss rate <number> m<number>hr
+pooh to surface
+rih open ended <number>�� drill pipe to td at <number>m
+rigged up cement line and  pressure tested to <number> psi prepared cemnet slurrytotal losses from <number> to <number> hrs <number> m<number>              stop card daily monthly well  <number> <number>pob <number> persons slb  <number> idc  <number> sakson <number> gcc  <number> mi  <number> geoservice  <number> tesco  <number> ataa  <number> alniezak  <number> security <number> roo <number> ac<number>alithard  <number> drillmec<number>
+drilled cement plug <number> from <number> m to <number>m with the following parameters wob <number> tons spp<number> psi flow rate  <number> to <number> lmin rpm  <number> to <number> note drill string was rattling very hard in casing soxxunitahigher rotation was not possibletrouble shooting did not resolve this issuepercentage formation cuttings vs cement  <number>%losses were observed starting at <number>m from <number>hr to <number>hrtotal losses for this period were  <number> m<number>
+drilled out cement plug <number> from <number>m to <number>m with the following parameters wob  <number> to <number> tons rpm  <number> to <number> flow rate  <number> lmin spp <number> psiaverage percentage formation cuttings vs cement  <number>% loss rate  <number> m<number>hrtotal losses for this period were <number>swept the hole with <number> hvpavrg rop <number> mhr
+continued drilled out cement plug <number> from <number>m to <number>m with the following parameters wob  <number> tons rpm  <number> flow rate  <number> lmin spp <number> psiaverage percentage formation cuttings vs cement <number>% loss rate  <number> m<number>hrlosses increased to <number> m<number>hr from <number> m to <number> mtotal losses for this period were <number> m<number>avrg rop <number> mhr
+continued drilled out cement plug <number> from <number> m to <number> m with the following parameters wob  <number> tons rpm  <number> flow rate  <number> lmin spp <number> psiaverage percentage formation cuttings vs cement  <number>% loss rate  <number> m<number>hr    total losses for this period were <number> m<number>avrg rop <number> mhrswept the hole with <number> m<number> hvp
+continue drilling <number> hole on cement plug <number> from <number>m to <number>mloss rate  <number> m<number>hr    total losses for this period were <number> m<number>avrg rop <number> mhrrmg held initial fire drill with qhse and rig crew designated positions to crew for fire drill prepared fire hose and equipment and checked hose length
+circulated and pumped two <number> m<number> hivis sweeps and cleaned the hole spottedxxunita<number> hi vishi lcm pill dens<number> sg across the open hole section displaced dp  dc volume with waterreanchored the escape line tested the escape buggy usingxxunitadescent limitor andxxunitadead weight was ok
+poh to the <number>m
+check for static losses pumping at <number> m<number>min through the kill linelosses were <number> m<number>hr 
+poh from <number> m to <number> m for changing the bit and bhaheld bop drill while tripping well secured in <number> min <number> seconds more training required
+start mu new <number> bha<number>
+continue mu and rih with new <number> bha<number> to <number>m
+rih from <number>m to <number>m circulated last <number> stands to <number>m 
+circulated and cleaned hole and established losses with water observed losses as <number> m<number>hr
+observed total losses and pumped <number> m<number> lcm  regained partial circulation spotted <number> m<number> lcm on bottom of the well and displaced pipe volume of <number> m<number>lostxxunitatotal of <number> during this period
+observed the static and dynamic losses <number> lmin<number> psi <number> min's eachstatic losses <number> m<number>hr       dynamic losses<number> m<number>hr
+rih with <number> bha on <number> dp from <number> m to <number> m average losses while rih <number> m<number>hr avg down hole loss <number> to <number> hrs  <number> m<number>hr avg surface loss<number> m<number>hr avgtotal losses <number> to <number> hrs<number> m<number>hr total loss drilling <number> total static loss<number> m<number> total loss <number> to <number> hrs <number> m<number> avgconnection time <number> minutes depth <number>  <number>m limestone <number>% depth  <number>m  <number>m dolomite<number>% limestone <number>%
+continue rih from <number> m to bottom  <number> maverage losses while tripping <number> m<number>hrno obstruction while rih
+nptpooh <number> drilling assembly from <number>m to <number>m fill up annulus  with <number> sg mud while pooh through trip tank flow checkat <number> static losses <number> m<number>hr mixed <number> m<number> sg mud and <number> m<number> ppb lcm
+nptcontinued pooh <number> drilling assembly from <number>m to <number>m line up well to trip tank observed black water return to trip tank
+npt flow check had  <number> m<number>hr gain <number> sg
+npt  shut in well and observing sicp ru fosv close hydrillopen hcr raise upxxunitmwfrom <number> sg to <number> sg in progress sicp <number> psi at <number>
+npt bullheaded <number> <number>sg into annulus  spp <number> psi fl <number> lpm  after pumped <number> pressure dropped from <number> psi to <number> psi bleed off  through choke manifold and observed no back flow rd fosv open hydrill 
+npt flow check static losses <number>hr
+npt rih <number>  drilling assembly from <number> m to <number> mcontinuos pumping <number> sg drilling fluid through  the annulus at <number> lpm
+npt decided to pooh and ld mud motor pooh <number>  drilling assembly from <number> to <number> m  monitor well on trip tank flow check every <number> std  well is static observed over torqued dp
+npt pooh <number>  drilling assembly from <number> to <number> m   monitor well on trip tank flow check every <number> std and on top of bha  well is static  observed over torqued  dp
+npt pooh <number>  drilling assembly from <number> to surface   monitor well on trip tank well static break out <number> x <number> roller reamer drain motor and ld same
+npt rih <number> drilling assembly to <number>m <number> pdc bit <number> bit sub <number> x <number> dc <number> roller reamer and <number> x<number> dc monitor well on trip tank well static 
+npt continued rih <number> drilling assembly from <number>m to <number>m <number> pdc bit <number> bit sub <number> x <number> dc <number> roller reamer <number> x<number> dc<number> roller reamer <number> x <number> dc jar <number>x <number> dc xo <number> x <number> dc and <number> x <number> hwdp  monitor well on trip tank static losses <number> m<number>hr
+npt continued rih <number> drilling assembly from <number> m to <number>m monitor well on trip tank  down hole losses <number>hr
+npt circulated hole <number> bottom up with flow rate <number> lpm dynamic losses <number> m<number>hr static losses <number> m<number>hr
+npt continued rih <number> drilling assembly from <number>m to top of tayarat at <number> m monitor well on trip tank no down hole losses 
+npt circulated  bottom up at top of tayarat flow rate <number> lpm nothing is observed on shaker no sulfur water  no down hole losses
+npt flow checkno down hole losses
+npt continued rih <number> drilling assembly from <number> m top of tayarat to <number> m monitor well on trip tank flow check every <number> stds  well static no down hole losses
+npt circulate to check losses fr<number> lpm  spp <number> psi down hole losses  <number> m<number> hr
+npt spot <number> m<number> lcm hivis pill to cover loss zone of hartha with lcm concentration of <number> ppb displaced with <number> m<number> of <number> sg mud 
+npt pooh <number> drilling assembly  from <number> to <number> m fill annuls with <number> sg mud from trip tank   flow check every <number> stds static losses  <number> m<number>hr 
+npt waiting on lcm pill to soak while circulating fr  <number> lpm  spp <number> psi had no return  total losses pumped mud in  annulus with <number> lpm 
+npt  spot <number> m<number> lcm concentration <number> lb per bbl  fr<number> lpm  spp<number> psi displaced with <number> sg mud fr <number> lpm  spp  <number> psi
+npt pooh <number> drilling assembly  from <number> to <number> m pumped  <number> lpm <number> sg  mud through kill line into annulus flow check every <number> stds static losses  <number> m<number>hr 
+npt pooh <number> drilling assembly  from <number> to top of bha  pumped continuously <number> lpm <number> sg  mud through kill line into annulus flow check every <number> stds  casing shoe  top of bha static losses <number> m<number>hr 
+npt pooh <number> drilling assembly  from top of bha to surface bo bha  pumped continuously  <number> lpm <number> sg  mud through kill line into annulus flow check every <number> stds  casing shoe  top of bha static losses <number> m<number>hr 
+npt pu  mu drill pipebit sub rih with oedp with float valve from surface to <number> m  pumped  <number> lpm <number> sg  mud through kill line into annulus flow check every <number> stds static losses <number> m<number>hr 
+npt circulated <number> min for condition mud fr<number> lpm spp <number> psixxunitmwin <number> sg xxunitmwout<number> sg down hole losses <number> lpm <number> m<number>hr  <number> lpm <number> m<number>
+npt pooh with oedp with float valve from <number> to <number> m  pumped  <number> lpm <number> sg  mud through kill line into annuls
+npt  circulated <number> bottoms up fr<number> lpm  spp  <number> psi no cement at surface down hole losses  <number> m<number>hr
+npt continued pooh with oedp with float valve from <number> to <number> m casing shoe  pumped  <number> lpm <number> sg  mud through kill line into annuls no down hole losses
+npt flow check at casing shoe  well is static
+npt continued pooh with oedp with float valve from <number> to <number> m monitor well on trip tank no down hole losses
+npt continued pooh with oedp with float valve from <number> to surface while woc ld bit sub with float valve and xover monitor well on trip tank no down hole losses
+npt rih <number> drilling assembly from surface to <number>m  casing shoe mu <number> pdc bit <number> bit sub <number> x <number> dc <number> roller reamer and <number> x<number> dc monitor well on trip tank well static 
+npt slip  cutt <number> ft of drilling line monitor well on trip tank well staticsurface sample hard 
+npt cont rih <number> drilling assembly from <number>m to <number> m monitor well on trip tank well static
+npt  washed down from <number>m to <number>m top of soft cmt fr <number>lpm spp<number>psi no down hole losses
+npt pooh <number> bha with filling up the well from <number> m to <number> m flow check  well is flowing sidp<number> psi sicp<number> psi influx volume  <number> bbls pumped <number> m<number> of <number> sg mud through the kill line bull headingflow check well is flowing closed the pipe rams 
+npt prepared <number> sg mud <number> m<number> pumped <number> m<number> of <number> m<number> mud from kill line bull headingperformed flow check  no flow well bore is stable
+npt rih with <number> oedp with inside bop on second stand to <number> m for cement plug job
+nptflow checklevel dropping slowly
+nptspotted <number> m<number> of lcm <number> lpm prior to pooh  flow check level is dropping 
+npt pooh <number> oedp <number> m to surface<number> m<number>hr losses while pooh
+npt  pu and rih <number> pdc bit msi<number>lpx pdc  <number> x <number> nozzles  sn je <number>  bit subtotco ring and float valve  <number>x <number> dc  <number> sstb  <number> <number> dc  <number> sstb  <number> <number> dc<number> jar <number> <number> dc  xover  <number> <number> dcxover<number> hwdp
+npt  continued rih with <number> pdc bit and bha on <number> dp to <number> m
+npt  washed down from <number> to <number> m tag top of cement  <number> m with <number> mtonsflowrate <number>  pressure <number>psi downhole losses  <number> m<number>hr lost during this period<number> m<number>surface losses <number> m<number>hr
+npt closed bop pressurized <number> casing to <number> psi performed injectivity test of <number> and <number> annular space pumped <number> sg drilling mud <number> bbl at <number> bmp increments  <number> psi <number> bbl at <number> bpm increments  <number> psi <number> bbl at <number> bpm  <number> psi pressure while pumping is steadywitnessed from fod by ali jabbar
+npt performed <number> csg top job pumped <number> m<number> of preflush <number> m<number> of <number> sg cement slurry pumped <number> m<number> of water pumping pressure <number> psi injection rate  <number> bpm
+npt mixed and pumped <number> m<number> of hi vis lcm pill did not observed any lcm on shakers nor at breaching points
+npt poh from <number> m to surface racked back in mast <number> stands of <number> drill collar laid down <number> stabilizer picked up <number> jnts of hwdp and racked in mast bit bit sub xo and shock sub
+npt rih with open end drill pipes to <number> m rigged up side entry sub and fosv rigged up and connect cementing lines
+npt circulation with <number> lpm after soaking of lcmobserved breaching of mud between substructure and pipe rack on the same places continued
+npt picked up and rih with <number> bha to top of cement at <number> mmake up <number> tricone bit gs<number>ubvc smith iadc <number>x nozzles <number> <number> sn pr<number> bit sub xo shock sub <number> xo and <number> hwdp
+npt drilled out cement plug from <number> m to <number> m�� flow rate  <number> lpm  spp  <number>  <number> psi�� wob  <number>  <number> mt  rpm  <number>  torq  <number> ftlbf overall average rop  <number> metershour av rop on bottom <number> metrshour
+npt racked stand of <number> hwdp and make up stand of <number> drill collar
+npt drilled out cement plug from <number> m to <number> m�� flow rate  <number> lpm  spp  <number>  <number> psi�� wob  <number>  <number> mt  rpm  <number>  torq  <number> ftlbf overall average rop  <number> metershour av rop on bottom <number> metrshour no breaching and no downhole losses
+npt racked back two stands of <number> hwdp and make up xo  <number> stabilizer xo <number>one stand of <number> drill collars
+npt racked back one stand of <number> hwdp and make up one stand of <number> drill collars
+npt spot <number> m<number> lcm pill consisting of caco<number> c <number> kgm<number> caco<number> m <number> kgm<number> caco<number> f <number> kgm<number> mi seal f <number> kgm<number> mi seal c <number> kgm<number> nut plug c <number> kgm<number> nut plug f <number> kgm<number> monitor losses through trip tank no any return to the surface total lost for this period <number> m<number>
+npt circulations  with <number> lpm spp <number> psi and monitor for losses rate   got return to the surface  loss rate from <number>  <number> m<number>hrs lost for this period <number> m<number>
+npt while drilling at <number> m observed <number> m<number> loss within <number> minutesstopped the pump  observed the well level dropped <number> lts within <number> minsestablished circulation with <number> lpm then decreased to <number> lpmobserved total loss  no returndownhole tools and bit rotating hours <number> bit gsi<number> krev  <number> telescope <number> nmdc<number>  daily <number>  cum <number> hrs <number> drilling jar sn <number>h  <number> st stab sn  <number>   daily <number>  cum <number> hrs <number> st stab sn<number>   daily <number>  cum <number> hrs xover's trd<number>  trd<number>  daily <number>  cum <number> hrs float sub sn<number>a<number>gt sn<number> xover's sn<number>  daily <number>  cum <number> hrs
+nptspotted <number> m<number> lcm  <number> ppb  allowed to soak for <number> minswhile pumping observed no return at surface
+nptpooh  pump out  to <number> m due to op with <number> lpmsame time filled up  annulus with <number> lpmable to regain circulation  <number> m with <number> lpmestimated downhole losses <number> m<number>hr
+nptspotted <number> m<number> lcm  <number> m  observed return while pumping lcmallow to soakdrop downmeanwhile reciprocated string  filling up annulus with <number> lpm
+npt prepared <number> m<number> of lcmmeanwhile reciprocating the string  fill annulus with <number> lpm  no return
+npt rih to bottom  spotted <number> m<number> of lcm pillregained partial return at the end of displacement
+npt pooh from bottom to <number> m for building fresh mudno obstruction observed during poohfill up annulus with <number> lpm continuouslymeanwhile building fresh <number> sg mudestimated static losses approx <number> m<number>hrtotal mud volume lost in hole  approx <number> m<number>
+nptcont pooh free from <number> m to <number> m no obstruction observed during poohav down hole losses  <number> m<number>hrfilled annulus with mud pump first  then used trip tank
+nptflow check at <number> mobserved no static lossfurther pooh from <number> m to casing shoe <number> m observed no obstruction  during poohfilled hole continuosly using trip tank
+nptflow check at casing shoeobserved no static loss
+npt further pooh from <number> m to surface ld motor  mwd  <number> st stabld bit dull grading  <number>btan iwthp
+npt rih <number> oedp from surface to <number> m
+npt spotted <number> m<number> of lcm <number> kgm<number>  or <number> ppb <number> m<number> losses observed while pumping lcmno losses while displacement
+nptpooh oedp to <number> m meanwhile  allowed lcm to soak
+nptcirculated to establish loss rateflow rate <number> lpm  no losses within <number> minsflow rate <number> lpm  no losses within <number> mins
+npt pumped <number> m<number> of lcm and spotted <number> m<number> of hivis mud with <number> sg
+npt pooh <number> dp from <number> m to <number> m on elevatorfilled the annulus with water from trip tank no return
+npt pooh <number> dp from <number> m to <number> m on elevator in progressfilled the annulus with water from trip tank no return
+npt rih with <number> oedp to set cement plug to cure complete loss circulation to <number> mtag bottom  <number> mfilled the annulus with water from trip tank no return
+npt pooh <number> dp from <number> m to <number> m 
+npt continued rih oedp tagged at <number> m with <number> ton rack back one stand and attempted to circulate pressure increased to <number> psi string plugged
+npt pooh to surface observed last single plugged with sand formation   <number> m cleaned up
+npt rih oedp to <number> m tagged with <number> mt break circulation at <number> m <number> m  <number> m with <number> lpm no returns wased down with <number> lpm from <number> m until  <number> m  static mud level at cellar
+npt washed down from <number> m to <number> m observed slack off up to <number> ton at <number> m flow rate <number>  <number> lpm spp <number> psi no returns static mud level at cellar
+npt pooh to <number> m rack back <number> stands static mud level at cellar
+npt reciprocated and rotated string flow rate <number> lpm <number> rpm spp <number> psi <number> klbft torque no returns meanwhile preparing for second cement plug observed increase in torque to <number> klbft pooh one stand to <number> m static mud level at cellar
+npt worked on string stuck when attempted to continue pooh observed increase in torque and rotary stopped over pull up to <number> ton worked string up and down and released after <number> ton overpull static mud level at cellar
+npt pooh from <number> m to surface from <number> m to <number> m pooh pumping and backreaming after stopped pumps  observed backpressure bled of before connection overflow from string from <number> m pulled free no overflow from string static mud level at cellar
+npt mixing and preparing mud static mud level at cellar
+npt mixing and preparing mud meanwhile pu and mu <number> tricone bit  bitsub wfloat valve <number> x stand of <number> dc  <number> x stand of hwdp
+npt mixing and preparing mud  rih with <number> tricone bit  bitsub wfloat valve  <number> x stand of <number> dc  <number> x stand of hwdp  <number> har  <number> stnd of <number> hwdp to <number>  m
+npt pumped <number> m<number> of <number> sg hivis mud recovered partial return pu and mu <number> jar and  <number> stnds of <number> hwdp and reamed down to <number> m
+npt pumped <number> m<number>  <number> sg hivis mud  <number> m no return with <number> lpm get partial return with higher pumping speeds fluid level around <number> mbelow rotary table
+npt rih and reamed down <number> hole with <number>  bit from <number> m to <number> m reamed down from <number> m to <number> m and from <number> m to <number> m no return during reaming until <number> m fr <number> lpm<number> lpm spp <number> psi rpm <number>
+npt get return  <number> m and circulated with <number> sg mud fr <number> lpm loss rate <number> m<number>hr fr <number> lpm loss rate <number> m<number>hr observed sand formation on shakers
+nptcontinued rih and reamed down from <number> m to <number> m fr <number> lpm<number> lpm spp <number> psi rpm <number> loss rate <number> m<number>hr with <number> lpm
+npt pooh <number> dp with <number> bit from <number> m to <number> m  pumped out from <number> m to <number> m filled the annulus from trip tank with <number> sg mud loss rate <number> m<number>hr
+npt pumped out from <number> m to <number> m loss rate <number> m<number>hr
+npt back reamed from <number> m to <number> m  flow rate <number>  <number> lpm spp <number>  <number> psi rpm <number>  <number> torque  <number>  <number> ftlbf  loss rate <number> m<number>hr
+npt pooh <number> dp with <number> bit from <number> m to surface filled the annulus from trip tank with <number> sg mud loss rate <number> m<number>hr
+npt rih with <number> oedp to <number>  m to set second cement plug to cure losseswashed down last two standslosses <number> m<number>hr
+npt mu <number> bit and bha and rih to <number> m obstruction   <number> m stand back <number> dc stand nd mu <number> hwdp to ream obtructionmonitored the well from trip tank losses <number> m<number>hrcement sample  surface set and hard
+npt reamed down from <number> m to <number> m  with <number> bit flow rate  <number>  <number> lpm  spp  <number>  <number> psi rpm  <number>   torque  <number>  <number> lbfft mud losses  <number> m<number>hr lost for this period  <number> m<number>
+npt rih <number> bit from <number> m to <number> m mud losses  <number> m<number>hr lost for this period  <number> m<number>
+npt reamed down from <number> m to <number> m with <number> bit flow rate  <number>  <number> lpm  spp  <number>  <number> psi rpm  <number>  torque  <number> lbfft mud losses  <number> m<number>hr lost for this period  <number> m<number>
+npt tagged cement  <number> m dressed out cement from <number> m to <number> m wob  <number>  <number> mt  rpm  <number>  <number> torque  <number>  <number> ftlbs flow rate  <number>  <number> lpm spp  <number>  <number> psi mud losses  <number> m<number>hr lost for this period  <number> m<number>
+npt pumped <number> m<number> hivis lcm and circulated to clean the holelosses <number> m<number>hr lost during that period <number> m<number>total downhole losses for <number> hrs <number> m<number> mud breaching from cellar base total  <number> m<number>
+npt dressed out cement from <number> m to <number> m casing setting depth wob  <number>  <number> mt  rpm  <number>  <number> torque  <number>  <number> ftlbs flow rate  <number>  <number> lpm spp  <number>  <number> psi mud losses  <number> m<number>hr lost for this period  <number> m<number>mud breaching from cellar
+circulated for wellbore cleanpumped <number> m<number> of hivis prior to circulate mud losses rate  <number> m<number>hr
+npt performed short trip to check hole conditions prior to pump lcm pill from <number> m to <number> m
+dropped totco pumped <number> m<number> of hivis and <number> m<number> of lcm and displaced with <number> m<number> of clean mud  <number> mno losses
+npt pooh <number> dp from <number> m to surface broke and laid down <number> bitrecovered totco inc <number> deg  <number> mtight spots from <number> m to <number> m overpull <number> mtons  filled the annulus from trip tanklosses <number> m<number>hr  lost for this period <number> m<number>
+npt circulated prior to pooh due plugged nozzlesfr <number>o lpm spp <number> psilosses <number> m<number> loss rate <number> m<number> hr
+npt performed flow check
+npt pooh <number> dp from <number> m to <number> m top of bhatheoretical fill up <number> m<number>  actual<number>  losses  <number>hr
+npt continued pooh <number> pdc bit from <number> m to surfacetheoretical fill up <number> m<number>  actual<number> losses  <number> m<number>hrdull grading <number>pnaxinopp <number> plugged nozzles
+npt serviced the bit cleaned plugged nozzles <number> out of <number> due lcm material
+npt mu <number> pdc bit rr<number>mdi<number>plx <number> and <number> dhmperformed shallow hole test of same
+npt rih <number> bha to <number> m 
+npt circulated active mud system through shale shaker from kill line to clean out mud from lcm
+npt circulated to monitor spp observed spp gradually to <number> psi stop circulationtds disconnected found plugged drill pipe filter due lcm materialpipe screen cleaned and circulated active mud system through shale shaker from kill line to clean out mud from lcm
+npt rih <number> bha from <number> to <number> m performed circulation observed same high pressure build upstop circulationtds disconnected found plugged drill pipe filter due to lcm material pipe screen cleaned meanwhile circulated active mud system through shale shaker from kill line to clean out mud from lcm
+npt flushed standpipe   kelly hose and tdschecked monitored spp for any restriction to flowokfr<number> lpm  spp <number> psi 
+npt continued rih <number> bha from <number> to <number> mestablished circulation  <number> m fr <number> lpm spp  <number> psi
+npt rih from <number> m to <number> m
+npt washed and reamed down from <number> m to <number> mfr <number> lpm     spp <number> psilosses <number> m<number>hr
+npt circulated  bottom to clean bottom of hole  and pumped <number> m<number> hivis mud\fr <number> lpm spp<number> psilosses <number> m<number>hr
+npt rih <number> open end dp from surface to <number> m  theoretical displacement <number> m<number> actual displacement <number> m<number> 
+ npt washed down from <number>m to <number>m flow rate <number> lpm spp <number> psidownhole losses <number>hr
+npt pump <number> m<number> hivis on bottom and circulated the hole clean  flow rate <number> lpm spp <number> psidownhole losses <number> m<number>hr
+npt spot <number> hivis and pooh from <number>m to <number>m  bottom of dammam  theoretical displacement <number> m<number> actual displacement <number> m<number>
+npt spot <number> m<number> poly swell pill  <number> m and displace string volume <number> m<number>  flow rate <number> lpm spp <number> psidownhole losses <number>hr
+npt pooh <number> open end dp from <number>m to <number>m and pumped <number> m<number> mud   flow rate <number> lpm spp <number> psi  theoretical displacement <number> m<number> actual displacement <number> m<number>
+npt monitored well through trip tank    static losses   <number> m<number>hr
+npt closed the bop  squeezed the polyswell pill <number> timesobserved pressure drop in the following manner   round <number> p<number> psi    after time <number> mins      p<number>  <number> psi    pressure drop  <number> psi       round <number> p<number> psi    after time <number> mins      p<number>  <number> psi    pressure drop  <number> psi       round <number> p<number> psi    after time <number> mins      p<number>  <number> psi    pressure drop  <number> psi      each time the pressure drop was recorded for <number> mins  bled off the pressure and opened the bop 
+npt circulated one bottom's up  flow rate <number> lpm spp <number> psi downhole losses <number> m<number>hr
+ npt pooh <number> open end dp from <number>m to surface theoretical displacement <number> m<number> actual displacement <number> m<number>
+npt spotted <number> m<number> bridging pill and allowed to soak for <number> minutes
+npt washed down from <number> m to <number> m  <number> lpm spotted <number> m<number> lcm pill <number> lbbbl and allowed to soak for <number> minutes pooh from <number> m to <number> m monitored well through trip tank  
+npt reamed down from <number> m to <number> m flow rate <number> lpm  spp  <number> psi  <number> rpmfrom plan cc dist  <number> m below plan  <number> m right of plan  <number> mrotating hrs <number> jar sn <number>j today hrs <number> hrs cum hrs <number> hrs <number> sstab sn omm<number> today hrs <number> hrs cum hrs <number>  hrs <number> nmdc sn <number>x today hrs <number> hrs cum hrs <number> hrs <number> sstab sn omm<number>today hrs <number> hrs cum hrs <number>  hrs <number> f sub sn <number> today hrs <number> hrs cum hrs <number>  hrs bit rev  <number> today krev cum krev  <number> rev
+npt circulated at bottom for <number> minute intervals with different flow rates to identify loss rate at <number> lpm  loss rate  <number> m<number>hr at <number> lpm  loss rate  <number> m<number>hr at <number> lpm  loss rate  <number> m<number>hr
+npt spotted <number> m<number> lcm pill <number> lbbbl and allowed to soak for <number> hour pooh from <number> m to <number> m  monitored well through trip tank  
+npt reamed down from <number> m to <number> m flow rate <number> lpm  spp  <number> psi  <number> rpmrecorded scr  <number> m for pump <number>  <number> spm   spppsi   <number>      <number>      <number>      <number>
+npt reamed down from <number> m to <number> m flow rate <number> lpm  spp  <number> psi  <number> rpm
+npt circulated at bottom for <number> minute intervals with different flow rates to identify loss rate at <number> lpm  loss rate  <number> m<number>hr at <number> lpm  loss rate  <number> m<number>hr at <number> lpm  loss rate  <number> m<number>hr reduced at <number> lpm  loss rate  <number> m<number>hr
+npt circulated at bottom for <number> minute intervals with different flow rates to identify loss rate at <number> lpm  loss rate  <number> m<number>hr at <number> lpm  loss rate  <number> m<number>hr
+pumped <number> m<number> bridging pill concentration <number> lbbbl displaced it out of the string and circulated to check losses observed losses   <number> m<number>  hr decided to spot bridging pill  <number> concentration <number> lbbbl
+npt spotted <number> m<number> lcm pill <number> lbbbl and allowed to soak for <number> hour pooh from <number> m to <number> m 
+ monitored well through trip tank   static losses <number> m<number>  hr
+ monitored well through trip tank  
+npt monitored well through trip tank  
+npt reamed down from <number> m to <number> m flow rate <number> lpm  spp  <number> psi  <number> rpm observed losses   <number> m<number>  hr
+npt monitored well on trip tank after spotting lcm pill <number> to <number>  static losses <number> m<number>hr <number> to <number>  static losses <number> m<number>hr
+npt reamed down from <number> m to <number> m flow rate <number> lpm  spp  <number> psi  <number> rpm circulated  bottom for <number> minutes with <number> lpm spp <number> psi  losses <number> m<number>hr decided to continue drilling  ld one joint and pu <number> stand
+npt spotted <number> m<number> bridging lcm pill  <number> lbbbl and allowed to soak for <number> hour pooh from <number> m to <number> m 
+npt reamed down from <number> m to <number> m flow rate <number> lpm  spp  <number> psi  <number> rpm circulated  bottom for <number> minutes with <number> lpm spp <number> psi  losses <number> m<number>hr
+commenced displacing well to <number>ppg mud total losses after <number>ppg above bops <number>bbls before <number>ppg at surface
+unable to maintain fluid levelxxunitinriser with trip tank pump closed wellxxunitinon lower annular and hung off on lower pipe rams wellbore pressure dropped from <number>psi during circulation to stabilise at <number>psi after well shut in
+flowchecked well bypassing closed rams via chokegas relief lines  unable to maintain fluid levelxxunitinriser with trip 
+pumped <number>bbls <number>ppb finemedium lcm pill and displaced out of string with <number>bbls <number>ppg mud with well 
+reduced mud weightxxunitinactive pits from <number>ppg to <number>ppg wellbore pressure stabilised at <number>psi
+displaced riser from <number>ppg to <number>ppg via boost line to give effectivexxunitmwof <number>ppg at td
+flowchecked well  high loss rate top filled riser with <number>bbls base oil emw of <number>ppg loss rate reduced to <number>bblshr 
+pumped <number>bbls <number>ppb finemedium lcm pill at <number>bpm and displaced string and open hole volume with <number>bbls 
+flowchecked with well open  loss rate <number>bblsxxunitin<number>mins closed wellxxunitinon lower annular
+completed lowering mud weightxxunitinactive pits to <number>ppg continued mixing <number>rd lcm pill
+displaced riser from <number>ppg to <number>ppg via boost line to give effectivexxunitmwof <number>ppg at td completed 
+opened well to flow check gains observed  believe mud previously lost returning due to hyd head reduction
+flowchecked  <number>bbls gainxxunitin<number>mins pulled and racked one stand from <number>m to <number>m
+flowchecked  <number>bbls gainxxunitin<number>mins
+pulled out of hole from <number>m to <number>m filled pipe with <number>bbls of <number>ppg mud per stand to replace metal 
+continued reaming out from <number>m to <number>m frequent tight areas with torq  stalling  workedrotated through
+pooh from <number>m to <number>m monitoring gainloss rate on trip tank initially losses increasing  hole top filled with 
+pooh bha from <number>m to surface loss rate <number>bblshr no visible signs of excessive damage to mdw tools
+made up <number> wiper trip bha from surface to <number>m function tested pbl sub at rotary table after dropping 
+circulated at <number>gpm confirmed losses pumped <number>bbls <number>ppb mediumcoarse lcm and displaced out of bit and 
+pooh from <number>m to <number>m initially observed flow for <number> stands assumed utubing due to <number>ppgxxunitinstring then 
+pumped <number>bbls <number>ppg mud initially no losses at <number>gpm increased pumps to <number>gpm and observed slow losses
+continued circulation until losses reached <number>bbls more than theoretical open hole volume  allowing lcm to 
+rih from <number>m to <number>m loss trend reduced over <number> stands total loss <number>bbls observed gain on <number>th stand
+commenced repeatedly opening riser to well via gas relief valve and lower choke replaced losses by topping up
+continued repeatedly opening riser to well via gas relief valve and lower choke replaced losses by topping up
+opened well and rih from <number>m to <number>m initially no returns but loss trend reducing with depth
+pumped <number>bbls <number>ppg mud and displaced out of string with <number>bbls <number>ppg mud <number>bbls lost wellbore 
+pooh from <number>m to <number>m 
+flowchecked  <number>bbls lossxxunitin<number>mins
+flowchecked  <number>bblshr losses closed wellxxunitin wellbore pressure decreased from <number>psi open to <number>psi 
+displaced choke boost lines and riser to <number>ppg mud with well shut in
+opened up well and flowchecked  static
+staged up pumps to <number>gpm circulating <number>ppg mud down string losses up to <number>bblshr
+pumped <number>bbls <number>ppb lcm and displaced with <number>bbls <number>ppg mud
+flushed drillstring flowchecked  static
+pooh from <number>m to <number>m flowchecked prior to pulling bha through stack  <number>bblshr loss rate flowcheck at 
+after makingxxunitaconnection <number>m observed no returns pumping at <number>gpm stopped pumping and checked line
+reamed ooh from <number>m to <number>m above toc <number>rpm <number>gpm without returns torque progressively 
+at <number>m pumped at <number>gpm and confirmed circulation possible increased parameters to <number>gpm and 
+lost returns while drilling at <number>m reduced pump rate and pooh from <number>m to <number>m flow checked well
+pumped down booster linexxunitinorder to clean riser of cement cuttings  <number>gpm with no losses  
+attempted to circulate and establish parameters pump pressure fluctuating and kelly hose jumping shut 
+reamed from <number>m to <number>m with no problems pumped <number> bbl's hivis using only one pump <number>gpm
+established circulation with <number>gpm and confirmed returns and no losses increased circulating ratexxunitinstages 
+washed from <number>m to <number>m  <number>gpm mwd reading at <number>m observed losses picked up to <number>m and 
+unable to establish full returns cut pump ratexxunitinstages down to <number>gpm  loss rate  <number> bbl'shr
+monitored well on trip tank loss rate  <number> bbl'shr
+pumped <number>bbl's lcm and displaced out of bit pulled back to <number>m and put well on tt confirmed zero losses 
+prepared for cutting mud weigh to <number>ppg transferred mud from pits into reserve 
+diluted and built <number> bbl's <number>ppg mud and displaced ck and booster lines flushed ck manifold 
+prepared viscous drill water for dilution of mud weight
+pumped <number>ppg mud down string and took returns back to pits adding viscous drill water to dilute to <number>ppg 
+closedxxunitinmud system once mud returned at <number>ppg prepared and filled pits for drilling filled sandtraps
+flow checked well  ok 
+observed losses while drilling at <number>m  <number>bbl'shr picked up and stopped drilling flow checked well <number>bb'shr 
+continued to monitor losses allowed fluid levelxxunitinriser to drop  <number>ft level appeared static refilled riser via 
+pooh from <number>m to <number>m no hole problems filled hole with tt every third stand flow checked well and 
+closed rams and displaced ck lines to <number>ppg displaced riser via booster line to <number>ppg <number>gpm
+rih from <number>m to <number>m no problems passing into new hole 
+filled string and broke circulation increased pump rate to <number>gpm observed losses of <number>bblhr flowchecked 
+continued circulating and confirmed mud weight <number>ppgxxunitin out increased circulating parametersxxunitin<number>  <number>gpm
+observed losses while drilling from <number>m to <number>m <number>bbls lossxxunitin<number>mins with <number>gpm <number>ppg ecd
+spotted <number>bbls lcm <number>lbsbbl medium grade at td
+pooh from <number>m to <number>m holexxunitingood condition no losses
+circulated to confirm string free of lcm and dynamic flowcheck  <number>bbls lossxxunitin<number>hr with <number>gpm <number>ppg ecd 
+flowchecked  <number>bbl static lossxxunitin<number>mins reduced mud weightxxunitinactive pits to <number>ppg
+commenced displacing riser to <number>ppg mud
+rih from <number>m to <number>m no losses
+displace open holecasing to <number>ppg mud no losses
+washed from <number>m to <number>m with <number>ppg mud no losses
+observed losses at <number>m flowchecked  lost <number>bblsxxunitin<number>minutes at <number>gpm <number>bblsxxunitin<number>mins static
+spotted <number>bbls <number>ppb lcm medium grade on bottom lost <number>bblsxxunitin<number>mins
+pooh from <number>m to <number>m flowchecked  lost <number>bblsxxunitin<number>mins
+spotted <number>bbls <number>ppb lcm medium grade at <number>m lost <number>bblsxxunitin<number>mins
+pooh from <number>m to <number>m observed gainxxunitintrip tank while pulling pipe  static when pipe stationary
+flowchecked  lost <number>bblsxxunitin<number>mins
+commenced spotting <number>bbls <number>ppb lcm medium grade at <number>m
+completed spotting <number>bbls <number>ppb lcm medium grade at <number>m lost <number>bblsxxunitin<number>mins
+npt  drilled out cement plug from <number> m to <number> m with controlled parameter flowrate  <number> gpm spp  <number> psi surface rpm  <number>  wob  <number>  <number> klbs torque  <number>  <number> kftlb rop overall  <number> mhr rop on bottom  <number> mhrxxunitmwin  <number> ppgxxunitmwout  <number> ppg pumped <number> bbls hivis  <number> m <number> m <number> m sample on surface collected after every <number> m observed soft to moderate hard cement treated mud with sodium bicarbonate and citric acid to control ph  ca<number> while drilling
+npt  drilled out cement plug from <number> m to <number> m  <number> casing shoe with controlled parameter flowrate  <number> gpm spp  <number>  <number> psi surface rpm  <number> wob  <number>  <number> klbs torque  <number>  <number> kftlb rop overall  <number> mhr rop on bottom  <number> mhrxxunitmwin  <number> ppgxxunitmwout  <number> ppg pumped <number> bbls hi  vis  <number> m reamed up  down every stand before connection observed <number>xxunitpercemoderate hard cement  <number>xxunitm <number> m sample on surface collected after every <number> m no downhole losses
+npt  drilled out cement plug from <number> m to <number> m with controlled parameter flowrate  <number> gpm spp  <number>  <number> psi surface rpm  <number>  <number> wob  <number>  <number> klbs torque  <number>  <number> kftlb rop overall  <number> mhr rop on bottom  <number> mhrxxunitmwin  <number> ppgxxunitmwout  <number> ppg pumped <number> bbls hi  vis  <number> m  <number> m reamed up  down every stand before connection observed <number>xxunitpercemoderate hard cement <number>xxunitm <number> m observed <number>% limestonexxunitinspot sample collected  <number> m <number>% limestonexxunitinsample collected  <number> m sample on surface collected after every <number> m no downhole losses
+observed total loss of circulation at <number>m stopped pumping mud level dropped <number>m from whp gauge
+closed annular  fill riser via boost line with <number>bbls <number>ppg
+commence preparing active pit of <number>ppg plan to displace riser to <number>ppg to stop losses prior to pooh
+circulate while monitoring losses increased pump rate with <number> gpm stepsup to <number> gpm losses <number> bblshr
+rih washing down from shoe to <number>m <number>gpm stack wellbore pressure <number> psi losses  <number> bblshr
+tagged top of cutting at <number>m with <number>k wob and <number>k torque 
+racked one stand and pulled and racked another stand bit depth  <number>m
+pump lcm at <number> bpm and displaced to bit pump out from <number>m to <number>m with <number> gpm leaving lcmxxunitinopen hole
+flow check  well static washedxxunitinfrom shoe to <number>m <number> gpm  ecd  <number> ppg
+washed down from <number>m to bottom tagged top of cuttings at <number>m flow check  static
+observed well with <number> gpm  no losses increased flow rate to <number> gpm and rpm to <number>  no losses
+increased flow rate to <number> gpm  no losses increased flow rate to <number> gpm  no losses
+observed losses pick up and stop pump static losses  <number> bblshr shut annular for <number> min 
+pumped out from <number>m to <number>m with <number> gpm 
+flow check  well static circulated at <number> gpm while allowing lcm to soak no losses
+washedrotated from <number>m to <number>m with <number> gpm and <number> rpm ecd  <number> ppg no losses
+flow check  lost <number>bbls<number>min closed annular for <number>min opened well and observed losses
+washedrotated from <number>m to <number>m with <number> gpm and <number> rpm  <number> bbls lost
+flow check  losses <number> bblshr reduced to <number> bblshr <number> bbls lost
+flow check  losses <number> bblshr reduced to <number> bblshr <number> bbls lost bop closed x <number>
+pumped out of hole from <number>m to <number>m with <number> gpm <number> rpm 
+pumped of hole from <number>m to <number>m with <number> gpm and <number> rpm losses  <number> bblshr
+bu and ld dm tools and <number> bit losses  <number>bblshr ocdr stops at <number>
+washed down from <number>m to tag bottom at <number>m with <number>k wob hold pjsm mu cement line
+pumped lc plug ttoc<number>m bottom of plug <number>m
+pooh with cement stinger from <number>m to <number>m no losses
+make up bha
+continued to rih with <number> bit from <number>m to <number>m no losses
+staged up pumps to <number>gpm <number>psi
+washedrotate down from <number>m to <number>m with <number>gpm and <number>rpm
+previously drilled cement and lcm reached surface plugging the shaker screens picked up from bottom
+observed lossed circulation at <number>m pick off bottom and observed well
+circulated at various flow rates to establish losses at each rate
+pumped <number> bbls of <number>ppb lcm pill at <number>bpm with bit at <number>m displaced string with <number>ppg mud at <number>bpm 
+pumped out of hole from <number>m to <number>m with <number> bpm bit above theoretical top of lcm lost  <number> bbls
+washedrotated from <number>m to <number>m with <number> gpm
+observed losses <number> bblshr picked up from bottom unable to maintain annulus full <number> bbls lost
+observed losses at <number>m of <number>bblshr at <number>gpm flowchecked  losses reduced from <number>bblshr to zero over
+flowchecked  static increased circulation ratexxunitinstages to <number>gpm  no losses
+pumped out of hole from <number>m to <number>m at <number>gpm leaving lcm on bottom  partial returns flowchecked  static
+increased circulation ratexxunitinstages monitoring pit levels while mixing lcm  minor losses at <number>gpm
+washed down from <number>m to <number>m at <number>gpm  <number>bbls lost completed mixing lcm
+displaced choke kill and boost lines to <number>ppg mud closed shear rams and displaced riser to <number>ppg mud
+observed dynamic losses at <number>gpm of <number>bblshr flowchecked  observed loss rate of <number>bblshr shut wellxxunitinon 
+broke stand and dropped pbl activation ball pumped ball down with <number>gpm  <number>bbls lost reduced pump rate to 
+circulated at <number>gpm  no losses observed
+washed down from <number>m to <number>m at <number>gpm  no losses
+observed <number>bblhr losses at <number>gpm flowchecked  observed <number>bblshr loss rate
+observed total losses after attempting to increase pump rate to <number>gpm flowchecked  <number>bblshr loss rate shut 
+opened annular and dropped pbl activation ball pumped ball down with <number>gpm reduced pump rate to <number>gpm 
+pooh from <number>m to <number>m <number>klbs drag at <number>m
+flowchecked  <number>bblshr loss rate closed wellxxunitinon lower annular  observed <number>psi decreasexxunitinwellbore 
+rih from <number>m to <number>m <number>bblhr loss
+pumped <number>bbls <number>ppb lcm pill and displaced out of pbl sub losses reduced when lcmxxunitinplace
+pooh from <number>m to <number>m flowchecked  <number>bblshr loss reducing to <number>bblshr
+closed annular and displaced riser to <number>ppg mud opened annular flowchecked  static
+continued displacing well to <number>ppg mud at <number>gpm down string and <number>gpm on boost no losses increased 
+washed down from <number>m to <number>m at <number>gpm no losses
+lost all returns while drilling at <number>m flowchecked  <number>bblshr loss rate top filled riser with base oil and 
+pumped <number>bbls <number>ppb coarse lcm pill and displaced out of string at <number>gpm dynamic losses <number>bblshr reducing 
+pooh from <number>m to <number>m circulated string clear at <number>gpm  <number>bblshr loss rate on reducing trend
+flowchecked  loss rate <number>bblshr initially reducing to zero after <number>mins
+observed total loss of returns flowchecked  observed loss rate of <number>bblshr gradually reducing to <number>bblshr over
+observed loss of returns at <number>m of <number>bblshr at <number>gpm flowchecked  loss rate <number>bblshr reducing to <number>bblshrstaged up pumps to <number>gpm without losses and swept hole with <number>bbls lcm
+observed loss of returns at <number>m of <number>bblshr at <number>gpm flowchecked  loss rate <number>bblshr reducing rapidly 
+commenced circulating bottoms up observed loss of returns when pills half way up <number> casing flowchecked 
+staged up pumps with partial returns  loss rate <number>bblshr at <number>gpm commenced mixing further lcm pill
+rig  on day rate operations  pump and spot <number> m<number> lcm at bottom total down hole losses <number> m<number>
+rig  on day rate operations  flow check level drop down static loss <number> m<number>
+rig  on day rate operations  pooh drill string free from <number> m to <number> m top of bha pumped <number> m<number> of lcm through annulus no return on surface continued fill annulus with <number> sg mud total down hole losses <number> m<number>
+continue drilling ahead from <number> m to <number> mwob <number> mt rpm <number>  <number>  torque <number>  <number> kftlbavg overall rop <number> mhr avg on bottom rop <number> mhrmw in <number> sgxxunitmwout <number> sg observed losses rate with <number> m<number>hr at <number> lmin pumped <number> m<number> lcm pill and decreased the pumping rate to <number> lpm down hole losses rate increased to <number> m<number>hr stopped drilling and attempt to measure static losses through trip tank level has not seen attempt to get return through pumping down the drill string observed total losses followed by intermittent return with losses rate up to <number> m<number>hr decided to pump hi vis pill to cover the entire open hole and pooh to the casing shoe
+npt pumped <number> m<number> hi vis pill to cover the entire open holeflow rate <number> lpm spp <number> psipumped the hi vis pill down hole without returndown hole losses <number> m<number>hr total downhole losses <number> m<number>
+npt pooh drill string free from <number> m to <number> mkept pumping <number> lpm mud to the annulus while tripping out with no return on surfacetotal down hole losses <number> m<number>
+npt pooh drill string wback reaming from <number> m to <number> m observed tight spots  <number> m <number> m <number> m  with max <number>o  <number> mt overpull attempt to work the drill string without success  connect tds and backream from <number> m to <number> m fl <number> lpm <number> rpm spp <number> psi total down hole losses <number> m<number>
+npt pooh drill string free from <number> m to <number> m  inside casing shoe kept pumping <number> lpm mud to the annulus while tripping out with no return on surfacetotal downhole losses <number> m<number>
+npt filled the hole with <number> m<number> through the kill line with <number> lpm to measure the static down hole losses rate in progress downhole tools record<number> jar sn <number>h rotating hours  daily cum <number> hrs <number> hrs<number> bit sn pr <number> krevs             daily cum <number> krev  <number> krev
+npt continue measuring the static down hole losses rate with pumping through the kill line measured the down hole losses at <number> m<number>hr fl <number>  <number> lpm spp <number> psi with return on surface static down hole losses  <number> m<number>hr total downhole losses <number> m<number>
+npt pooh drill string from <number> m to <number> m top of bha kept pumping  <number> lpm mud to the annulus while tripping out with no return on surfacetotal downhole losses <number> m<number>
+npt  flow check unable to see fluid level from surfacepumped <number> m<number> of mud into  annulus  with no returntotal downhole losses <number> m<number>
+npt pooh drill string from <number> m to surfaceld <number> bit bit dull grading <number>noaeinohpkept pumping  <number> lpm mud to the annulus while tripping out with no return on surfacetotal downhole losses <number> m<number>
+npt mup <number> bit sub w nonported float valve  xover   <number> dp and rih with oedp to <number> mkept pumping <number> lpm mud to the annulus while tripping in with no return on surfacetotal downhole losses <number> m<number>
+npt continued rih with <number> oedp to casing shoekept pumping <number> lpm mud to the annulus while tripping in with no return on surfacetotal down hole losses <number> m<number>
+npt ru cement unit  surface lines meanwhile collecting fresh water for the cement plug keep mixing mud to keep mud level up in mud tanks mixed hi vis pill to spot same below the cement plug kept pumping <number> lpm mud to the annulus with no return on surface total down hole losses <number> m<number>
+npt resumed rih with <number> oedp to bottom  <number>mkept pumping <number> lpm mud to the annulus while tripping in with no return on surfacetotal down hole losses <number> m<number>
+npt circulation to measure dynamic losses at <number>  <number> lpm pump flow circulated one bottoms up volume dynamic down hole losses rate <number> m<number>hr
+npt spotted <number> m<number> hi vis pill on the bottom and displaced same with <number> m<number>
+npt  pooh from bottom at <number> m to <number> m
+npt rig up cement line
+npt pooh from <number> m to <number> m
+npt pumped  circulated <number> m<number>  <number> annular volume of <number> sg mud with rig pumpsfl <number> lpm spp <number> psi rpm <number>observed return on surface after pumping <number> m<number>observed contaminated mud with cement of max <number> sg and dumped sametotal dumped mud <number> m<number> total downhole losses <number> m<number>
+npt pooh from <number> m to surfacetotal downhole losses <number> m<number>hr
+npt rih with same pervious <number> bha from surface to <number> m started washing down from <number> m observed contaminated mud on shakers with maximum <number> sg dumped <number> m<number> total down hole losses <number> m<number> average down hole losses <number> m<number>hr
+npt wash down from <number> m to tag top of cement  <number> m flow <number> lpm spp <number> psi
+npt drill out cement from <number> m to <number> mwob <number>mt rpm <number> fl <number>  <number> lpm spp <number>  <number> psitotal downhole losses<number> m<number>dumped <number> m<number> of contaminated mud with cement
+npt stop drilling and performed flow check level dropping start pumping with <number> lpm to recover the level in the annulus continue losses at  <number> m<number>hr decrease flow rate to <number> lpm while mixing lcm pill <number> ppbmud lost this period unknown due to transfermud loss rate with <number> lpm <number> m<number>hr
+npt spotted <number> m<number> of lcm pill <number> ppb on bottom <number>  <number> lpm <number>  <number> lpmmud lost this period <number> m<number>
+npt pooh from <number> m to <number> m wait on lcm to soak reciprocate string mud tanks empty
+npt attempt to fill up annulus with trip tank pumped <number> m<number> in <number> min with no returns
+npt while mixing new mud fill up trip tank with new mud to pooh
+npt while mixing new mud flow check no fluid at surface
+npt while mixing new mud pooh from <number> m to <number> m tight spots at <number> <number> <number> m pulled through with <number>  <number> ton overpull fill up annulus with <number> m<number> every <number> stands
+npt continue mixing new mud <number> m<number> of <number> sg phpa mud <number> m<number> of <number> ppb lcm <number> m<number> of <number> ppb lcm fill up annulus with <number> m<number> every <number> min
+npt top off well with <number> m<number> observe well for <number> min then fill up annulus with <number> m<number> hole losing <number> m<number>hr
+npt rih free from <number> m to <number> m
+npt  observed <number> mt of slack off weight at <number> m reaming down from <number> m to <number> m <number> lpm <number> psi <number> rpm
+ npt  pooh  <number> conventional bha from <number>m to <number> m open annular level static for <number> min after dropped filled up by kill line w<number> m<number> of mud pulled w<number> stands to <number>m circulate flow <number> lmin press<number> psi av losses in circulation time <number> m<number>hr stopped circulation after pumped <number> of mud
+ npt  continued pooh <number> bha from <number>m to <number>m filled up throgh kill line  av losses <number> m<number>hr
+ npt   wait on cement with bit  <number>m filled up annulus close annular preventer and monitored the well            sidpp              sicp  <number> min    <number> psi        <number> psi <number> min  <number> psi         <number> psi <number> min  <number> psi         <number> psi <number> min  <number> psi         <number> psi move the string  every <number> min meanwhile preparing mud <number> sg slow operation due to mixing with <number> out of <number> hoppers big bags winch tripping mixed total <number> m<number> received <number> m<number> of <number> sg mud from idc<number>
+ npt   wait on cement with bit  <number>m bleed off annulus whp increases up to <number> psi move the string  every <number> min bull heading applied pumped <number> of <number> sg mud through kill line flow rate<number> lmin final pressure<number> psi decreased flow rate to <number> lmin final pressure<number> psi
+ npt observe well whp at pump stop<number> psi whp after <number> min <number> psi
+ npt   bull heading applied pumped <number> of <number> sg mud through kill line flow rate<number> lmin final pressure <number> psi move the string  every <number> min
+ npt   bull heading applied pumped <number> m<number> of <number> sg mud through kill line flow rate<number> lmin final pressure <number> psi move the string  every <number> min
+  npt open bop fill up with <number> m<number> thruogh annulus rih from <number> m  to <number> m av losses <number> m<number>hr
+ npt when attempted to wash down the last stand observed pressure increase to <number> psi after <number> m<number> pumped performed several attempts to circulate without success pressured up to <number> psi and bled off av down hole losses<number> m<number>hr
+ npt pooh from <number> m to <number> m av down hole losses <number> m<number>hr meantime preparing <number> sg mud
+ npt attempted to circulate pressure build up to <number> psi quickly bled off and pressurized again no success performed flow check level dropping fill up annulus after pumping <number> m<number> avg losses <number> m<number>hr
+ npt close annular preventer and monitored the well                  sidpp          sicp  <number> min    <number> psi         <number> psi<number> min    <number> psi         <number> psi<number> min    <number> psi         <number> psi<number> min    <number> psi         <number> psi continued preparing <number> sg mud received <number> m<number> of <number> sg mud from rmg<number> received <number> m<number> of <number> sg mud from idc<number> since midnight total mud available on surface  <number> m<number> sg <number> m<number> lcm pill
+ npt  continued preparing <number> sg mud received <number> m<number> of <number> sg mud from rmg<number> received <number> m<number> of <number> sg mud from idc<number> since midnight total mud available on surface  <number> m<number> sg <number> m<number> lcm pill meantime arranged <number>dp stands in derrick
+ npt   annular closed string secured w safety valve whp<number> psi bleed of to <number> psi well flowing connected tds open safety valve pipe pressure<number>psi bleed off return air
+ npt lined up tdsstand pipechoke manifoldflare line continuously filled up annulus via kill line avlosses <number> m<number>hr monitor pipe pressure increase to <number> psi bleed off gases and mud contaminated woil
+ npt continuously filled up annulus via kill line avlosses <number> m<number>hr monitor pipe pressure increase to <number> psi bleed off gases and mud contaminated woil through tdsstand pipechoke manifoldflare line methane  <number>%
+npt continued circulation  <number> m one bottoms up  with <number> sg mud pumped <number> m<number> of hivis mud and spotted to <number> m<number> m total losses in this period <number> m<number> avg losses <number> m<number>hr
+npt pooh from <number> m to <number> m for spotting cement plug between <number> m  <number> mhartha formation total losses in this period <number> m<number> avg losses <number> m<number>hr
+drilled  <number> hole from <number> m to <number> m  flow rate<number> lpm spp <number> psi  wob <number> mt rpm<number> rpm torque <number>  <number> lbft    average rop <number> mhr average on bottom rop <number> mhr xxunitmwin <number> sgxxunitmwout <number> sg   pumped <number> m<number> of bridging pill  and <number> m<number> of lcm caco<number> fm <number> kgm<number> pill every connection no cavings observed avg downhole losses <number> m<number>hr  avg surface losses  <number> m<number>hr formation gas  <number> m  <number>%
+npt pooh from <number> m to <number> m total losses in this period <number> m<number> avg losses <number> m<number>hr
+nptcirculated  <number> m with <number> sg mud and monitored pit levels fr  <number> lpm  spp <number> psi  avg losses<number> m<number>hr total losses in this period <number> m<number>
+performed tripping out bop drill ok
+nptpooh from <number> to <number> m observed the well filled up from trip tank  total losses in this period <number> min <number>  m<number> avg static loss rate <number> m<number>hr
+npt continued  pooh oedp from <number> m to <number> m  filled up from trip tank  total losses in this period <number> m<number> avg static loss rate<number> m<number>hr
+npt continued and completed pooh oedp from <number> m to surface  filled up from trip tank  no losses observed
+npt mu <number> stiff bha and rih to <number> m  make up  <number>' pdc msi<number>wpxrerun smith iadc m<number> nozzles <number> <number> sn je<number> bit sub w float valve  and totco ring  <number> nbs  xo <number> dc  <number>xxunitstb<number> dc<number>xxunitstb <number> x <number>  xo  jar  xo <number> x <number>  dc xo <number> x <number> hwdp installed corrosion ring in first joint of <number> hwdp no losses observed hole is stable
+staged up pumps to <number>gpm without losses washedrotated from <number>m and observed total losses at <number>m
+unable to keep hole full by top filling riser with <number>bbls <number>ppg mud closed lower annular and refilled riser with<number>bbls <number>ppg mud flowchecked  <number>bbl lossxxunitin<number>mins 
+bypassed closed annular via gas reliefchoke valves and commenced top filling riser with seawater total pumped <number>bbls with reducing loss trend midnight loss rate <number>bblshr 
+opened annular and continued top filling riser with seawater with reducing loss trend total pumped <number>bbls final loss rate <number>bblshr
+displaced kill line from <number>ppg mud to seawater with well isolated
+pooh from <number>m to <number>m pumping metal displacement volume of <number>ppg mud into riser via boost line top filled riser with <number>bbls seawater during trip
+flowchecked well with <number>ppg observed losses  <number>bbl'sxxunitin<number>mins with <number>ppg closed annular and 
+observed loss rate reduce to <number>bbl'shr from <number>  <number>bbl'shr total base oil pumped into well <number>bbl's
+pooh from <number>m to <number>m speed restricted 
+flow checked well  <number>bbl's lostxxunitin<number>hr 
+continued pooh from <number>m to <number>m speed restricted
+made up bha  <number> and rih to <number>m from <number>m slowed running speed to <number>minsstand and <number>minsstand
+continued rih with bha <number> from <number>m to <number>m at <number>minsstand string stood up with <number> klb's unable to pass
+washed and rotated from <number>m to <number>m very little resistance observed observed <number>klb's  intermittently from 
+flow checked well flowback  <number>mins <number>bbl'shr <number>mins  <number>bbl'shr <number>mins  <number>bbl'shr total volume returned
+pumped ooh from <number>m to <number>m <number>gpm no problemsxxunitinopen hole 
+circulated bottoms up <number>gpm large volume of contaminated cement  barite observed at shakers max gas <number>%
+flow checked flowback initially at <number>bbl'shr onxxunitareducing trend to static <number>bbl's flowback 
+rih from <number>m to <number>m no hole problems  plan to drill cement to <number>m at gg request
+washed and rotated through cement from <number>m to <number>m no indication of resistance dynamic losses 
+flow checked well flowback  <number>mins  <number>bbl'shr <number>mins  <number>bbl'shr <number>mins  <number>bbl'shr <number>mins <number>bbl'shr 
+rov inspected bopwellhead with annular closed no leaks observed opened annular and brought pumps 
+repeated dynamic flowcheck at <number>gpm  loss rate <number>bblshr rov observed slight flow from wellhead ports 
+closed annular and monitored well on trip tank  no losses
+opened well and pooh from <number>m to <number>m  losses <number>bblshr repeated dynamic flowcheck at <number>gpm  loss 
+displaced choke and kill lines to seawater closed shear rams displaced riser and boost line to seawater opened 
+pooh bha from <number>m to surface ocdr stop <number>hrs minor scrape damage observed on bitstabs
+rih <number> bha from surface to <number>m
+took weight while attempting to pass upper annular functioned several times while pumping before able to pass
+washed down from <number>m to tag top of cement at <number>m
+drilled cement from <number>m to <number>m with seawater and hivis sweeps <number>gpm <number>psi <number>rpm 
+displaced well to <number>ppg sobm no losses
+observed losses from active after drilling out cement plug flowchecked  loss rate <number>bblshr closed lower 
+dynamic flowcheck  staged up pumps to <number>gpm <number>gpm and <number>gpm without losses or flow from wellhead 
+rih from <number>m until taking weight at <number>m washedrotated from <number>m to shoe at <number>m <number>gpm <number>psi 
+continued washingrotating through open hole from <number>m to <number>m consistent resistance of <number>klbs and 
+pumped <number>bbls hivis sweep and circulated bottoms up <number>gpm  <number>psi no losses gas reduced to <number>%
+reamed and backreamed <number> times pump <number> m<number> hivis pill to circulate hole clean flow rate <number>lpmspp  <number> psi rpm  <number> trq  <number>klbftxxunitmwin <number> sgxxunitmwout <number> sgpump out and ream down while circulationmud loss rate <number> m<number>hr
+npt pooh <number> bha from <number> m to <number> mmud loss rate <number> m<number>hrfilled in annular as drilling string metal displacement
+slipped <number>m drilling linemud loss rate <number> m<number>hrfilled in annular <number> m<number> hr
+npt pooh from <number> m to <number> mmud loss rate <number> m<number>hrfilled in annular as drilling string metal displacementrotating hrs  <number> sstab sn  <number>hdaily hrs  <number> hrscum hrs<number> hrs <number> sstab sn <number>h daily hrs  <number> hrscum hrs<number> hrs <number> drilling jar sn <number>hdaily hrs <number> hrscum hrs  <number> hrs   <number>shock sub sn <number>h daily hrs  <number> hrs cum hrs <number> hrs <number> bit krev <number> krev cum krev <number> krev  
+npt pooh from <number> m to surface ld <number> stabilizers and shock sub for racking backmud loss rate <number> m<number>hr bit dull grading <number>ssae i nohp
+npt rih <number> oedp  to <number> mmud loss rate <number> m<number>hr
+npt rih <number> oedp  from <number> to <number> m mu tds made preparation for spotting polyswellmud loss rate <number> m<number>hr
+npt pjsm on drill floor
+npt spotted <number> m<number> poly swell on bottom openended dp bottom at <number> m displaced the same with <number> m<number> fluid pooh from <number> m to <number> m wet trip mu tdsflow rate <number> lpm spp <number> psi
+npt circulated out eventual polyswell inside dp  traces of polyswell returned to surface flow rate <number> lpm spp <number> psi monitored tank level mud loss rate <number> m<number>hr at <number> m<number>hr at <number>
+npt switched to trip tank to monitor mud losses mud loss rate from <number> hr to <number> m<number> hr no downhole losses at <number>
+npt continued monitoring mud losses no downhole losses
+npt closed pipe ram bop squeezed polyswell from <number> to <number> psi pressure stopped going up while pumping into <number>xxunitl total strokes <number>  then decisition made to stop pump  then total strokes  <number>  held <number> psi pressure
+npt attempted to squeeze pressure up again pump in <number> m<number> but pressure did not go up
+npt attempted to squeeze pressure up again pump in <number> m<number> but pressure did not go up performed loss rate test with different flow rate <number> lpm loss rate <number> m<number>hr <number> lpm <number> lpm  loss rate <number> m<number>hr reported to office decision made to pooh with <number> oedp to surface and run <number> directional bha
+npt pooh from <number> m to surfacemud engineer started to prepare <number> sg mud in progress
+pu and mu <number> bit second run no downhole lossesrotating hrs <number> sstab sn  <number>hdaily hrs  <number> hrscum hrs<number> hrs <number> sstab sn <number>h daily hrs  <number> hrscum hrs<number> hrs <number> str stab sn aa<number> daily hrs  <number> hrscum hrs<number> hrs <number> drilling jar sn <number>jdaily hrs <number> hrscum hrs  <number> hrs a<number>m gt motor sn <number> daily hrs  <number> hrscum hrs<number> hrs telescope sn e<number> daily hrs  <number> hrscum hrs<number> hrs <number> bit krev <number> krev cum krev <number> krev
+pu bha toolsmud engineer prepare <number> sg mud in progress
+repaired rigxxunitbtong and torque gauge for geting right mu torque
+rih <number> dir bha to <number> m mu tds performed shallow hole test down hole motor ok test mwd signal ok flow rate <number> psi spp <number> psi
+rih <number> bha from <number> m to <number> m picking up and mu <number> single dp madexxunitasurvey every running <number> m following dd instructionno downhole losses
+rih <number> bha from <number> m to <number> m madexxunitasurvey every running <number> m in the open hole following dd instructionno downhole losses
+mu tds performedxxunitasecurity drill at <number> good response heldxxunitapjsm on drill floor  planed to makexxunitaloss rate test with water first if ok displace hole with mud dump the returns condition mud then start to rotary drill to <number> m kop
+npt circulated with water to check the losses flow rate <number> lpm spp <number> loss rate <number> m<number>hr switched to one pump and one suction tank flow rate <number> lpm spp<number> loss rate <number> m<number>hr continued circulating with water dump all returns washed down last stand to <number> m flow rate <number> lpm spp <number> psi
+npt observed black water returning back to surface and some bad smellxxunitamobile h<number>s detector showed <number> ppm switched to another h<number>s mobile detector it showed <number> ppm shutted in well reported to office conductedxxunitah<number>s drill good response
+npt received instruction from office heldxxunitaprejob safety meeting on drill floor
+npt preparing <number> m<number> of lcm with concentration of <number> lbbblshutted in well monitored pressure sipp<number> sicp<number>rotating hrs <number> sstab sn  <number>hdaily hrs  <number> hrscum hrs<number> hrs <number> sstab sn <number>h daily hrs  <number> hrscum hrs<number> hrs <number> str stab sn aa<number> daily hrs  <number> hrscum hrs<number> hrs <number> drilling jar sn <number>jdaily hrs <number> hrscum hrs  <number> hrs a<number>m gt motor sn <number> daily hrs  <number> hrscum hrs<number> hrs telescope sn e<number> daily hrs  <number> hrscum hrs<number> hrs <number> bit krev <number> krev cum krev <number> krev
+npt mud engineer mixed lcm with concentration of <number> poundsbblshutted in well monitored pressure sipp<number> sicp<number>
+npt pumped <number> m<number> lcm pill through kill line fr <number> lpm spp <number> psi
+npt bullheaded lcm with <number> <number> sg mud through kill line  fr <number> lpmspp <number> psi
+npt stopped pump sipp<number> sicp<number>opened bop flow check switched to trip tank filled in <number> m<number> mud no mud returned back to trip tank stoped fill in pump can't see annular mud level from rotary table
+npt pooh <number> dir bha to <number> m pumped <number> lpm of mud into the annulus while pooh hole not full
+npt pooh <number> dir bha to surface racked back bha as required pumped <number> lpm of mud into the annulus while pooh hole not full
+npt rih with <number>  openended dp tag bottom twice at <number> m spaced out  mu side entry sub tiw valve andxxunitapup joint mu tds meanwhile cement crew mixed the chemical water
+npt  cement plug job flushed filled cement lines and pressure tested same to <number> psi ok pump <number> m<number> fresh water ahead  <number> bpm mixed and pumped <number> m<number> of cement slurry <number> sg  <number> bpm pumped <number> bbl of fresh water as spacer displaced with <number> bbl of <number> sg mud  <number> bpm
+npt  pooh from <number> m<number> to <number> m inside casing shoe  circulated bottoms up  <number> m no cement slurry traceflow rate  <number> lpm spp <number> psi rpm <number>rotating hrs <number> sstab sn  <number>hdaily hrs  <number> hrscum hrs<number> hrs <number> sstab sn <number>h daily hrs  <number> hrscum hrs<number> hrs <number> str stab sn aa<number> daily hrs  <number> hrscum hrs<number> hrs <number> drilling jar sn <number>jdaily hrs <number> hrscum hrs  <number> hrs a<number>m gt motor sn <number> daily hrs  <number> hrscum hrs<number> hrs telescope sn e<number> daily hrs  <number> hrscum hrs<number> hrs <number> bit krev <number> krev cum krev <number> krev
+npt  pooh two stands to <number> m mu tds and closed bop wocslurry sample still soft
+npt  woc until slurry sample hard
+npt  performedxxunitapjsm
+npt  rih w <number> oedp from <number> m to <number> m
+npt  washed down last two stands from <number> m to <number> m flow rate <number> lpm spp <number> psitagged cement plug twice at <number> m
+npt circulated with mud flow rate <number> psi spp <number> psi checked hole losses ok
+npt observed h<number>s increasing to <number> ppm shut in well performedxxunitah<number>s drill good response reported to office
+npt diverted to flare pit only <number> m<number> collected clean mud h<number>s double checked ok open bop planed to makexxunitadynamic test with three pumps at drilling flow rate <number> lpm but shale shaker overflowed stopped pumps changed shale shaker screens madexxunitadynamic test with <number> lpm  with <number> pumps spp <number> psi no hole losses madexxunitadynamic test with <number> lpm drilling flow rate with <number> pumps spp <number> psi  loss rate <number> m<number> 
+npt reported to office pooh inside <number> casing made another dynamic circulation test with three pumpsflow rate <number> lpm spp <number> psino downhole losses
+npt pooh with <number> open ended dp to surface
+npt pu <number> bha scribed directional tools rih <number> bha to <number> mmu tds performed shallow hole test down hole motor ok test mwd signal ok flow rate <number> lpm spp <number> psi
+npt rih <number> bha from <number> m to <number> m no downhole losses
+npt rih from <number> to <number> m no downhole losses
+npt rih from <number>m to <number> m washed down last stand to tag the cement plug at <number> m  no downhole losses
+npt drilled out cement plug from <number> m to <number> m with controled parameterflow rate <number> lpm spp <number> psi wob <number> mt tds rpm  <number> no downhole losses
+npt circulated to check downhole losses observed downhole losses while drilled to <number> m stopped drilling and pu drill string reduced flow from <number> lpm to <number> lpm checked down hole losses rate  <number> m<number>hr<number> m<number> in <number> mins reduced flow rate to <number> lpm no down hole losses increased flow rate to <number> lpm no downhole losses total of downhole losses <number> m<number>
+npt lost circulation while drilled to <number> m observed downhole losses losses rate <number> m<number> hrs pumped <number> m<number> lcm <number> ppb concentration and displaced to annulus completely losses rate <number> m<number> hrs pulled out three stands filled annulus by trip tank no return monitored for <number> mins fill annulus by trip tank no return rih to bottom pumped <number> m<number> lcm <number> ppb concentration and displaced to annulus completely no return pooh to <number> casing shoe filled up annulus with <number> m<number> water through kill line kept filling up annulus with water by trip tank losses rate <number> m<number> hrs total downhole losses <number> m<number>
+npt mixed mud mixed <number> m<number> sg drilling mud and <number> m<number> ppb concentration lcm kept filling up annulus with water by trip tank average losses rate <number> m<number> hrs total downhole losses <number> m<number>rotating hrs pd <number> x <number>aa <number> stab sn <number> daily hrs  <number> hrscum hrs  <number> hrs a<number>gt motor sn <number> daily hrs  <number> hrscum hrs  <number> hrs telescope <number> hf sn g<number> daily hrs  <number> hrscum hrs  <number> hrs
+npt continued mixing <number> m<number> sg drilling mud kept filling up annulus with water by trip tank no downhole losses
+npt spot <number> ppb concentration lcm pumped <number> m<number> ppb concentration lcm with flow rate <number> lpm into drilling string  water from annulus retuned to trip tank for monitoring downhole losses downhole losses <number> m<number> stopped pumping dumped the water in trip tank resumed pump lcm observed string plugged 
+npt evaluated dynamic losses increased flowrate step by step and monitored downhole losses with different flowrate  <number> lpm <number> lpm <number> lpm <number> lpm <number> lpm <number> lpm no downhole losses observed  
+npt circulated one bottoms up to clean out the lcm material in mud system flow rate  <number> lpm spp  <number> psi no downhole losses
+npt rih <number> rotary bha from <number> m to <number> m encountered tight point with <number> ton slackoff weight  <number> m worked pipe to pass it encountered tight point with <number> ton slackoff weight  <number> m washed down to <number> m   formation mishrif  <number> m no downhole losses
+npt evaluated dynamic losses increased flowrate step by step and monitored downhole losses with different flowrate  <number> lpm <number> lpm <number> lpm <number> lpm no downhole losses observed
+npt rih from <number> m to bottom  <number> m encountered tight point  <number> m tried to wash down failed ream down from <number> m to <number> m flow rate  <number>lpm spp  <number> psi rpm  <number> torque  <number> kftlb no down hole losses
+npt pumped <number> m<number> lcm <number> ppb concentration and displaced to annulus completely downhole losses <number> m<number>
+npt pooh to inside <number> casing shoe monitored by trip tank downhole losses <number> m<number>
+circulation flow rate <number>  <number> lpm spp <number>  <number> psi down hole losses  <number> m<number>hr meanwhile mixed <number> <number> ppb lcm
+npt rih <number> rotary bha from <number> m to <number> m down hole losses  <number>hr
+npt reduced flow rate to <number> lpm and pumped <number> m<number> lcm <number> ppb concentration and displaced to annulus completely downhole losses <number> m<number>
+npt pooh to <number>m encountered tight point with <number> ton overpull  <number>m back reamed w <number> lpm flow rate and passed monitored by trip tank downhole losses <number> m<number>
+npt filled up annulus by trip tank and monitored downhole losses no downhole losses
+npt rih <number> rotary bha from <number> m to <number> m no down hole losses
+npt circulation <number> lpm <number> mins no downhole losses <number> lpm <number> mins downhole losses rate <number> m<number> hr
+npt rih to bottom pumped <number> m<number> lcm <number> ppb concentration and displaced to annulus completely downhole losses <number> m<number>
+npt pooh to <number> m monitored by trip tank downhole losses <number> m<number>
+npt filled up annulus by trip tank and monitored downhole losses downhole losses rate <number> m<number> hr work drill string up and down with <number> rpm meanwhile mixed total of <number> m<number> ppb concentration lcm
+npt rih <number> rotary bha from <number> m to bottom downhole losses rate <number> m<number> hr
+npt filled up annulus by trip tank and monitored downhole losses downhole losses rate <number> m<number> hr work drill string up and down with <number> rpm meanwhile mixed fresh mud
+npt rih from <number> m to <number> m no downhole losses 
+npt pumped <number> m<number> lcm <number> ppb concentration and displaced to annulus completely downhole losses <number> m<number> during displacement
+npt pooh to inside <number> casing shoe downhole losses <number> m<number>
+npt mixed <number>ppb lcm removed rig pumps screens no downhole losses
+npt continued to mix lcm
+npt rih from <number> m to <number>m no downhole losses mixing <number> m<number> ppb lcm finished <number>
+npt evaluated dynamic losses at <number>m top of lcm increased flowrate gradually and monitored downhole losses as below <number> lpm <number> mins no downhole losses observed <number> lpm <number> mins no downhole losses observed
+npt rih from <number>m to bottom no downhole losses washed down last stand w flow rate <number> lpm <number> rpm
+npt pooh to <number> m top of misrif  <number> m no downhole losses
+npt filled up annulus by trip tank no downhole losses worked drill string up and down with <number> rpm
+npt rih from <number> m to bottom no downhole losses reamed down last stand w flow rate  <number> lpm rpm  <number>
+npt pooh to <number> m to of misrif  <number> m downhole losses rate <number> m<number> hr
+npt filled up annulus by trip tank downhole losses rate <number> m<number> hr worked drill string up and down with <number> rpm
+npt rih from <number> m to bottom downhole losses rate <number> m<number> hr
+npt pumped <number> m<number> lcm <number> ppb concentration and displaced to annulus completely downhole losses <number> m<number> m<number> during pump lcm <number> m<number> during displacement
+npt pooh to <number> m downhole losses rate <number> m<number> hr
+npt filled up annulus by trip tank downhole losses rate <number> m<number> hr worked drill string up and down with <number> rpm meanwhile <number> lcm concentration increased from <number> ppb to <number> ppb
+npt rih from <number> m to bottom downhole losses <number> m<number>hr
+npt pooh to <number> m encountered tight points with <number> ton overpull  <number> m and <number> m  worked pipe to pass same flushed string w <number> lpm flow rate downhole losses rate <number> m<number> hr meanwhile mixing <number> m<number> fresh mud
+npt filled up annulus by trip tank no downhole losses meanwhile mixing <number> m<number> fresh mud and <number> m<number> lcm  after spot the last <number> m<number> lcm only <number> m<number> mud in surfacetank
+npt evaluated dynamic losses with <number> lpm <number> lpm <number> lpm <number> lpm and <number> lpm no downhole losses
+npt rih from <number>m to bottom no downhole losses reamed down last stand w flow rate  <number> lpm rpm  <number>
+npt  while drilled to <number> m observed downhole losses losses rate <number> m<number> in <number> minutes pumped <number> m<number> lcm  spot at bottom poh two stands monitored for <number>hr  with slow circulation  rotationdown hole losses <number> m<number>hr 
+nptrih back to bottom no obstruction observed during rih
+npt circulated monitored losses meanwhile discussed with ipm office for plan forward flow rate  <number>lpm pressure <number>psi down hole losses  <number>h
+npt decided poh up to casing shoe   prepare  spot <number> m<number> forma block lcm pill at bottom  squeez as per procedurepooh dir bha from <number>m to <number>m hole in good condition total down hole loss <number> while poh meanwhile prepare reserve  <number> for mixing fblock lcm pill
+npt continued pooh from <number>m to <number>m  <number> casing shoe hole in good conditiondown hole loss <number> m<number> during poh to shoe  total loss during entire  poh  <number> m<number>  meanwhile prepare reserve  <number> for mixing fblock lcm pill
+npt flow check using trip tank static loss  <number> in <number> mins losses rate <number>h meanwhile fill reserve  <number> with water for mixing fblock lcm pill
+npt evaluated dynamic lossescirculated at <number>lpm had losses <number> in <number> mins losses rate <number>hstopped circulation and monitored losses using trip tankmeanwhile cont mixing chemicals for   fblock lcm pill
+npt rih dir bha to bottom  to spot <number>ppb normal lcm pill  poh back to shoe this is to arrest static loss of approx <number> m<number>hr  while waiting for fblock lcm ready continously fill annulaus with water through trip tank while rih no obstruction observed during rih total  loss during rih <number> m<number> meanwhile cont mixing chemicals for fblock lcm pill
+nptpumped  spot <number> m<number> ppb lcm at bottom
+nptpooh to casing shoe no obstrcuction observed  during pohdown hole loss during poh  <number> m<number>note  conducted kick drill while tripping at casing shoe
+npt evaluate static loss at casing shoe  static loss in <number> minutes  <number> m<number> hr meanwhile hold saftey meeting with the crew for spotting forma block lcm at the bottom
+nptrih from casing shoe to <number> m attempted to wash down with <number> lpm from <number> m  found loss rate <number>m <number> in <number> minute <number> m<number> hr stopped circulation  prepare for spotting forma block lcm at bottomno obstruction observed during rihdown hole loss during rih <number> m<number>
+nptpumped  spot <number> m<number> forma block lcm at bottom  rotated  reciprocated string  while pumping lcm  displacement
+npt attempted to poh without circ observed continous over pull of <number> mt with out circ  poh without circ with great difficulty with very high risk of stuck pipe up to <number> m  string was brifely stuck on twothree occasion  discussed with ipm office  decided to poh with slow circulation till string is free 
+npt pump out with slow circ  <number> lpm  up to <number> m observed poh free with circ rih back the stand  stopped cir poh the same stand free total over displacement of lcm pill due to poh with circ  <number> m<number>
+npt poh free from <number> m to casing shoe no obstruction observed during poh from <number> to casing shoefilled annulus with trip tank with water continously while pohtotal loss during poh <number> m<number>
+nptflow check using trip tank observed losses the last <number> mins <number>
+npt evaluated dynamic losses increased flowrate step by step and monitored downhole losses with different flowrate for <number>mins each no downhole losses  flow rate lpm             pressure psi                    losses m<number>                                          <number>                                       <number>                                        <number>                                       <number>                                        <number>                                     <number>
+performed static flow check for <number>min level drop by <number>m below flow line filled hole with <number>losses rate <number>h 
+closed annular bop suqueeze with <number>psi hesitation in <number> stepsstep            pressure psi                  final press             time to stablize min              strokes<number>                           <number>                                    <number>                                       <number>                                      <number>                           <number>                                    <number>                                       <number>                                     <number>                           <number>                                    <number>                                       <number>                                        <number>                           <number>                                    <number>                                        <number>                                       <number>                           <number>                                    <number>                                       <number>                                      <number>note  total volume squeezed  <number>
+npt evaluated dynamic losses increased flowrate step by step and monitored downhole losses with different flow rates  <number>psi for <number>mins each no downhole losses  
+mixing <number> new mud to biuld the mud volume in progressmeanwhile monitored losses by trip tank
+completed mixing <number> new mud to build the mud volumemeanwhile monitored losses by trip tank losses <number>htotal mud in mud system <number>
+rih dir bha from <number> casing shoe to <number>m downhole losses <number>
+npt  circulated at <number> lpm to check for down hole losses  observed no dynamic down hole loss during circulation
+nptchecked static down hole lossstatic down hole loss  <number> m<number>
+npt rih free from <number> m to <number> m downhole losses <number> m<number>
+nptwash down from <number> m to <number> mcirculate at bottom prior to resume drillingflow rate<number> lpm  spp<number> psitook dirctional survey  <number> md  survey depth  downhole losses <number> m<number>hr during washing down  circulation
+dir drilled <number> hole from <number>m to <number>m flow rate <number> lpm spp  <number> psi wob  <number> t rpm  <number> sur rpm <number> trq  <number> klbft avg rop <number> mhr actual rop on bottom <number> mhrxxunitmwin <number> sgxxunitmwout <number> sg pump bridging sweep <number> m<number>  performed drill  seal procedure while reaming  backreaming downhole losses<number> m<number> losses rate <number>h formation rumaila last sample  <number>m <number>% limestonenote conducted fire drill at <number>hrs good response from crew
+spotted <number> of forma block lcm pill on bottomflow rate <number>lpm pressure <number>psi
+nptpooh dir bha from <number>m to <number>m  <number> casing shoe worked string through tight spot <number>t at <number>m and passed with <number>lpm and <number>rpm ok the rest ok hole ingood condition total losses while pooh to <number> shoe <number> losses rate <number>h circulated at <number>m with <number>lpm <number>psi to flush dm tool
+nptperformed static flow check <number>h
+nptperformed dynamic flow check circulated at <number> lpm to check for down hole losses  no downhole losses
+nptclosed annular bop suqueezed by hesitation in <number> steps as per followingstep pressure psi final press time to stablize min tstrokes<number> <number> <number> <number> <number> <number> <number> <number> <number> <number> <number>note  total volume squeezed  <number>
+npt soaking time for forma block lcm monitored losses by trip tank static losses  <number> m<number>h
+nptrih free from <number> m to <number> mdownhole losses  <number> m<number>hr
+npt wash down from <number> m to <number> m lpm <number> rpm <number> down hole losse rate during wash down  <number>h recorded survey  md  <number>mtvd <number>m inc <number>�� azi <number>��
+npt while performing drill  seal procedure <number>m observed downhole losses  <number> m<number>hr pu offbottm  check static loss observed static loss  <number> m<number> hr pump  spot <number> m<number> ppb lcm at bottom 
+npt pooh free from <number> to <number> mdownhole losses during poh <number> m<number>hr
+npt allowed lcm to soakmean while continued slow circulation  reciprocationflow rate <number> lpm  spp <number> psidowhole losses<number>hr
+nptrih free from <number> to <number>mdownhole losses during rih <number>hr
+nptwash down from <number>m to <number> mflow rate<number> lpm  spp<number> psi downhole losses <number> m<number>hr during washing down  circulationsurface losses <number> m<number>hr took directional survey
+circulate wellbore to <number>ppg using  <number>gpm static until <number> after that losses at <number> bblshr decreased to <number>gpm and at <number> losses rate <number>bblshr reduced to <number>gpm for <number>min and losses rate <number>bblshr reduced to <number>gpm and losses rate <number> bblshr reduced once more to <number>gpm and losses rate <number> bblshr after <number> at <number>bblshr no lossestotal lost while displacing to <number>ppg  <number>bbls
+rih with <number> bha from <number>m to <number>m no significant drag observed
+mu top drive and washed down from <number>m to <number>m at <number>gpm and <number>rpmtight spot at <number>m <number>k wob and <number>k torque increased to <number>rpm and worked that standtight spots at <number>m <number>m <number>m <number>m <number>m <number>m and <number>m wob up to <number>k and torque up to <number>klosses <number>m <number>gpm <number> bblshr <number>m <number>gpm <number> bblshr <number>m <number>gpm <number>bblshr<number>m <number>gpm <number>bblshr <number>m <number>gpm <number>bblshr<number>m <number>gpm <number>bblshr<number>m <number>gpm <number>bblshr 
+performed dynamic flow check at <number>m at <number>gpm no returns total lost while washing down  flow check  <number>bbls
+performed static flow check at <number>m for <number>min <number>bblshr
+tried to pooh on elevators no success pumped out of hole from <number>m to <number>m at <number>gpm and <number>rpm lost <number>bbls
+pooh on elevators from <number>m to <number>m no significant drag or overpull observed lost <number> bbls
+started displacing well to <number>ppg at <number>gpm increasingxxunitin<number>gpm increments losses if pumping more than <number>gpm at <number> increased to <number>gpm at <number> increased to <number>gpmlost while displacing well <number>bbls
+flow checked well static
+rih with <number> bha fr <number>m to <number>mtagged obstruction at <number>m with <number>k wobno losses
+mu top drive and washed down through tight spots from <number>m to <number>m
+while back reaming stand observed pack off worked string from <number>m to <number>m
+pumped <number>bbls of <number>ppb lcm at <number>gpm and spotted at <number>m lost <number>bbls
+pumped out of hole from <number>m to <number>m at <number>gpm no significant torque or overpull observed lost <number>bbls
+pumped <number>bbls of <number>ppb lcm at <number>gpm and reduced to <number>gpm due to losses lost <number>bbls
+flow checked gained <number>bblsxxunitin<number>min <number>bblshr performed dynamic flow check at <number>gpm static
+closed lower annularpumped <number>bbls of <number>ppg down choke linesicp increased <number>psipressure bled offxxunitin<number>min lost <number>bbls
+opened lower annular and flow checked well observed and registered pressures and volumes <number> gained <number>bbls at <number>bblshr <number> gained <number>bbls at <number>bblshr <number> gained <number>bbls at <number>bblshr<number> gained <number>bbls at <number>bblshr <number> gained <number>bbls at <number>bblshr <number> gained <number>bbls at <number>bblshr<number> static <number> gained <number>bbls at <number>bblshr <number> gained <number>bbls at <number>bblshr gained <number>bbls from <number> to <number>
+continued flow check observing and registering pressures and volumes  static
+continued flow check observing and registering pressures and volumes
+pooh on elevators from <number>m to <number>m observed <number>bbls gain  slight swabbing
+pumped out of hole from <number>m to <number>m at <number>gpm lost <number> bbls
+performed flow check static
+pooh from <number>m to surface lostxxunitatotal of <number> bbls coming out from <number>m to surface
+drilling at <number>m observed <number>xxunitbblhrdynamic losses flowchecked �c no static losses observed staged circulation
+npt circulated to pooh to set cement plug to cure lossesfr <number> lpmn spp <number> psilosses <number> m<number>hr
+npt rih with <number> oedp and tagged cement at <number> m circualted to clean <number> dp and pooh to surface
+npt pu <number> rotary bha from derrick and rih to toc  <number> m
+npt drilled out cement from <number> m to <number> m reamed down from <number> m to <number> m flow rate  <number> lpm  spp  <number> psi wob  <number>xxunitt rpm  <number>  torq  <number> ftlbf average rop  <number> mhrs  rop on bottom <number>mhrs dressing of cementxxunitmwin <number> sg xxunitmwout <number> sg  returned hard cement on shakerspumped <number> m<number> of hivis every standobserved no down hole losses formation ��dibdibba
+observed losses while drilling  <number>bbl'shr with <number>gpm flow checked and confirmed no static losses 
+continued making lcm pill while reducing mud weight to <number>ppg
+pumped <number>bbls lcm pill and displaced out of bit 
+pulled through lcm pill from <number>m to <number>m <number>m above theoretical top of lcm
+circulated at <number>gpmxxunitinorder to clear string observed well on tt while allowing pill to soak 
+increased flow ratexxunitinstages from <number>gpm to <number>gpm no dynamic losses observed 
+rih from <number>m to <number>m washing down last two stands as precaution no losses observed at <number>gpm
+rih with oedp to <number>m bottom of dammam
+circ hole prior to spot polyswell
+spot <number> polyswell at <number>lm no returndisplace string volume with <number> at <number>lm no returnpolyswell pill consist ofpolyswel <number> kgm<number>mi seal fine <number> kgm? <number> kgmi seal medium <number> kgm? <number> kgmi seal coarse <number> kgm? <number> kgut plug coarse <number> kgm? <number> kgut plug med <number> kgm? <number> kgalcium carbonate <number> kgm? <number> kg
+pooh with oedp to <number>mtotal water loss <number>total hours on jar sn <number> htotal hours on shock sub sn <number> <number>htotal hours on roller reamer sn xm<number>htotal hours on roller reamer sn xm<number>h
+continue pooh with oedp to <number>m
+pumped <number> of mud on top of polyswell pill with no return
+waited on polyswell to hydrate down hole
+attempted to establish circulation with no successpumped <number> m<number>h at <number> spmclose pipe rams attempt to apply <number> psi pressure no held
+rih washing down with oedp to <number>m pumped drill water at flw<number> lm spp <number> psi
+npt  continue rih with oedp to <number>m
+npt circ and monitor hole for losslosses at <number> lm <number>lhlosses at <number> lm <number>h
+npt ru cement lineheld pjsm
+npt cement plug job pumped <number> m<number> of water  <number> lpmtest cement line to <number>psi mixed and pumped <number> m<number> of cement slurry <number> sg  <number> lpm  pumped <number> of well water behind  <number> lpm continues water return while pumping cement
+npt woc pooh with oedp to <number>m
+npt woc circ <number>x annular volume at <number> lm no lossesscement return to surface
+npt woc pooh with oedp to surface
+npt woc checked the mud pump  <number>  <number> clean the suction filters from the mud pumps mixed fresh mud performed general housekeeping on the rigobserved partial losses  <number> m<number>h
+npt mu bit nad bha and rih to <number>m
+npt cont rih washing down with <number>lm to <number>mobserved green cement on shaker
+npt circulate bottom upobserved green cement on shaker
+npt continue wash down and tag top of cement at <number>m
+npt drill out hard cement from <number>m to <number>mfr <number> lm rpm <number> wob <number>tfull return while pumping with <number> lmtotal water loss <number> m<number>total hours on bit <number> htotal hours on jar sn <number> htotal hours on roller reamer sn mx<number> htotal hours on roller reamer sn mx<number>h
+npt drill out hard cement from <number>m to <number>m without losses
+nptdrill out hardsoft cement from <number>m to <number>mpartial mud loss at <number>h
+npt drill out hardsoft cement from <number>m to <number>mpartial mud loss at <number>hobserved lcm and cement at shaker
