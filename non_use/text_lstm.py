@@ -1,7 +1,7 @@
 import tensorflow as tf
 
 
-class TextLstm:
+class TextLstm(object):
     """
     Creates a deep model based on:
         * stacked lstm cells

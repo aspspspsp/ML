@@ -7,7 +7,7 @@ import time
 import numpy as np
 import tensorflow as tf
 from tensorflow.contrib import learn
-from text_cnn import TextCNN
+from cnn.text_cnn import TextCNN
 
 from cnn import data_helpers
 
@@ -16,10 +16,10 @@ from cnn import data_helpers
 
 # Data loading params
 tf.flags.DEFINE_float("dev_sample_percentage", .1, "Percentage of the training data to use for vaildation")
-tf.flags.DEFINE_string("loss_circulation_data_file", "./data/loss_circulation_data.txt", "Data source for loss circulation")
-tf.flags.DEFINE_string("kick_data_file", "./data/kick_data.txt", "Data source for kick")
-tf.flags.DEFINE_string("stuck_pipe_data_file", "./data/stuck_pipe_data.txt", "Data source for stuck pipe")
-tf.flags.DEFINE_string("other_data_file", "./data/other_data.txt", "Data source for other")
+tf.flags.DEFINE_string("loss_circulation_data_file", "../data/loss_circulation_data.txt", "Data source for loss circulation")
+tf.flags.DEFINE_string("kick_data_file", "../data/kick_data.txt", "Data source for kick")
+tf.flags.DEFINE_string("stuck_pipe_data_file", "../data/stuck_pipe_data.txt", "Data source for stuck pipe")
+tf.flags.DEFINE_string("other_data_file", "../data/other_data.txt", "Data source for other")
 
 # Model Hyperparameters
 tf.flags.DEFINE_integer("embedding_dim", 128, "Dimensionality of character embedding (default: 128)")

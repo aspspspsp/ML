@@ -104,6 +104,7 @@ biases = {
     'out': tf.Variable(tf.random_normal([n_classes]))
 }
 
+
 def dynamicRNN(x, seqlen, weights, biases):
 
     # Prepare data shape to match `rnn` function requirements

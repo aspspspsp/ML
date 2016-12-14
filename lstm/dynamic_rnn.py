@@ -10,68 +10,9 @@ Project: https://github.com/aymericdamien/TensorFlow-Examples/
 from __future__ import print_function
 
 import tensorflow as tf
-import random
-
-
-# ====================
-#  TOY DATA GENERATOR
-# ====================
-class ToySequenceData(object):
-    """ Generate sequence of data with dynamic length.
-    This class generate samples for training:
-    - Class 0: linear sequences (i.e. [0, 1, 2, 3,...])
-    - Class 1: random sequences (i.e. [1, 3, 10, 7,...])
-    NOTICE:
-    We have to pad each sequence to reach 'max_seq_len' for TensorFlow
-    consistency (we cannot feed a numpy array with inconsistent
-    dimensions). The dynamic calculation will then be perform thanks to
-    'seqlen' attribute that records every actual sequence length.
-    """
-    def __init__(self, n_samples=1000, max_seq_len=20, min_seq_len=3,
-                 max_value=1000):
-        self.data = []
-        self.labels = []
-        self.seqlen = []
-        for i in range(n_samples):
-            # Random sequence length
-            len = random.randint(min_seq_len, max_seq_len)
-            # Monitor sequence length for TensorFlow dynamic calculation
-            self.seqlen.append(len)
-            # Add a random or linear int sequence (50% prob)
-            if random.random() < .5:
-                # Generate a linear sequence
-                rand_start = random.randint(0, max_value - len)
-                s = [[float(i)/max_value] for i in
-                     range(rand_start, rand_start + len)]
-                # Pad sequence for dimension consistency
-                s += [[0.] for i in range(max_seq_len - len)]
-                self.data.append(s)
-                self.labels.append([1., 0.])
-            else:
-                # Generate a random sequence
-                s = [[float(random.randint(0, max_value))/max_value]
-                     for i in range(len)]
-                # Pad sequence for dimension consistency
-                s += [[0.] for i in range(max_seq_len - len)]
-                self.data.append(s)
-                self.labels.append([0., 1.])
-        self.batch_id = 0
-
-    def next(self, batch_size):
-        """ Return a batch of data. When dataset end is reached, start over.
-        """
-        if self.batch_id == len(self.data):
-            self.batch_id = 0
-        batch_data = (self.data[self.batch_id:min(self.batch_id +
-                                                  batch_size, len(self.data))])
-        batch_labels = (self.labels[self.batch_id:min(self.batch_id +
-                                                  batch_size, len(self.data))])
-        batch_seqlen = (self.seqlen[self.batch_id:min(self.batch_id +
-                                                  batch_size, len(self.data))])
-        self.batch_id = min(self.batch_id + batch_size, len(self.data))
-        return batch_data, batch_labels, batch_seqlen
-
-
+from lstm import data_helpers
+from tensorflow.contrib import learn
+import numpy as np
 # ==========
 #   MODEL
 # ==========
@@ -87,8 +28,46 @@ seq_max_len = 20 # Sequence max length
 n_hidden = 64 # hidden layer num of features
 n_classes = 2 # linear sequence or not
 
-trainset = ToySequenceData(n_samples=1000, max_seq_len=seq_max_len)
-testset = ToySequenceData(n_samples=500, max_seq_len=seq_max_len)
+
+# Data loading params
+tf.flags.DEFINE_float("dev_sample_percentage", .1, "Percentage of the training data to use for vaildation")
+tf.flags.DEFINE_string("loss_circulation_data_file", "../data/loss_circulation_data.txt", "Data source for loss circulation")
+tf.flags.DEFINE_string("kick_data_file", "../data/kick_data.txt", "Data source for kick")
+tf.flags.DEFINE_string("stuck_pipe_data_file", "../data/stuck_pipe_data.txt", "Data source for stuck pipe")
+tf.flags.DEFINE_string("other_data_file", "../data/other_data.txt", "Data source for other")
+
+FLAGS = tf.flags.FLAGS
+
+# Load data
+print("Loading data...")
+x_text, y, sent_lens = data_helpers.load_data_and_labels(
+    FLAGS.loss_circulation_data_file, FLAGS.kick_data_file,
+    FLAGS.stuck_pipe_data_file, FLAGS.other_data_file)
+
+# Build vocabulary
+max_document_length = max([len(x.split(" ")) for x in x_text])
+vocab_processor = learn.preprocessing.VocabularyProcessor(max_document_length)
+x = np.array(list(vocab_processor.fit_transform(x_text)))
+
+# Reshape sent_lens matrix
+sent_lens = np.array(sent_lens)
+
+# Randomly shuffle data
+np.random.seed(10)
+shuffle_indices = np.random.permutation(np.arange(len(y)))
+x_shuffled = x[shuffle_indices]
+y_shuffled = y[shuffle_indices]
+sent_lens_shuffled = sent_lens[shuffle_indices]
+
+# Split train/test set
+# TODO: This is very crude, should use cross-validation
+dev_sample_index = -1 * int(FLAGS.dev_sample_percentage * float(len(y)))
+x_train, x_dev = x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index:]
+y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index:]
+sent_len_train, sent_dev_dev = sent_lens_shuffled[:dev_sample_index], sent_lens_shuffled[dev_sample_index:]
+print("Vocabulary Size: {:d}".format(len(vocab_processor.vocabulary_)))
+print("Train/Dev split: {:d}/{:d}".format(len(y_train), len(y_dev)))
+print("Train/Dev split: {:d}/{:d}".format(len(sent_len_train), len(sent_dev_dev)))
 
 # tf Graph input
 x = tf.placeholder("float", [None, seq_max_len, 1])
@@ -103,7 +82,6 @@ weights = {
 biases = {
     'out': tf.Variable(tf.random_normal([n_classes]))
 }
-
 
 def dynamicRNN(x, seqlen, weights, biases):
 
@@ -167,7 +145,7 @@ with tf.Session() as sess:
     step = 1
     # Keep training until reach max iterations
     while step * batch_size < training_iters:
-        batch_x, batch_y, batch_seqlen = trainset.next(batch_size)
+        batch_x, batch_y, batch_seqlen = trainset
         # Run optimization op (backprop)
         sess.run(optimizer, feed_dict={x: batch_x, y: batch_y,
                                        seqlen: batch_seqlen})
