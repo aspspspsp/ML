@@ -40,9 +40,6 @@ def load_data_and_labels(
     x_text = loss_circulation_examples + kick_examples + stuck_pipe_example + other_data_example
     x_text = [clean_str(sent) for sent in x_text]
 
-    # Get lengths of all sentences
-    sent_lens = [len(clean_str(sent)) for sent in x_text]
-
     # Generate labels
     loss_circulation_labels = [[0, 0, 0, 1] for _ in loss_circulation_examples]
     kick_examples_labels = [[0, 0, 1, 0] for _ in kick_examples]
@@ -50,7 +47,7 @@ def load_data_and_labels(
     other_data_example_labels = [[1, 0, 0, 0] for _ in other_data_example]
     y = np.concatenate([loss_circulation_labels, kick_examples_labels, stuck_pipe_example_labels, other_data_example_labels], 0)
 
-    return x_text, y, sent_lens
+    return x_text, y
 
 def read_sample(example_file):
     examples = list(open(example_file, "r", errors='ignore').readlines())
