@@ -25,6 +25,7 @@ n_inputs = 10
 n_steps = 21
 display_step = 10
 check_point_every = 1000
+embedding_dim = 128
 
 # Data loading params
 tf.flags.DEFINE_float("dev_sample_percentage", .1, "Percentage of the training data to use for vaildation")
@@ -40,16 +41,16 @@ print("Loading data...")
 x_text, y = data_helpers.load_data_and_labels(
     FLAGS.loss_circulation_data_file, FLAGS.kick_data_file,
     FLAGS.stuck_pipe_data_file, FLAGS.other_data_file)
-
 # Network Parameters
 n_hidden = 128 # hidden layer num of features
 n_classes = y.shape[1] # linear sequence or not
 
 # Build vocabulary
 max_document_length = max([len(x.split(" ")) for x in x_text])
+
+#######重要
 vocab_processor = learn.preprocessing.VocabularyProcessor(max_document_length)
 x = np.array(list(vocab_processor.fit_transform(x_text)))
-
 # Randomly shuffle data
 np.random.seed(10)
 shuffle_indices = np.random.permutation(np.arange(len(y)))
@@ -61,16 +62,21 @@ y_shuffled = y[shuffle_indices]
 dev_sample_index = -1 * int(FLAGS.dev_sample_percentage * float(len(y)))
 x_train, x_dev = x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index:]
 y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index:]
+
 print("Vocabulary Size: {:d}".format(len(vocab_processor.vocabulary_)))
 print("Train/Dev split: {:d}/{:d}".format(len(y_train), len(y_dev)))
 # tf Graph input
-x = tf.placeholder(tf.float32, [None, n_steps, n_inputs])
-y = tf.placeholder(tf.float32, [None, n_classes])
+x = tf.placeholder(tf.int32, [None, n_inputs, n_steps])
+y = tf.placeholder(tf.int32, [None, n_classes])
+
+vocab_size = len(vocab_processor.vocabulary_)
 
 # Define weights
 weights = {
+    # embedding(vocab_size, embedding_dim)
+    'embedding': tf.Variable(tf.random_uniform([vocab_size, embedding_dim], -1.0, 1.0)),
     # shape (30, 128)
-    'in': tf.Variable(tf.random_normal([n_inputs, n_hidden])),
+    'in': tf.Variable(tf.random_normal([embedding_dim, n_hidden])),
     # shape (128, 4)
     'out': tf.Variable(tf.random_normal([n_hidden, n_classes]))
 }
@@ -81,15 +87,20 @@ biases = {
     'out': tf.Variable(tf.constant(0.1, shape=[n_classes, ]))
 }
 
-def dynamicRNN(X, n_inputs, weights, biases):
-    # 原始的 X 是 3 维数据, 我们需要把它变成 2 维数据才能使用 weights 的矩阵乘法
-    # X ==> (128 batches * 210 steps, 128 inputs)
-    X = tf.reshape(X, [-1, n_inputs])
-    # X_in = W*X + b
-    X_in = tf.matmul(X, weights['in']) + biases['in']
-    # X_in ==> (128 batches, 210 steps, 128 hidden) 换回3维
-    X_in = tf.reshape(X_in, [-1, n_steps, n_hidden])
+def dynamicRNN(X, step, n_inputs, weights, biases):
+    print("X", X)
+    # 建立查找矩陣
+    embedded_chars = tf.nn.embedding_lookup(weights['embedding'], X)
+    print('embed', embedded_chars)
 
+    # 將矩陣reshape(為了與w['in']相乘)
+    X_in = tf.reshape(embedded_chars, [-1, embedding_dim])
+    print("X_in", X_in)
+    X_in = tf.matmul(X_in, weights['in'])
+
+    # 將矩陣回復到之前的狀態
+    X_in = tf.reshape(X_in, [-1, n_inputs * step, embedding_dim])
+    print('x_in', X_in)
      # 使用 basic LSTM Cell.
     lstm_cell = tf.nn.rnn_cell.BasicLSTMCell(n_hidden, forget_bias=0.1, state_is_tuple=True)
     init_state = lstm_cell.zero_state(batch_size, dtype=tf.float32) # 初始化全零 state
@@ -100,7 +111,7 @@ def dynamicRNN(X, n_inputs, weights, biases):
 
     return results
 
-pred = dynamicRNN(x, n_inputs, weights, biases)
+pred = dynamicRNN(x, n_steps, n_inputs, weights, biases)
 
 # Define loss and optimizer
 cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(pred, y))
@@ -127,12 +138,13 @@ with tf.Session() as sess:
         # Read batch of data
         batch_x, batch_y = zip(*batch)
         # Reshape data
-        batch_x = [np.array(batch_x[i]).reshape(n_steps, n_inputs) for i in range(0, len(batch_x))]
+        batch_x = [np.array(batch_x[i]).reshape(n_inputs, n_steps) for i in range(0, len(batch_x))]
 
         if len(batch_x) != batch_size:
             continue
 
         # Run optimization op (backprop)
+        print(len(batch_x), len(batch_x[0]), len(batch_x[0][1]))
         sess.run(optimizer, feed_dict={x: batch_x, y: batch_y})
 
         if step % display_step == 0:
