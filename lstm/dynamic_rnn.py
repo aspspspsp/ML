@@ -144,7 +144,6 @@ with tf.Session() as sess:
             continue
 
         # Run optimization op (backprop)
-        print(len(batch_x), len(batch_x[0]), len(batch_x[0][1]))
         sess.run(optimizer, feed_dict={x: batch_x, y: batch_y})
 
         if step % display_step == 0:
