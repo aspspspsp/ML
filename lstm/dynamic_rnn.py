@@ -104,7 +104,7 @@ def dynamicRNN(X, step, n_inputs, weights, biases):
      # 使用 basic LSTM Cell.
     lstm_cell = tf.nn.rnn_cell.BasicLSTMCell(n_hidden, forget_bias=0.1, state_is_tuple=True)
     init_state = lstm_cell.zero_state(batch_size, dtype=tf.float32) # 初始化全零 state
-
+    print("initsfdsf", init_state)
     outputs, final_state = tf.nn.dynamic_rnn(lstm_cell, X_in, initial_state=init_state, time_major=False)
 
     results = tf.matmul(final_state[1], weights['out']) + biases['out']
