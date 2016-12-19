@@ -97,6 +97,7 @@ def dynamicRNN(X, step, n_inputs, weights, biases):
     X_in = tf.reshape(embedded_chars, [-1, embedding_dim])
     print("X_in", X_in)
     X_in = tf.matmul(X_in, weights['in'])
+    print("X_in", X_in)
 
     # 將矩陣回復到之前的狀態
     X_in = tf.reshape(X_in, [-1, n_inputs * step, embedding_dim])
