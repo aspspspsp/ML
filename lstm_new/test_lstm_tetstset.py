@@ -27,31 +27,20 @@ class TextLSTM(object):
                     tf.random_uniform([vocab_size, embedding_size], -1.0, 1.0),
                     name="W")
             self.embedded_chars = tf.nn.embedding_lookup(W, self.input_x)
-
         # Add dropout
         with tf.name_scope("dropout"):
             keep_prob = 1
             self.h_drop = tf.nn.dropout(self.embedded_chars, keep_prob)
-            print('self.embedded_chars', self.embedded_chars)
-        lstm_cell = tf.nn.rnn_cell.BasicLSTMCell(n_hidden, forget_bias=0.0, state_is_tuple=True)
-        lstm_cell = tf.nn.rnn_cell.DropoutWrapper(lstm_cell, output_keep_prob=1)
-        cell = tf.nn.rnn_cell.MultiRNNCell([lstm_cell] * 1, state_is_tuple=True) # 多层lstm cell 堆叠起来
-        self._initial_state = cell.zero_state(210, tf.float32) # 参数初始化,rnn_cell.RNNCell.zero_state
 
-        outputs = []
-        state = self._initial_state # state 表示 各个batch中的状态
-        with tf.variable_scope("RNN"):
-            for time_step in range(n_steps):
-                if time_step > 0:
-                    tf.get_variable_scope().reuse_variables()
-                # cell_out: [batch, hidden_size]
-                (cell_output, state) = cell(self.h_drop[time_step, : , :], state)
-                outputs.append(cell_output)  # output: shape[batch,hidden_size][num_steps]
-        print('tets', outputs)
-        exit()
-        self.output = tf.reshape(tf.concat(1, outputs), [-1, 210, n_hidden])
+        # lstm layer
+        with tf.name_scope("lstm"):
+            lstm_cell = tf.nn.rnn_cell.BasicLSTMCell(n_hidden, forget_bias=0.0, state_is_tuple=True)
+            cell = tf.nn.rnn_cell.MultiRNNCell([lstm_cell] * n_hidden, state_is_tuple=True)
+            initial_state = cell.zero_state(batch_size, dtype=tf.float32)
+            self.output, self.state = tf.nn.dynamic_rnn(cell, self.h_drop, initial_state=initial_state)
 
-        self.output = tf.unpack(tf.transpose(self.output, [1, 0]))
+        with tf.name_scope("mean_pooling_layer"):
+            self.output = tf.unpack(tf.transpose(self.output, [1, 0, 2]))
 
         # Final (unnormalized) scores and predictions
         with tf.name_scope("Softmax_layer_and_output"):

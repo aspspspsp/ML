@@ -82,6 +82,10 @@ with tf.Graph().as_default():
       allow_soft_placement=FLAGS.allow_soft_placement,
       log_device_placement=FLAGS.log_device_placement)
     sess = tf.Session(config=session_conf)
+
+    # ninput
+    n_inputs = 21;
+    n_steps = 3
     with sess.as_default():
         lstm = TextLSTM(
             sequence_length=x_train.shape[1],
@@ -92,7 +96,10 @@ with tf.Graph().as_default():
             n_hidden=33,
             batch_size=FLAGS.batch_size,
             num_filters=FLAGS.num_filters,
-            l2_reg_lambda=FLAGS.l2_reg_lambda)
+            l2_reg_lambda=FLAGS.l2_reg_lambda,
+            n_inputs=n_inputs,
+            n_steps=n_steps
+        )
 
         # Define Training procedure
         global_step = tf.Variable(0, name="global_step", trainable=False)
@@ -181,6 +188,8 @@ with tf.Graph().as_default():
         # Training loop. For each batch...
         for batch in batches:
             x_batch, y_batch = zip(*batch)
+            print(len(x_batch), len(x_batch[0]))
+
             train_step(x_batch, y_batch)
             current_step = tf.train.global_step(sess, global_step)
             if current_step % FLAGS.evaluate_every == 0:
