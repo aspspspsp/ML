@@ -68,8 +68,8 @@ y_shuffled = y[shuffle_indices]
 # Split train/test set
 # TODO: This is very crude, should use cross-validation
 dev_sample_index = -1 * int(FLAGS.dev_sample_percentage * float(len(y)))
-x_train, x_dev = x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index:]
-y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index:]
+x_train, x_dev = x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index: dev_sample_index + 64]
+y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index: dev_sample_index + 64]
 print("Vocabulary Size: {:d}".format(len(vocab_processor.vocabulary_)))
 print("Train/Dev split: {:d}/{:d}".format(len(y_train), len(y_dev)))
 
@@ -83,22 +83,15 @@ with tf.Graph().as_default():
       log_device_placement=FLAGS.log_device_placement)
     sess = tf.Session(config=session_conf)
 
-    # ninput
-    n_inputs = 21;
-    n_steps = 3
     with sess.as_default():
         lstm = TextLSTM(
             sequence_length=x_train.shape[1],
             num_classes=y_train.shape[1],
             vocab_size=len(vocab_processor.vocabulary_),
             embedding_size=FLAGS.embedding_dim,
-            filter_sizes=list(map(int, FLAGS.filter_sizes.split(","))),
             n_hidden=33,
             batch_size=FLAGS.batch_size,
-            num_filters=FLAGS.num_filters,
             l2_reg_lambda=FLAGS.l2_reg_lambda,
-            n_inputs=n_inputs,
-            n_steps=n_steps
         )
 
         # Define Training procedure
@@ -188,8 +181,8 @@ with tf.Graph().as_default():
         # Training loop. For each batch...
         for batch in batches:
             x_batch, y_batch = zip(*batch)
-            print(len(x_batch), len(x_batch[0]))
-
+            if len(x_batch) < FLAGS.batch_size:
+                continue
             train_step(x_batch, y_batch)
             current_step = tf.train.global_step(sess, global_step)
             if current_step % FLAGS.evaluate_every == 0:
