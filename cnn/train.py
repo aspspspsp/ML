@@ -160,6 +160,7 @@ with tf.Graph().as_default():
             """
             Evaluates model on a dev set
             """
+            print('dev', len(x_batch))
             feed_dict = {
               cnn.input_x: x_batch,
               cnn.input_y: y_batch,
