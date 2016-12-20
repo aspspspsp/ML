@@ -23,10 +23,11 @@ tf.flags.DEFINE_string("other_data_file", "../data/other_data.txt", "Data source
 
 # Model Hyperparameters
 tf.flags.DEFINE_integer("embedding_dim", 128, "Dimensionality of character embedding (default: 128)")
-tf.flags.DEFINE_string("filter_sizes", "3,4,5", "Comma-separated filter sizes (default: '3,4,5')")
-tf.flags.DEFINE_integer("num_filters", 128, "Number of filters per filter size (default: 128)")
 tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (default: 0.5)")
 tf.flags.DEFINE_float("l2_reg_lambda", 0.0, "L2 regularizaion lambda (default: 0.0)")
+tf.flags.DEFINE_integer("forget_bias", 0.5, "Number of forget bias (default: 1)")
+tf.flags.DEFINE_integer("hidden_layer", 128, "Number of hidden layer (default: 128)")
+tf.flags.DEFINE_integer("learning_rate", 0.04, "Learning rate (default: 1e-4)")
 
 # Training parameters
 tf.flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 64)")
@@ -68,8 +69,8 @@ y_shuffled = y[shuffle_indices]
 # Split train/test set
 # TODO: This is very crude, should use cross-validation
 dev_sample_index = -1 * int(FLAGS.dev_sample_percentage * float(len(y)))
-x_train, x_dev = x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index: dev_sample_index + 64]
-y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index: dev_sample_index + 64]
+x_train, x_dev = x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index + 64:dev_sample_index + 128]
+y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index + 64:dev_sample_index + 128]
 print("Vocabulary Size: {:d}".format(len(vocab_processor.vocabulary_)))
 print("Train/Dev split: {:d}/{:d}".format(len(y_train), len(y_dev)))
 
@@ -89,14 +90,15 @@ with tf.Graph().as_default():
             num_classes=y_train.shape[1],
             vocab_size=len(vocab_processor.vocabulary_),
             embedding_size=FLAGS.embedding_dim,
-            n_hidden=33,
+            forget_bias=FLAGS.forget_bias,
+            n_hidden=FLAGS.hidden_layer,
             batch_size=FLAGS.batch_size,
             l2_reg_lambda=FLAGS.l2_reg_lambda,
         )
 
         # Define Training procedure
         global_step = tf.Variable(0, name="global_step", trainable=False)
-        optimizer = tf.train.AdamOptimizer(1e-3)
+        optimizer = tf.train.AdamOptimizer(FLAGS.learning_rate)
         grads_and_vars = optimizer.compute_gradients(lstm.loss)
         train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
 

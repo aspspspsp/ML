@@ -1,19 +1,19 @@
-got stuck at <number> while reaming up stand worked string with circulation unable to rotate torque higher them <number> klbft and got free partial packoff <number> gpm <number> psi out of bottom pumped <number>xxunitbbllo and <number>xxunitbblhivis
+﻿got stuck at <number> while reaming up stand worked string with circulation unable to rotate torque higher them <number> klbft and got free partial packoff <number> gpm <number> psi out of bottom pumped <number>xxunitbbllo and <number>xxunitbblhivis
 observed string packing off pressure increase from <number>psi  <number>psi and torque increase lost returns able to 
 established circulating parameters at <number>gpm <number>psi attempted to increase circulating rate to <number>gpm 
-observed string taking weight <number>klb's attempted to wash past obstruction  string packed off 
+observed string taking weight <number>klb s attempted to wash past obstruction  string packed off 
 ream from <number>m to <number>m packoff  no returns or rotation work pipe and free string reestablish returns
 npt worked string down till get free <number> m worked string down with  wiegth  pumping out  fired the jar applying <number>xxunittonslack off several time  pumped out flow rate  <number>  <number> ltsmin spp  <number> psi till get free downhole losses <number>  <number> m<number>hr
 npt  worked string down till get free  <number>xxunitmworked string down with weight  pumping out  fired the jar applying <number>xxunittonslack off several time  pumped out flow rate  <number> ltsmin spp  <number>psi till get free downhole losses <number>xxunitmthre <number> m<number>hr
 tried to move the string found the string stuckworked on stuck by jarring down with torque  jarring up without pump meanwhile weighted up new volume for circwork on string betw <number>  <number> klb by jarring up  down
-cont'd working on the stuck with circ by jarring up  down meanwhile preparing <number> bbls glycol pillwork on string betw <number>  <number> klb by jarring up  down
+cont d working on the stuck with circ by jarring up  down meanwhile preparing <number> bbls glycol pillwork on string betw <number>  <number> klb by jarring up  down
 pumped  displaced <number> bbls of glycol pill aorund bha
-cont'd working on the stuck pipe by jarring down  up with torquespot glycol pill on btmpumped <number> bbls every hourwork on string betw <number>  <number> klb by jarring up  down
-cont'd working on the stuck pipe by jarring down  up with torqueglycol pill on btmpumped <number> bbls every hourwork on string betw <number>  <number> klb by jarring up  down
+cont d working on the stuck pipe by jarring down  up with torquespot glycol pill on btmpumped <number> bbls every hourwork on string betw <number>  <number> klb by jarring up  down
+cont d working on the stuck pipe by jarring down  up with torqueglycol pill on btmpumped <number> bbls every hourwork on string betw <number>  <number> klb by jarring up  down
 circulated glycol pill out  worked on the stuck meanwhile preparing grease pill
-pumped <number> bbls grease pill  displaced itput <number> bb's out of the string
-cont'd working on the stuck pipe by jarring down  up with torquework on string betw <number>  <number> klb by jarring up  downapplied torque <number> ftlb
-cont'd working on the stuck pipe by jarring down with  <number> ftlb torque until got freework on string betw <number>  <number> klb
+pumped <number> bbls grease pill  displaced itput <number> bb s out of the string
+cont d working on the stuck pipe by jarring down  up with torquework on string betw <number>  <number> klb by jarring up  downapplied torque <number> ftlb
+cont d working on the stuck pipe by jarring down with  <number> ftlb torque until got freework on string betw <number>  <number> klb
 mup bop jetting sub jetted and circulated at <number> bpmagainst annular and <number> bpm against rams pooh  ld bopjetting sub
 driller stopped drilling and shut in the well at <number> am due to fluid being discharged out of the top of bop shut in casing pressure at the manifold accounted was negligible tsm well was opened to the flare line and small gas flow recognized at flare pit work on stuck pipe  pipe free work pipe and clean up hole
 npt poh from <number>m to <number>m bit depth broke circulation and worked tight hole from <number>m to <number>m  no more progres the top of the shieranish is at <number>m all depths reported are bit depths maximum over pull<number>mt maximum slack off weight<number>mt
@@ -26,21 +26,21 @@ npt continued working tight hole up and down from <number> m to <number> m with 
 npt worked on stuck pipe  cleaned slug pit and mixing line  mixed <number>xxunitmthrepipelax pill added <number>xxunitmthrediesel <number> drums pipe lax and <number> water kept circulating for <number>min to shear the emulsion added <number> mt barite until density <number> sg  spotted pipelax pill   pulled stringxxunitintension to <number> mt <number> klbf locked the brake down applied right hand torque to <number> klbfft  soaked for <number> hr and monitored tension and torque pumped out <number>xxunitmthreof pipelax soaked for another <number> hr  reduced tension from <number> to <number> klbf and released torque  started work string up with circulation for <number> min to cock jar  no success   started work string down to maximum slack off <number> mt with jar and right hand torque to <number> klbf torque flow rate  <number> lpm continued to work the string down to maximum slack off <number> mt and resetting jar and applying <number> klbf torque pipe becomes free  background gas  <number>% <number> units  average dhole losses  <number> m<number>hr total fluid lost <number> m<number>
 npt pipe stuck on bottom at <number> m during drilling work pipe stuck untill freeat <number> m tds lost power due suddenly increase of torque to <number> ftlbf resulting in pipe stuck not posible to pick up not possible to rotate circulations free work string untill free max torque applied <number> ftlbf max over pull <number> mt backreamed and reamed down
 casing became stuck at <number> m tried to circulate down unsuccessfully decided to cementxxunitinplace
-npt attempt to wash up from <number>' by using <number> gpm  <number> psi no success due to high over pull attempt to back ream and observed high torque up to <number> klbft  high over pull drill string is able to rotate able to pump but not able to move string upwards with working on same with maximum <number> klb's over pull  pumped <number> bbls of anti balling pill and hi vis pill continue pumping inhibited water and back reaming from <number>' to <number>' by using <number>  <number> gpm <number>  <number> psi <number> surface rpm  torque <number>  <number> klbft decided to pump <number> bbls of hivis pill and switched pumping down the string from water to mud no progress observed after pumped all hivis and mud available on mud system switched to water and continued mixing mud string still  rotating with erratic torque continued working on string upward gently with maximum <number> kl's over pull torque is fluctuated with high tendency up to <number> klbft with no progress
-npt continue attempting back reaming from <number>' by using <number> gpm <number> psi <number> rpm  torque <number>  <number> klbft continue pumped inhibited water asxxunitadrilling fluid not able to make back reaming due to high torque up to <number> klbft while rotating the string at the same place <number>' with <number> surface rpm <number> gpm  <number> psi observed tds suddenly stop due to high torque up to <number> klbft not able to rotate drill string and not able move string up or down string got stuck
-npt attempt to worked on stuck pipe by jarring down jar not working down work string down with all the string weight no success discussed with the office decided to jar up no success work the string up with maximum over pull up to <number> klb's no success
-npt work on stuck pipe attempt to worked on stuck pipe by jarring down jar not working down work string down with all the string weight with right torque at <number> klft no success continued working the string with jarring up with maximum <number> klb's over pull  slack off all the string weight with right torque pumped mud to the annuals occasionally pumped down trough annulus <number> bbl of clean spot pill friendly pill swept the hole with several times of hi vis pill continued build up new mud and pump same down the string  received <number> bbl of mud from aramco the string got free at <number> pm
+npt attempt to wash up from <number>  by using <number> gpm  <number> psi no success due to high over pull attempt to back ream and observed high torque up to <number> klbft  high over pull drill string is able to rotate able to pump but not able to move string upwards with working on same with maximum <number> klb s over pull  pumped <number> bbls of anti balling pill and hi vis pill continue pumping inhibited water and back reaming from <number>  to <number>  by using <number>  <number> gpm <number>  <number> psi <number> surface rpm  torque <number>  <number> klbft decided to pump <number> bbls of hivis pill and switched pumping down the string from water to mud no progress observed after pumped all hivis and mud available on mud system switched to water and continued mixing mud string still  rotating with erratic torque continued working on string upward gently with maximum <number> kl s over pull torque is fluctuated with high tendency up to <number> klbft with no progress
+npt continue attempting back reaming from <number>  by using <number> gpm <number> psi <number> rpm  torque <number>  <number> klbft continue pumped inhibited water asxxunitadrilling fluid not able to make back reaming due to high torque up to <number> klbft while rotating the string at the same place <number>  with <number> surface rpm <number> gpm  <number> psi observed tds suddenly stop due to high torque up to <number> klbft not able to rotate drill string and not able move string up or down string got stuck
+npt attempt to worked on stuck pipe by jarring down jar not working down work string down with all the string weight no success discussed with the office decided to jar up no success work the string up with maximum over pull up to <number> klb s no success
+npt work on stuck pipe attempt to worked on stuck pipe by jarring down jar not working down work string down with all the string weight with right torque at <number> klft no success continued working the string with jarring up with maximum <number> klb s over pull  slack off all the string weight with right torque pumped mud to the annuals occasionally pumped down trough annulus <number> bbl of clean spot pill friendly pill swept the hole with several times of hi vis pill continued build up new mud and pump same down the string  received <number> bbl of mud from aramco the string got free at <number> pm
 npt continued rotating and working up and down string to clean the holepumped hivis pills several times to improve hole cleaning <number> bbl each time
-npt  hard back ream first stand from <number>' to <number>' and continued pump out free from <number>' to <number> casing shoe  <number>'  swept the hole several times with hi vis pill pumped down trough annulus <number> bbl of clean spot pill friendly pill rack back <number> stand of <number> hwdp  <number> stands of <number> dc
-npt pooh single by single from <number>' to surface break out  lay down all bha components for inspection performed shallow hole test at mud motor with <number> gpm  <number> psi ok <number> bit dull grading <number>wtaeinohp
+npt  hard back ream first stand from <number>  to <number>  and continued pump out free from <number>  to <number> casing shoe  <number>   swept the hole several times with hi vis pill pumped down trough annulus <number> bbl of clean spot pill friendly pill rack back <number> stand of <number> hwdp  <number> stands of <number> dc
+npt pooh single by single from <number>  to surface break out  lay down all bha components for inspection performed shallow hole test at mud motor with <number> gpm  <number> psi ok <number> bit dull grading <number>wtaeinohp
 npt break out  lay down for inspection <number> stands of <number> hwdp  <number> joints of <number> dc  <number> drilling jar
 npt completed break out  lay down all <number> bha for inspection house keeping on the rig floor
 npt pick up and make up new <number> bha  rack back on derrick <number> x <number> hwdp  <number> x <number> dc  <number> drlg jar  <number> x <number> dc
 npt picked up  made up <number> gs<number>ve<number> rr tricone bit sn pz<number>x<number>x<number>  <number> motor power edge with <number> sleeve stab performed shallow hole test with <number>gpm  <number> psi ok
 npt continue making up bha as follow ?
-npt continue rih in open hole on elevators from <number>' to <number>' no tight spots encountered in this interval
-npt ream down precautionary from <number>' to <number>' with <number> gpm  <number> psi <number> surface rpm  <number> downhole motor sweep hole with <number> bbls of hivis pill
-npt work on stuck pipe while connection at <number>'  connection time consumed <number> mins due to tds malfunction string got stuck ld one single due to stuck on bottom while connection worked on stuck pipe by jarring up and work until free
+npt continue rih in open hole on elevators from <number>  to <number>  no tight spots encountered in this interval
+npt ream down precautionary from <number>  to <number>  with <number> gpm  <number> psi <number> surface rpm  <number> downhole motor sweep hole with <number> bbls of hivis pill
+npt work on stuck pipe while connection at <number>   connection time consumed <number> mins due to tds malfunction string got stuck ld one single due to stuck on bottom while connection worked on stuck pipe by jarring up and work until free
 mup bop jetting sub jetted and circulated at <number> bpm against annular and <number> bpm against rams pooh  ld bop jetting sub
 work torque down to fish��overpull  <number> tons slack off  <number> tons��torque  <number> ft��lbs
 work casing up and down��hookload  <number>  <number> tons��no returns  spp  <number> psi��no losses observed
@@ -58,31 +58,31 @@ ru wireline pack off  pump in sub
 pjsm w slb wireline on p test  guns
 pressure test packoff assembly to <number> psi for <number> min no pressure drop
 arm  pu <number> <number> ft guns w <number> spf
-rih gun's to <number> m  perforate from <number> m to <number> m  <number> spf<number> shots total
+rih gun s to <number> m  perforate from <number> m to <number> m  <number> spf<number> shots total
 pooh guns ld packoff pump in sub and xover  disconnect and ld guns
 connect cds to casing attempt to circulate pressure built up to <number> psi  held for <number>min no returns no pressure drop   
-pooh gun's ld packoff pump in sub and xover  disconnect and ld gun's tool
+pooh gun s ld packoff pump in sub and xover  disconnect and ld gun s tool
 nptunable to mu joint  <number> applied <number> ftklbs attemepted several times to mu joint  <number> no success cleaned  checked threads tenaris engineer instructions to ld joint  <number>  <number> ld joint  <number> attempted to pooh  ld joint  <number> pooh <number> m observed severe obstruction  metal to metal   attmepted to go down casing is not moving   casing stuck at the same point where there is always  metal to metal obstruction during rih inside the conductor pipe  casing shoe depth  <number> mmean while cont circ
 npt attempted to release the casing by applying over pull of max <number> mt  slack off all the casing weight <number> mt above stuck point no success  attempted to rotate the casing no success pulled  casing in all directions using tugger line  tong pull line   moving casing up  down  <number> mt up  <number> mt down no success no rotation pull casing in  all directions at cellar level using bop winch and attempted to move up  down with rotation no success no rotation  mean while cont circ
-nptgot instructions to prepare to cement  with stingerhold pjsm with all the crew  and discussed about operational sequence for backing of top joint of <number>'' casing using belt tong at cellar
-npt removed mouse hole pumped out mud from cellar  installed landing base on top of conductor pipeengaged back up tong to <number>'' casing at cellarback off top <number>'' casing joint  <number>  ld 
+nptgot instructions to prepare to cement  with stingerhold pjsm with all the crew  and discussed about operational sequence for backing of top joint of <number>   casing using belt tong at cellar
+npt removed mouse hole pumped out mud from cellar  installed landing base on top of conductor pipeengaged back up tong to <number>   casing at cellarback off top <number>   casing joint  <number>  ld 
 npt ld tesco cds  handling tools
-npt ru tds link   dp handling toolsmu <number>'' if x <number>'' xover at cellar pu one std of dp  mu to circulating sub   established circulationcont circulation
+npt ru tds link   dp handling toolsmu <number>   if x <number>   xover at cellar pu one std of dp  mu to circulating sub   established circulationcont circulation
 nptwaiting for further instructions for fishing operationmeanwhile continue circulation
 nptgot insrtructions to attemep to pick up conductor pipe with bop winchhold pjsm with all crew
-npt cleaned cellar  remove landing base from cellar cut  two holes in the <number>'' conductor   attached conductor pipe with bop winch with shackles  slings applied over pull up to <number> mt to casing  pulled conductor pipe with bop winch  no success both conductor pipe  casing not released
+npt cleaned cellar  remove landing base from cellar cut  two holes in the <number>   conductor   attached conductor pipe with bop winch with shackles  slings applied over pull up to <number> mt to casing  pulled conductor pipe with bop winch  no success both conductor pipe  casing not released
 nptfurther attempts made to assemble casing spear not possible to break out bull nose nut
 nptld casing spear mandrelmu <number> dp joint on top of fishing string  rack back in mast
 nptwaiting on weatherford casing spearmeanwhile mu <number> btc x <number> if xo on top of <number> casing at cellarmu stand of <number> dp
 nptreceived spaer mandrel from weatherfordpooh dp stand  ld circulating sub
-nptassembled <number>'' casing spear graple to mandrel mu spear assembly  rih with bumper sub  fishing jar  one joint dc  bumper sub  fishing jar  <number>x <number> dc was rack back along with one joint dp set dc on slips  soft break dp x cross over to ld dpwhile pu further to set slips  safety clamp on dc to be able to ld dp fishing jar accidentally fired 
-nptpooh to check the status of spear while pulling observed <number>'' casing coming out  wt increase of <number> mtpulled the casing with spear up to rig floorru tesco <number>'' casing bushing  power tongrest the casing on slip  secured with safety clamp
+nptassembled <number>   casing spear graple to mandrel mu spear assembly  rih with bumper sub  fishing jar  one joint dc  bumper sub  fishing jar  <number>x <number> dc was rack back along with one joint dp set dc on slips  soft break dp x cross over to ld dpwhile pu further to set slips  safety clamp on dc to be able to ld dp fishing jar accidentally fired 
+nptpooh to check the status of spear while pulling observed <number>   casing coming out  wt increase of <number> mtpulled the casing with spear up to rig floorru tesco <number>   casing bushing  power tongrest the casing on slip  secured with safety clamp
 npt hang spear assembly on <number> casing collar using cplate  safety clampreleased string from elevator  mu tdsreleased spear with rigth hand rotationpooh  rack back spear assembly
-npt  hold pjsm with both crews and discussed about pooh  ld <number>'' casing with single joint elevator
-nptpooh  ld two joints of <number>'' casing broke the joint with two belt tongs   use chain tong to complete breaking off
-nptpu  mu <number>'' bit  bit sub wfloat  <number> joints of <number> dcrih  tagged top of fish <number>'' casing coupling at <number> m pooh <number> dc  ld bit  bit sub with float
-npt pu and rih <number>'' casing spear assembly in disengaged position to <number> m<number>'' casing spear  bumper sub  fishing jar  <number> x <number>'' dc  slinger jar  xover  <number> std dp
-npt engaged <number>'' casing spear at <number> m by giving one left hand rotationapplied over pull <number> mt  then slack off up to <number> mt to close the bumper sub successfully engaged the spear after several attempt
+npt  hold pjsm with both crews and discussed about pooh  ld <number>   casing with single joint elevator
+nptpooh  ld two joints of <number>   casing broke the joint with two belt tongs   use chain tong to complete breaking off
+nptpu  mu <number>   bit  bit sub wfloat  <number> joints of <number> dcrih  tagged top of fish <number>   casing coupling at <number> m pooh <number> dc  ld bit  bit sub with float
+npt pu and rih <number>   casing spear assembly in disengaged position to <number> m<number>   casing spear  bumper sub  fishing jar  <number> x <number>   dc  slinger jar  xover  <number> std dp
+npt engaged <number>   casing spear at <number> m by giving one left hand rotationapplied over pull <number> mt  then slack off up to <number> mt to close the bumper sub successfully engaged the spear after several attempt
 npt jar up several times to release the casing no successjar fires at <number> mt over pull closes at <number>  <number> mt slack offattempted to jar down by activating bumper sub no success due to not having enough weight above bumper subreleased <number> casing by jar up continously
 npt attempted to release casing spear by right hand rotation no successattempted to relaese by rotation  slacking off wt no successcasing unscrewed two times approx <number> joint below rotarysuccessfully screwed back the casingstopped further attempt to release casing spear  decided to pull casing  spear string together
 npt held safety meeting  agreed the procedure to be applied to pooh casing and spear assembly together
@@ -90,7 +90,7 @@ npt pooh <number> casing from <number>m to <number>m  spear assembly pooh  ld jo
 npt pooh  with casing spear  <number> casing from <number>m to <number>m joint  <number>  set on slips observed sever junk marks on joint  <number> coupling observed gap on the connection between joint <number>  <number> ld joint  <number> observed junk marks on pipe pody <number> cm from pin endnote  <number>pooh casing w spear  rest csg on slip  released  dp openned casg with manual belt tong pu casing using tugger line out of dp  <number> m  above the rotary <number> removed casing  bushing   rih back dp upto working height break  ld dp joint
 npt pooh <number> casing joint  <number>   ld note  <number>pooh casing w spear  rest csg on slip  released  dp openned csg with manual belt tong pu casing using tugger linesinglle joint elvator  out of dp  <number> m  above the rotary <number> removed casing  bushing   rih back dp upto working height break  ld dp joint
 npt pooh <number> casing joint  <number>   ld note  <number>pooh casing w spear  rest csg on slip  released  dp openned csg with manual belt tong pu casing using tugger linesinglle joint elvator  out of dp  <number> m  above the rotary <number> observed the casing  swinging too much and entangling with hanging wire ropes in the mast  no control on suspended casing above the rotary<number> removed casing  bushing   rih back dp upto working height break  ld dp joint
-npt pooh <number> casing joint  <number>   ld note  <number>pooh casing w spear  rest csg on slip  openned csg with manual belt tong <number> pu casing with spear  removed csg bushing  attempted rih back   rest casing coupling on landing base at cellar<number> found metal to metal obstruction after rih <number> m  same point as was experienced during rih on each casing<number> so could not rih upto coupling  to rest on landing base<number> assembled slip insert for <number>'' x <number> '' casing  rest casing on slip at cellar  also   used safety clamp <number> cut the casing above the collar as joint could not be  openned below rotary<number> removed casing  bushing   rih back dp upto working height break  ld dp jointcasing remaining in the hole  <number> joint
+npt pooh <number> casing joint  <number>   ld note  <number>pooh casing w spear  rest csg on slip  openned csg with manual belt tong <number> pu casing with spear  removed csg bushing  attempted rih back   rest casing coupling on landing base at cellar<number> found metal to metal obstruction after rih <number> m  same point as was experienced during rih on each casing<number> so could not rih upto coupling  to rest on landing base<number> assembled slip insert for <number>   x <number>    casing  rest casing on slip at cellar  also   used safety clamp <number> cut the casing above the collar as joint could not be  openned below rotary<number> removed casing  bushing   rih back dp upto working height break  ld dp jointcasing remaining in the hole  <number> joint
 nptattempted  to break <number>th joint from below rotary by keeping the top joint coupling below rotary crack open the joint then attempted to slack off dp found dp the travelling freely below pu the dp  it is travelling freely  same lenth as travelled below suspected that spear has changed position attempted to release spear no successobserved hook load is <number> mt more than the spear strig weight confirmed casing has parted <number> joints below the rotary 
 npt discussed further plan with office decided to pooh casing with spear pushing up the free joint below rotary  cut the casing piece by piece  ld  till the parted joint along with spear on surface
 npt pushed up the parted free joint with spear  string  cut casing  ld piece by piece
@@ -102,12 +102,12 @@ nptobserved held up  <number>o m tried to pass with reciprocationld <number> <nu
 nptchanged back to drilling master bushingrest dp on slips  ld one joint of <number> dpinstalled casing bushingpull csg string <number> m above rotary table secured casing string with slips  safety clamp  in cellarru sje  latched same on csg jntdisconnected joint  <number> below the rotary using back up tong at cellar
 nptld casing joint  <number>changed back to drilling master bushingld jar accelerator  <number>ne jnt of <number> dc
 npt installed casing bushing  pulled casing string with spear <number> m above rotary tablesecured casing string with slips  safety clamp in cellarru sje  latched same on csg jntdisconnected joint  <number> with power tong below the rotary using back up tong at cellarld csg jnt  <number>  one jnt of <number> dc
-npt pooh inner string  <number> '' dc  broke  ldchanged bushing   pooh casing to rfloor secured casing 
+npt pooh inner string  <number>    dc  broke  ldchanged bushing   pooh casing to rfloor secured casing 
 npt hold pjsm  prior to attempt to release spear
 npt attempted to release spear grapple mu tds  torqued  right hand to  <number> ftlbs no successbroke off  tds  torqued  right hand  to <number> ftlbs no success  broke off fishing jar  ld
 npt  pooh casing  joint no <number>  break  ld along with bumper sub  spear assly inside
-npt ru weatherford side door elevator hold pjsm prior pooh  ld   <number>'' casing using power tong  side door elevator   manual tong
-nptpooh <number>'' casing   ld used power tong  side door elevatortotal joint pooh  after laying down  spear assembly  <number> jointsld shoe joint
+npt ru weatherford side door elevator hold pjsm prior pooh  ld   <number>   casing using power tong  side door elevator   manual tong
+nptpooh <number>   casing   ld used power tong  side door elevatortotal joint pooh  after laying down  spear assembly  <number> jointsld shoe joint
 npt ld weatherford power tong  side door elevatorld tesco handling toolsru dp handling tools  tds link
 nptpu fishing jar  broke off pup joint  xover ld fishing jarpu bumper sub  broke off lifting sub ld bumper subservice tds
 npt drill string got stuck  <number>m after drilled full stand attempted back reaming observed obstruction at <number> m off bottom overpull <number> tons and tq<number> klbft attempted to slackoff the string without success stopped circulation and add <number> single <number>dp spotted <number> cocktail pill and worked string in compresion <number> tons and torsion<number>klbft no succes flow rate <number>  <number> lpm spp <number>  <number> psi no downhole losses observed
@@ -341,10 +341,10 @@ day rate operation circulated clean hole prior wiper trip flow rate <number> lpm
 day rate operation  pooh free from <number> m to <number> mtop of window repassed from <number> m to <number> m <number> stand through window to check free no obstruction observedok theoretical displacement <number> m<number> actual displacement <number> m<number> performed flow check inside <number> csg prior to pump slug well static
 day rate operation  pooh from <number> m to <number> m theoretical displacement <number> m<number> actual displacement <number> m<number> pumped <number> m<number> slug dropped drift <number>
 day rate operation  pooh from <number> m to <number> m theoretical displacement <number> m<number> actual displacement <number> m<number>note ld one single to changed sequence  excessive time due to high torque up to break out middle joint of <number> dp stand ld two singles to back to sequence
-day rate operation pooh <number> dp's from <number> m to <number> m theoretical displacement <number> m<number> actual displacement <number> m<number> performed flow check at bha well staticperformed kick drill while tripping good response from rig crew <number> min to secured well
+day rate operation pooh <number> dp s from <number> m to <number> m theoretical displacement <number> m<number> actual displacement <number> m<number> performed flow check at bha well staticperformed kick drill while tripping good response from rig crew <number> min to secured well
 day rate operation pooh from <number> m to surface racked back <number> stands hwdp <number> racked back <number> stands of <number> dc ld pony  long nmdc recovered slim pulse internal components drained motorflushed by water gap <number> mm\ setting mud motor abh to <number> degree ldxxunitmwtool mud motor ld bit dull grading <number>btsxinotd
 day rate operation pu and mup reamer bha including <number> pdc bit <number> nb reamer float dc <number> crossover<number> roller reamer dc <number>  <number> roller reamer and rih same to <number>m theoretical displacement <number> m<number> actual displacement <number> m<number>
-day rate operation rih <number> dp's from <number> m to <number> m theoretical displacement <number> m<number> actual displacement <number> m<number>
+day rate operation rih <number> dp s from <number> m to <number> m theoretical displacement <number> m<number> actual displacement <number> m<number>
 day rate operation held pre job safty meeting prior to reaming side track
 day rate operation washdown from <number> m to <number> m<number> m top of window repassed from <number> m to <number> m <number> stand through window to check free ok flow rate <number> lpm spp<number> psi no downhole losses
 day rate operation ream down from <number> m to <number> m flow rate<number> lpm spp<number> psi wob <number> mt rpm <number> tq <number> kftlb at <number> started rotating observed increase in pressure from <number> psi to <number> psi  and torque from <number>  <number> withflow rate <number> lpm and rpm <number> reduce rpm <number> at <number> observed increase in pressure from <number> psi to <number> psi torque from <number>  <number>kftlb flow rate <number> lpm rpm <number> washed up and down each stand reamed to check tight spots observed tight spots while washed up at <number> m <number> m reamed down these depths and washed up again for check free ok at bottom up observed   observed caving <number>xxunitperceof return type splintery angular size <number>  <number>cm    observed  complete of header box  volume full with cumulative  caving  after <number> hrs of cleaning   observed decrease caving <number>% of return type splintery angular size <number>  <number> cm <number> hrs racked one stand and repasses roller reamer and bit through window  free ok
@@ -363,9 +363,9 @@ day rate operation pooh free <number> m to <number> m no tight spot observed rep
 day rate operation pooh from <number> m to <number> m theoretical displacement <number> m<number> actual displacement <number> m<number>
 day rate operation pooh from <number> m to <number> mtop of bha theoretical displacement <number> m<number> actual displacement <number> m<number> performed flow check at top of bha well staticnote performed kick drill while tripping good response form rig crew secured well in <number> sec
 day rate operation pooh from <number> m to surface ld <number> jar <number> each <number> string roller reamer near bit roller reamer and <number> pdc bit dull greading <number>btsxinocp theoretical displacement <number> m<number> actual displacement <number> m<number>
-pipe stuck at <number>' work on stuck jar fired <number> times and got free
-string stalled and got stuck while drilling  <number> work on stuck pipe  <number>' till got free
-worked liner string stuck  <number>' up  down from <number> klbs to <number> klbs no success no returns maximum over pull is <number> klbs observed rig sense system shut down
+pipe stuck at <number>  work on stuck jar fired <number> times and got free
+string stalled and got stuck while drilling  <number> work on stuck pipe  <number>  till got free
+worked liner string stuck  <number>  up  down from <number> klbs to <number> klbs no success no returns maximum over pull is <number> klbs observed rig sense system shut down
 attempt to pick up liner string and observed over pull up to <number> klbs liner string got stuck worked on liner string stuck by moving up  down from <number> klbs to <number> klbs no success no returns
  worked on liner string stuck by moving up  down from <number> klbs to <number> klbs no success pack off holding <number> psi
 applying <number>xxunitklbft torque  to rotate string but no success
@@ -373,35 +373,35 @@ pressurize liner by step of <number> psito <number> psi then stop  no returnpres
 continue attempting to circulate by  pressurizing the well to <number> psi and pressure drop to <number> psi observe slightly returns
 continue attempting to circulate by  pressurizing the liner to <number> psi and pressure drop to <number> psi observe slightly returns
 prepare and picking up fishing tools to rig floor in progress
-continue make up fishing bha and rih to <number>'  <number> spear  x'over  x'over  x'over  x'o  <number> joint <number> dc  x'over  <number> bumper sub  <number> fishing jar  x'over  <number> joints <number> dc  x'over  <number> joints <number> hwdp
-rih fishing assembly from <number>' to <number>'  use trip tank  trip sheet
+continue make up fishing bha and rih to <number>   <number> spear  x over  x over  x over  x o  <number> joint <number> dc  x over  <number> bumper sub  <number> fishing jar  x over  <number> joints <number> dc  x over  <number> joints <number> hwdp
+rih fishing assembly from <number>  to <number>   use trip tank  trip sheet
 circulate one bottom up  <number> gpm  <number> psi
- engage the fish  <number>' confirm fish engaged by observing <number> klbs over pull attempt to  jar up several times without success observed fishing jar not working release casing spear
+ engage the fish  <number>  confirm fish engaged by observing <number> klbs over pull attempt to  jar up several times without success observed fishing jar not working release casing spear
 performed flow check well static
-pooh casing spear from <number>' to <number>' use trip tank  trip sheet
-continue pooh casing spear from <number>' to surface break out and lay down fishing jar bumper sub  <number> joint <number> dc
-pick up and make up fishing assembly as follow itco spear  <number> x'overs  <number> bumper sub  <number> fishing jar  <number> x'overs  <number> stands <number> hwdp  rih to <number>'
-continue rih casing spear from <number>' to <number>' use trip tank  trip sheet
-continue rih with casing spear from <number>' to <number>'
+pooh casing spear from <number>  to <number>  use trip tank  trip sheet
+continue pooh casing spear from <number>  to surface break out and lay down fishing jar bumper sub  <number> joint <number> dc
+pick up and make up fishing assembly as follow itco spear  <number> x overs  <number> bumper sub  <number> fishing jar  <number> x overs  <number> stands <number> hwdp  rih to <number> 
+continue rih casing spear from <number>  to <number>  use trip tank  trip sheet
+continue rih with casing spear from <number>  to <number> 
 break circulation  by mistake accelerator was run instead of fishing jar
-pooh from <number>' to <number>' used trip tank and trip sheet 
+pooh from <number>  to <number>  used trip tank and trip sheet 
 perform flow check well static
-continue pooh from <number>' to surface lay down <number> accelerator
-pick up  make up <number> fishing jar and rih to <number>'
-continue rih with casing spear and fishing bha from <number>' to <number>'  use trip tank and trip sheet
-break circulation with <number> gpm  <number> psi slowly rih to tol  <number>' and engaged fish  <number>' confirm fish engaged with <number> klbs over pull pick up weight before engage fish <number> klbs
+continue pooh from <number>  to surface lay down <number> accelerator
+pick up  make up <number> fishing jar and rih to <number> 
+continue rih with casing spear and fishing bha from <number>  to <number>   use trip tank and trip sheet
+break circulation with <number> gpm  <number> psi slowly rih to tol  <number>  and engaged fish  <number>  confirm fish engaged with <number> klbs over pull pick up weight before engage fish <number> klbs
 working to set <number> liner free by jarring upwards apply <number> klbs over pull pull  to <number> klbs and fire the jar and then pull to <number> klbs after jar fired repeat same procedure several times
 stop jarring upwards and let the fishing jar cool down meanwhile perform tds service
 continue working to set <number> liner free by jarring upwards apply <number> klbs over pull pull  to <number> klbs and fire the jar and then pull to <number> klbs after jar fired repeat same procedure several times fishing jar fail to jar up for several attempts  release casing spear
-pooh casing spear and fishing bha from <number>' to <number>' use trip tank and trip sheet
+pooh casing spear and fishing bha from <number>  to <number>  use trip tank and trip sheet
 cont pooh to surface ld <number> fishing jar  bumper sub use trip tank and trip sheet
-rih <number>' of <number> dp of kill string monitor hole on trip tank
+rih <number>  of <number> dp of kill string monitor hole on trip tank
 break out and lay down <number> stands of <number> dp monitor well on trip tank
 waiting on <number> ? fishing set monitor hole on trip tanknote perform h<number>s drill observed good response from the all personnel and rig crew
 pooh kill string to surface
-pu and mu <number> ? fishing assy  rih from surface to <number>' 
-rih fishing assy on <number> ? dp stds from <number>' to <number>' use trip tank and trip sheet
-break circulation and engage liner with spear  <number>' fr <number> gpm  <number> psi
+pu and mu <number> ? fishing assy  rih from surface to <number>  
+rih fishing assy on <number> ? dp stds from <number>  to <number>  use trip tank and trip sheet
+break circulation and engage liner with spear  <number>  fr <number> gpm  <number> psi
 working to set <number> liner free by jarring upwards apply <number> klbs over pull pull  to <number> klbs and fire the jar and then pull to <number> klbs after jar fired repeat same procedure several times 
 waiting on jar to cold down
 continue working to set <number> liner free by jarring upwards no success
@@ -417,131 +417,131 @@ working to set <number> liner free by jarring upwards apply <number> klbs over p
 waiting for jar to cool down
 working to set <number> liner free by jarring upwards apply <number> klbs over pull pull  to <number> klbs and fire the jar and then pull to <number> klbs after jar fired repeat same procedure several times no success
 working to set <number> liner free by jarring upwards apply <number> klbs over pull pull  to <number> klbs and fire the jar and then pull to <number> klbs after jar fired repeat same procedure several times  jaring for <number> hours then waiting for jar to cool down for <number> hourrepeat the same sequences several times no success
-hpjsm pooh w casing spear string to <number>' fill up  monitor well through trip tank record trip sheet
-cont pooh w casing spear string to <number>' fill up  monitor well through trip tank record trip sheet
-cont pooh w casing spear assy to top of bha  <number>' fill up  monitor well through trip tank record trip sheet
+hpjsm pooh w casing spear string to <number>  fill up  monitor well through trip tank record trip sheet
+cont pooh w casing spear string to <number>  fill up  monitor well through trip tank record trip sheet
+cont pooh w casing spear assy to top of bha  <number>  fill up  monitor well through trip tank record trip sheet
 cont pooh w casing spear assy to surface  ld same casing spear in good shape
 hpjsm pup mup <number> rb rotating scraper assy with <number> bit as the following <number> used bit xrc sn pz<number> nozzles <number>  <number> bsub <number>  xo <number> rb rotating scraper xo <number>  <number> dc <number>  <number> hwdp
-cont mup  rih <number> rb rotating scraper bha to <number>'
-cont rih <number> rb rotating scraper assy on <number> ? dp to <number>'
+cont mup  rih <number> rb rotating scraper bha to <number> 
+cont rih <number> rb rotating scraper assy on <number> ? dp to <number> 
 circulate clean hole meanwhile waiting for decision decision taken to pooh  rih w hydraulic casing cutter assy 
 pooh <number> scraper to surface  ld same held h<number>s drill good response
 hpjsm pup mup hydraulic casing cutter bha start pump and function test cutter on surface ok stop the pump secure cutter knives with tape
-cont rih hyd casing cutter while making <number> of <number> dp jts from the rack to  <number>'
-cont rih hyd casing cutter assy and <number> dp std's to cutting depth  <number>' avg run speed <number> stdhr
-cut <number> casing at <number>' <number> rpm <number> gpm p<number> psi tq <number> ftlbfthen after <number> hrs pressure drop to <number> psicheck twice casing cut by drop pressure f <number> psi to <number> psi 
+cont rih hyd casing cutter while making <number> of <number> dp jts from the rack to  <number> 
+cont rih hyd casing cutter assy and <number> dp std s to cutting depth  <number>  avg run speed <number> stdhr
+cut <number> casing at <number>  <number> rpm <number> gpm p<number> psi tq <number> ftlbfthen after <number> hrs pressure drop to <number> psicheck twice casing cut by drop pressure f <number> psi to <number> psi 
 pump <number> bbls hi vis circulate clean hole
-cut <number> casing at <number>' <number> rpm <number> gpm p<number> psi tq <number> ftlbf pressure drop to <number> psi
+cut <number> casing at <number>  <number> rpm <number> gpm p<number> psi tq <number> ftlbf pressure drop to <number> psi
 circulate hole clean
-pooh w casing cutter assy to top of bha  <number>' fill up  monitor well through trip tank record trip sheet
-cont pooh w casing cutter assy to surface  ld same rack back <number> x <number> dp std's
+pooh w casing cutter assy to top of bha  <number>  fill up  monitor well through trip tank record trip sheet
+cont pooh w casing cutter assy to surface  ld same rack back <number> x <number> dp std s
 pu mu <number> releasing spear assy as the following  <number> itco releasing spear <number> spear stop sub <number> x xo <number> bumper sub <number> fishing jar xo <number> x <number> dc xo <number> accelerator xo <number> x <number> hwdp
-rih w casing spear assy to tol  <number>'  monitor well through trip tank and trip sheet
-break circ  engage <number> casing spear in pbr  <number>' pull string up to <number> klb to set <number> liner free no success  pup wt  <number> klb soff wt  <number> klb
+rih w casing spear assy to tol  <number>   monitor well through trip tank and trip sheet
+break circ  engage <number> casing spear in pbr  <number>  pull string up to <number> klb to set <number> liner free no success  pup wt  <number> klb soff wt  <number> klb
 working to set <number> liner free by jarring upwards apply <number> klb over pull pull to <number> klb and fire the jar then pull to <number> klb after jar fired repeat same procedure several times no success
 waiting for jar to cool down while put string under tension  <number> klb
 back off pbr by turning to the left max torque  <number> ftlbf
-pooh w casing spear assy to top of bha  <number>'
+pooh w casing spear assy to top of bha  <number> 
 cont pooh to surface found casing spear left in hole
-hpjsm pu mu screw in assy to <number>'  as the following  xo xo <number> spear stop sub xo xo <number> bumper sub <number> fishing jar xo <number> x <number> dc xo <number> accelerator xo <number> x <number> hwdp
-rih w screw in assy to tol  <number>' monitor well through trip tank and trip sheet
-break circ run slowly screw in casing spear  <number>' torqued up <number> ftlb confirm screw in by pull string up to <number> klbreleased casing spear by slack off and turn to right pup wt  <number> klb soff wt  <number> klb
-pooh w casing spear assy from <number>' to <number>' fill up  monitor well through trip tank record trip sheet
-cont pooh w casing spear assy from <number>' to top of bha <number>' fill up  monitor well through trip tank record trip sheet
- cont pooh w casing spear assy from <number>' to surface  casing spear recovered fill up  monitor well through trip tank record trip sheet
-hpjsm pu mu  rih w <number> junk milling assy bha to <number>' as the following  <number> junk mill <number>  junk sub bit sub xo <number> x <number> dc <number> drilling jar <number> x <number> dc xo <number> x <number> hwdp
-cont rih <number> junk milling assy on  <number>  dp tag on tol  <number>' monitor well through trip tank and trip sheet
-milling pbr in progress f <number>' to <number>' milling parameterswob <number> klb <number> rpm <number> gpm <number> psi trq <number> ftlb pump <number> bbls hvp for each foot drilled clean ditch magnet from junk periodically 
-cont milling pbr  zxp packer in progress f <number>' to <number>' total milled <number> ft milling parameterswob <number> klb <number> rpm <number> gpm <number> psi trq <number> ftlb pump <number> bbls hvp for each foot drilled clean ditch magnet from junk periodically 
-cont milling pbr  zxp packer f <number>' to <number>'  milling parameterswob <number> klb <number> rpm <number> gpm <number> psi trq <number> ftlb pump <number> bbls hvp for each foot drilled clean ditch magnet from junk periodically 
-cont milling pbr  zxp packer no  progress f <number>' to <number>' in <number> hrs total milled <number> ft
-pooh w <number> junk mill assy from <number>' to top of bha <number>' fill up  monitor well through trip tank record trip sheet
+hpjsm pu mu screw in assy to <number>   as the following  xo xo <number> spear stop sub xo xo <number> bumper sub <number> fishing jar xo <number> x <number> dc xo <number> accelerator xo <number> x <number> hwdp
+rih w screw in assy to tol  <number>  monitor well through trip tank and trip sheet
+break circ run slowly screw in casing spear  <number>  torqued up <number> ftlb confirm screw in by pull string up to <number> klbreleased casing spear by slack off and turn to right pup wt  <number> klb soff wt  <number> klb
+pooh w casing spear assy from <number>  to <number>  fill up  monitor well through trip tank record trip sheet
+cont pooh w casing spear assy from <number>  to top of bha <number>  fill up  monitor well through trip tank record trip sheet
+ cont pooh w casing spear assy from <number>  to surface  casing spear recovered fill up  monitor well through trip tank record trip sheet
+hpjsm pu mu  rih w <number> junk milling assy bha to <number>  as the following  <number> junk mill <number>  junk sub bit sub xo <number> x <number> dc <number> drilling jar <number> x <number> dc xo <number> x <number> hwdp
+cont rih <number> junk milling assy on  <number>  dp tag on tol  <number>  monitor well through trip tank and trip sheet
+milling pbr in progress f <number>  to <number>  milling parameterswob <number> klb <number> rpm <number> gpm <number> psi trq <number> ftlb pump <number> bbls hvp for each foot drilled clean ditch magnet from junk periodically 
+cont milling pbr  zxp packer in progress f <number>  to <number>  total milled <number> ft milling parameterswob <number> klb <number> rpm <number> gpm <number> psi trq <number> ftlb pump <number> bbls hvp for each foot drilled clean ditch magnet from junk periodically 
+cont milling pbr  zxp packer f <number>  to <number>   milling parameterswob <number> klb <number> rpm <number> gpm <number> psi trq <number> ftlb pump <number> bbls hvp for each foot drilled clean ditch magnet from junk periodically 
+cont milling pbr  zxp packer no  progress f <number>  to <number>  in <number> hrs total milled <number> ft
+pooh w <number> junk mill assy from <number>  to top of bha <number>  fill up  monitor well through trip tank record trip sheet
 cont pooh w junk mill assy to surface ld <number> junk mill <number> junk mill total worn
-hpjsm pu mup  rih w junk mill assy to <number>' as the following  <number> new junk mill <number>  junk sub bit sub xo <number> x <number> dc <number> drilling jar <number> x <number> dc xo <number> x <number> hwdp
-cont rih <number> junk milling assy on  <number> dp to <number>' monitor well through trip tank and trip sheet
-cont rih <number> junk milling assy on  <number> dp from <number>' tag on <number>' precautionary wash down last stand monitor well through trip tank and trip sheet
-remilling pbr  zxp packer f <number>' to <number>'  total milled in the <number> runs  <number> ft milling parameterswob <number> klb <number> rpm <number> gpm<number> psi trq <number> ftlb pump <number> bbls hvp for each foot drilled clean ditch magnet from junk periodically 
-cont milling pbr  zxp packer f <number>' to <number>'  total milled   <number> ft got some rubber on surface milling parameterswob <number> klb <number> rpm <number> gpm<number> psi trq <number> ftlb pump <number> bbls hvp for each foot drilled clean ditch magnet from junk periodically 
-cont milling  no progress f <number>' to <number> ' in <number> hrs
-pooh w junk mill assy f <number>' to top of bha  <number>' fill up  monitor well through trip tank record trip sheet conducted trip drillgood response
+hpjsm pu mup  rih w junk mill assy to <number>  as the following  <number> new junk mill <number>  junk sub bit sub xo <number> x <number> dc <number> drilling jar <number> x <number> dc xo <number> x <number> hwdp
+cont rih <number> junk milling assy on  <number> dp to <number>  monitor well through trip tank and trip sheet
+cont rih <number> junk milling assy on  <number> dp from <number>  tag on <number>  precautionary wash down last stand monitor well through trip tank and trip sheet
+remilling pbr  zxp packer f <number>  to <number>   total milled in the <number> runs  <number> ft milling parameterswob <number> klb <number> rpm <number> gpm<number> psi trq <number> ftlb pump <number> bbls hvp for each foot drilled clean ditch magnet from junk periodically 
+cont milling pbr  zxp packer f <number>  to <number>   total milled   <number> ft got some rubber on surface milling parameterswob <number> klb <number> rpm <number> gpm<number> psi trq <number> ftlb pump <number> bbls hvp for each foot drilled clean ditch magnet from junk periodically 
+cont milling  no progress f <number>  to <number>   in <number> hrs
+pooh w junk mill assy f <number>  to top of bha  <number>  fill up  monitor well through trip tank record trip sheet conducted trip drillgood response
 cont pooh w junk mill assy to surface ld <number> junk mill <number> junk mill in gauge and in good shape
-hpjsm pu mu  rih w releasing spear assy to <number>' as the following <number> itco releasing spear w grapple <number> spear stop sub <number> x xo <number> bumper sub <number> fishing jar xo <number> x <number> dc xo <number> accelerator xo <number> x <number> hwdp
-rih casing releasing spear assy on <number> dp from <number>' to <number>' monitor well through trip tank and trip sheet
-cont rih releasing spear assy on <number> dp from <number>' to tag on fish  <number>' precautionary wash down last stand monitor well through trip tank and trip sheet
-break circ  engage casing spear in <number> liner  <number>' top of fish  <number>' pull string up to <number> klb to set <number> liner free no success pup wt  <number> klb soff wt  <number> klb
+hpjsm pu mu  rih w releasing spear assy to <number>  as the following <number> itco releasing spear w grapple <number> spear stop sub <number> x xo <number> bumper sub <number> fishing jar xo <number> x <number> dc xo <number> accelerator xo <number> x <number> hwdp
+rih casing releasing spear assy on <number> dp from <number>  to <number>  monitor well through trip tank and trip sheet
+cont rih releasing spear assy on <number> dp from <number>  to tag on fish  <number>  precautionary wash down last stand monitor well through trip tank and trip sheet
+break circ  engage casing spear in <number> liner  <number>  top of fish  <number>  pull string up to <number> klb to set <number> liner free no success pup wt  <number> klb soff wt  <number> klb
 working to set <number> liner free by jarring upwards apply <number> klb over pull pull to <number> klb and fire the jar then pull to <number> klb after jar fired repeat same procedure several times no successthen rest <number> hour for jar to cool down and repeat same sequences
 try to release casing spear  got success after several attempts
-pooh w casing spear assy to top of bha <number>' fill up  monitor well through trip tank record trip sheet
-cont pooh w casing spear assy from <number>' to surface found grapple of releasing sear lost in hole grapple size <number>
-hpjsm pu mu  rih w <number> junk milling bha to <number>' as the following  <number> flat btm junk mill <number>  junk sub bit sub xo <number> x <number> dc <number> drilling jar <number> x <number> dc xo <number> x <number> hwdp
-cont rih <number> junk milling assy on <number> dp f <number>' to <number>' monitor well through trip tank and trip sheet
-cont rih <number> junk milling assy on  <number> dp tag on tof  <number>' precautionary wash down last std monitor well through trip tank and trip sheet
-cont milling <number> liner from <number>' to <number>' milling parameterswob <number> klb <number> rpm <number> gpm <number> psi trq <number> ftlb pump <number> bbl hvp for each foot drilled clean ditch magnet from junk periodically
+pooh w casing spear assy to top of bha <number>  fill up  monitor well through trip tank record trip sheet
+cont pooh w casing spear assy from <number>  to surface found grapple of releasing sear lost in hole grapple size <number>
+hpjsm pu mu  rih w <number> junk milling bha to <number>  as the following  <number> flat btm junk mill <number>  junk sub bit sub xo <number> x <number> dc <number> drilling jar <number> x <number> dc xo <number> x <number> hwdp
+cont rih <number> junk milling assy on <number> dp f <number>  to <number>  monitor well through trip tank and trip sheet
+cont rih <number> junk milling assy on  <number> dp tag on tof  <number>  precautionary wash down last std monitor well through trip tank and trip sheet
+cont milling <number> liner from <number>  to <number>  milling parameterswob <number> klb <number> rpm <number> gpm <number> psi trq <number> ftlb pump <number> bbl hvp for each foot drilled clean ditch magnet from junk periodically
 try to mill but no progress with different parameters
-pooh w <number> junk milling assy to <number>' fill up  monitor well through trip tank record trip sheet
+pooh w <number> junk milling assy to <number>  fill up  monitor well through trip tank record trip sheet
 cont pooh w <number> junk milling assy to  to surface  ld same <number> junk mill in gauge and in good shape
-hpjsm pup mup hydraulic casing cutter assy w <number> rb rotating scrapper rih to <number>' as the following <number> taper mill <number> pressure cutter xo stab xo <number> x <number> dp xo <number> rb rotating scraper xo start pump and function test cutter on surface ok stop the pump secure cutter knives with tape
-cont rih hyd casing cutter assy on <number> dp std's to <number>' <number>' inside <number> liner had obstruction  <number>' monitor well via trip tank and trip sheet
+hpjsm pup mup hydraulic casing cutter assy w <number> rb rotating scrapper rih to <number>  as the following <number> taper mill <number> pressure cutter xo stab xo <number> x <number> dp xo <number> rb rotating scraper xo start pump and function test cutter on surface ok stop the pump secure cutter knives with tape
+cont rih hyd casing cutter assy on <number> dp std s to <number>  <number>  inside <number> liner had obstruction  <number>  monitor well via trip tank and trip sheet
 many attempts to push down with slack off wt gradually up to <number> klb no progress
-pooh w casing cutter assy to top of bha  <number>' slug pipe <number> times fill up  monitor well through trip tank record trip sheet
+pooh w casing cutter assy to top of bha  <number>  slug pipe <number> times fill up  monitor well through trip tank record trip sheet
 cont pooh w casing cutter assy to surface  ld same
 hpjsm pup mup <number> clean out assy w <number> rb rotating scraper as the following <number> used bit xrc sn pz<number> nozzles <number> bsub <number> rb rotating scraper xo <number>  <number> dc <number>  <number> hwdp
-cont pup mup <number> clean out assy w <number> rb rotating scraper rih to <number>' as the following <number> used bit xrc sn pz<number> nozzles <number> bsub <number> rb rotating scraper xo <number>  <number> dc <number>  <number> hwdp
-cont rih <number> scraper on <number> ? dp to <number>' break circulation every <number>' to keep scrapper clear of debris monitor well through trip tank  trip sheet
-scrap from <number>' to <number>'
-cont pooh w <number> scraper assy to top of bha  <number>' slug pipe fill up  monitor well through trip tank record trip sheet
+cont pup mup <number> clean out assy w <number> rb rotating scraper rih to <number>  as the following <number> used bit xrc sn pz<number> nozzles <number> bsub <number> rb rotating scraper xo <number>  <number> dc <number>  <number> hwdp
+cont rih <number> scraper on <number> ? dp to <number>  break circulation every <number>  to keep scrapper clear of debris monitor well through trip tank  trip sheet
+scrap from <number>  to <number> 
+cont pooh w <number> scraper assy to top of bha  <number>  slug pipe fill up  monitor well through trip tank record trip sheet
 cont pooh w <number> scraper assy to surface  ld same clear rig floor
 pressure test the <number> bridge plug to <number> psi ok
-pup mup  rih w <number> track master whipstock assy to <number>' as the following <number> trackmaster whipstock with hydraulic anchor hyd ret packer with <number> shear pin <number> fasttrack tri mill  lead mill  follow mill  dress mill hyd running  tool xo <number>  <number> hwdp jt xo multicycle by pass valve ubho sub xo <number>  <number> hwdp jt's
-cont rih w <number> whipstock assy on <number> dp std's f <number>' to <number>' rih smoothly at <number> min per std drift every std monitor well through trip tank  trip sheet
-cont rih w <number> whipstock assy on <number> dp std's f <number>' to tag on plug  <number>' pup <number>' off plug rih smoothly at <number> min per std drift every std monitor well through trip tank  trip sheet
-connect tds operate muticycle bypass valve w <number> gpm for <number> cycles to close position set whipstock anchor by increasing pressure to <number> psi confirm anchor set by slack off <number> klb and over pull <number> klb ok btm of whipstock <number>' <number>' above bplug
+pup mup  rih w <number> track master whipstock assy to <number>  as the following <number> trackmaster whipstock with hydraulic anchor hyd ret packer with <number> shear pin <number> fasttrack tri mill  lead mill  follow mill  dress mill hyd running  tool xo <number>  <number> hwdp jt xo multicycle by pass valve ubho sub xo <number>  <number> hwdp jt s
+cont rih w <number> whipstock assy on <number> dp std s f <number>  to <number>  rih smoothly at <number> min per std drift every std monitor well through trip tank  trip sheet
+cont rih w <number> whipstock assy on <number> dp std s f <number>  to tag on plug  <number>  pup <number>  off plug rih smoothly at <number> min per std drift every std monitor well through trip tank  trip sheet
+connect tds operate muticycle bypass valve w <number> gpm for <number> cycles to close position set whipstock anchor by increasing pressure to <number> psi confirm anchor set by slack off <number> klb and over pull <number> klb ok btm of whipstock <number>  <number>  above bplug
 free the lead mill by shearing the break bolt by slack off to <number> klb
-milling sidetrack window in <number> csg from <number>' to <number>' milling parameterswob <number> klb <number> rpm <number> gpm trq <number> ftlb spp <number> psi pump <number> bbl hvp for each foot drilled clean ditch magnet from junk periodically
-start drilling <number> sidetrack rat hole from <number>' to <number>' till  dress mill passed over the entire window drilling parameterswob <number> klb <number> rpm <number> gpm trq <number> ftlb spp <number> psi 
+milling sidetrack window in <number> csg from <number>  to <number>  milling parameterswob <number> klb <number> rpm <number> gpm trq <number> ftlb spp <number> psi pump <number> bbl hvp for each foot drilled clean ditch magnet from junk periodically
+start drilling <number> sidetrack rat hole from <number>  to <number>  till  dress mill passed over the entire window drilling parameterswob <number> klb <number> rpm <number> gpm trq <number> ftlb spp <number> psi 
 dress sidetrack window and rat hole by reaming up  down many times
-stick up <number>' above whipstock  <number>' swept hole w <number> bbls weighted hvp circ till shale shaker cleaned recorded scr
-pooh w <number> sidetrack mill assy to <number>' fill up  monitor well via trip tank record trip sheet
-cont pooh w <number> sidetrack mill assy f <number>' to <number>' fill up  monitor well via trip tank record trip sheet
-cont pooh w <number> sidetrack mill assy f <number>' to <number>' top of bha fill up  monitor well via trip tank record trip sheet
+stick up <number>  above whipstock  <number>  swept hole w <number> bbls weighted hvp circ till shale shaker cleaned recorded scr
+pooh w <number> sidetrack mill assy to <number>  fill up  monitor well via trip tank record trip sheet
+cont pooh w <number> sidetrack mill assy f <number>  to <number>  fill up  monitor well via trip tank record trip sheet
+cont pooh w <number> sidetrack mill assy f <number>  to <number>  top of bha fill up  monitor well via trip tank record trip sheet
 pooh sidetrack bha  ld same observed all mills are <number> under gauge
-pup mup <number> steerable drlg assy with new <number> pdc bit rih to <number>'bha <number> new pdc bit type max<number>px sn jj<number> nozzles <number> x <number> motor power pak a<number>gt sn <number> lobes <number> stages w <number> deg bent housing <number> revgal top sub w float <number> ststb mwd slim pulse nm saver sub filter sub ubho sub <number> nm hwdp xo  <number> x <number> hwdp jt's xo xo <number> jar xo <number> x <number> hwdp jt's
+pup mup <number> steerable drlg assy with new <number> pdc bit rih to <number> bha <number> new pdc bit type max<number>px sn jj<number> nozzles <number> x <number> motor power pak a<number>gt sn <number> lobes <number> stages w <number> deg bent housing <number> revgal top sub w float <number> ststb mwd slim pulse nm saver sub filter sub ubho sub <number> nm hwdp xo  <number> x <number> hwdp jt s xo xo <number> jar xo <number> x <number> hwdp jt s
 shallow test mwd toolsfr <number> gpm spp <number> psi
-cont rih <number> steerable drlg assy on <number> dp std's to <number>' monitor well via trip tank  trip sheet fill up string every <number> std's
-cont rih <number> steerable drlg assy from <number>' to <number>' while make up <number> x <number> dp jt's from pipe rack monitor well via trip tank  trip sheet
-cont rih <number> steerable drlg assy on <number> dp std's from <number>' to btm <number>' monitor well via trip tank  trip sheet fill up string every <number> std's record scr  depth <number>'
-start steerable drlg <number> hole f <number>' to <number>' sliding mode <number> % rotating mode  <number> % drlg parameterswob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number>psi
-cont steerable drlg <number> hole f <number>' to <number>' sliding mode  <number> % rotating mode  <number> %sliding  <number>'rotating <number>'sliding <number>'rotating <number>'sliding  <number>' drlg parameterswob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number>psi avg rop in sliding  <number> fthr avg rop in rotating  <number> fthr avg drlg rop  <number> fthr
-cont steerable drlg <number> hole f <number>' to <number>' sliding mode  <number> % rotating mode  <number> % sliding f <number> to <number>' rotating f <number>' to <number>' drlg parameterswob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number>psi avg rop in sliding  <number> fthr avg rop in rotating  <number> fthr avg drlg rop  <number> fthr
-cont steerable drlg <number> hole f <number>' to <number>' sliding mode  <number> % rotating mode  <number> % drlg parameterswob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number> psi avg drlg rop  <number> fthr
-cont steerable drlg <number> hole f <number>' to <number>' sliding mode  <number> % rotating mode  <number> % drlg parameterswob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number> psi avg drlg rop  <number> fthr take mwd survey every connection pump <number> bbls hivis every connection
-cont steerable drlg <number> hole f <number>' to <number>' sliding mode  <number> % rotating mode  <number> % drlg parameterswob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number> psi diff pressure <number> psi avg drlg rop  <number> fthr take mwd survey every connection
-cont steerable drlg <number> hole f <number>' to <number>' sliding mode  <number> % rotating mode  <number> %wob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number> psi diff pressure <number> psi avg rop  <number> fthr take mwd survey every connection
-cont steerable drlg <number> hole f <number>' to <number> liner point  <number>' <number>' into pkfu pre khuff unconformity formation as per goc  fg sliding mode  <number> % rotating mode  <number> %wob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number> psi diff pressure <number> psi avg rop  <number> fthr take mwd survey every connection
+cont rih <number> steerable drlg assy on <number> dp std s to <number>  monitor well via trip tank  trip sheet fill up string every <number> std s
+cont rih <number> steerable drlg assy from <number>  to <number>  while make up <number> x <number> dp jt s from pipe rack monitor well via trip tank  trip sheet
+cont rih <number> steerable drlg assy on <number> dp std s from <number>  to btm <number>  monitor well via trip tank  trip sheet fill up string every <number> std s record scr  depth <number> 
+start steerable drlg <number> hole f <number>  to <number>  sliding mode <number> % rotating mode  <number> % drlg parameterswob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number>psi
+cont steerable drlg <number> hole f <number>  to <number>  sliding mode  <number> % rotating mode  <number> %sliding  <number> rotating <number> sliding <number> rotating <number> sliding  <number>  drlg parameterswob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number>psi avg rop in sliding  <number> fthr avg rop in rotating  <number> fthr avg drlg rop  <number> fthr
+cont steerable drlg <number> hole f <number>  to <number>  sliding mode  <number> % rotating mode  <number> % sliding f <number> to <number>  rotating f <number>  to <number>  drlg parameterswob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number>psi avg rop in sliding  <number> fthr avg rop in rotating  <number> fthr avg drlg rop  <number> fthr
+cont steerable drlg <number> hole f <number>  to <number>  sliding mode  <number> % rotating mode  <number> % drlg parameterswob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number> psi avg drlg rop  <number> fthr
+cont steerable drlg <number> hole f <number>  to <number>  sliding mode  <number> % rotating mode  <number> % drlg parameterswob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number> psi avg drlg rop  <number> fthr take mwd survey every connection pump <number> bbls hivis every connection
+cont steerable drlg <number> hole f <number>  to <number>  sliding mode  <number> % rotating mode  <number> % drlg parameterswob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number> psi diff pressure <number> psi avg drlg rop  <number> fthr take mwd survey every connection
+cont steerable drlg <number> hole f <number>  to <number>  sliding mode  <number> % rotating mode  <number> %wob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number> psi diff pressure <number> psi avg rop  <number> fthr take mwd survey every connection
+cont steerable drlg <number> hole f <number>  to <number> liner point  <number>  <number>  into pkfu pre khuff unconformity formation as per goc  fg sliding mode  <number> % rotating mode  <number> %wob <number> klb surf rpm <number> dhm <number> rpm <number> gpm trq <number> ftlb spp <number>  <number> psi diff pressure <number> psi avg rop  <number> fthr take mwd survey every connection
 swept hole w <number> bbls hvp circ hole clean conducted annual disaster  h<number>s drill good response recorded scr
-wiper trip to top of <number> csg window  <number>' flow check well static ran back to btm  <number>' hole in good condition monitor well via trip tank record trip sheet
+wiper trip to top of <number> csg window  <number>  flow check well static ran back to btm  <number>  hole in good condition monitor well via trip tank record trip sheet
 swept hole w <number> bbls hvp for <number> complete cycle till shaker cleaned
 spot <number> bbls hvp on btm
-pooh w <number> steerable drlg assy to top of <number> window  <number>' hole in good condition fill up  monitor well via trip tank record trip sheet measured string while pooh
+pooh w <number> steerable drlg assy to top of <number> window  <number>  hole in good condition fill up  monitor well via trip tank record trip sheet measured string while pooh
 flow check well static drop <number> drift slug pipe
-cont pooh w <number> steerable drlg assy to top of bha  <number>' fill up  monitor well via trip tank record trip sheet measured string while pooh
+cont pooh w <number> steerable drlg assy to top of bha  <number>  fill up  monitor well via trip tank record trip sheet measured string while pooh
 cont pooh w <number> steerable drlg bha to surface
 cont pooh  ld <number> steering drilling bha ld jar  bitbit dull grade <number>wtsx<number>bttd
 held pjsm with all crewru odfjell <number> liner running equipment  jam unit
 pu  mu <number> liner shoe track <number> vam top hc vm<number>hcs  shoe track <number> fshoe  <number> x <number> csg jts  <number> fcollar  <number> x <number> csg jts  lcollar thread lock all shoe track tested float equipment ok mu with jam unit and torqued at optimum value <number> ftlb
-cont rih <number> liner <number> vam top hc vm <number>hcs to <number>' total <number> jts  mu with jam unit and torqued at optimum value <number> ftlb filled up the string every <number> joints
+cont rih <number> liner <number> vam top hc vm <number>hcs to <number>  total <number> jts  mu with jam unit and torqued at optimum value <number> ftlb filled up the string every <number> joints
 pu  mu bot <number> liner hanger assembly non rotating hydraulic zxp control set circ <number>% of liner volume fr <number> gpm spp <number> psi liner pu wt <number> klb without block wt  liner so wt  <number> klb without block wt 
 rd odfjell <number> casing liner running tools
-cont rih with <number> liner on <number> dp stands to <number>' <number>  <number> hwdp std's  <number> dp stds from total <number> dp stds running speed as per baker liner operator <number> min slip to slip filled the string every <number> stds
-cont rih with <number> liner on <number> dp stands to <number>' running speed as per baker liner operator <number> min slip to slip filled the string every <number> stds
+cont rih with <number> liner on <number> dp stands to <number>  <number>  <number> hwdp std s  <number> dp stds from total <number> dp stds running speed as per baker liner operator <number> min slip to slip filled the string every <number> stds
+cont rih with <number> liner on <number> dp stands to <number>  running speed as per baker liner operator <number> min slip to slip filled the string every <number> stds
 circ at different flow rate have steady circ pressure <number> gpm <number> psi <number> gpm <number> psi <number> gpm <number> psi <number> gpm <number> psi <number> gpm <number> psi
-cont rih with <number> liner on <number> dp stands f <number>' to <number>' running speed as per baker liner operator <number> min slip to slip filled the string every <number> stds
+cont rih with <number> liner on <number> dp stands f <number>  to <number>  running speed as per baker liner operator <number> min slip to slip filled the string every <number> stds
 pu bot cmt head assembly torqued up <number> pup jts xo  fosv ld same
 circ one annulus volume recorded pressuresfrgpm          spppsi       <number>                   <number>     <number>                   <number>     <number>                 <number>pu wt wo circ  <number> klbso wt wo circ  <number> klbpu wt with <number> gpm fr  <number> klbso wt with <number> gpm fr  <number> klb
-cont rih <number> liner on <number> dp stds f <number>' to <number>' observed <number> klb held up at <number>'washed down f<number>' to <number>'fr <number> gpmspp <number> psi
-cont washed down f<number>' to <number>' with difficultyfr <number> gpmspp <number> psi
-no progress observed while attempting further washing down f <number>' onward at flow rate of <number> gpmspp <number> psiobserved string stuck while picking for reciproction worked on string between <number> klb overpull  <number> klb slack off till got freediscussed with base  decided to pooh with liner
-pooh f <number>' to <number>' top of <number> csg window no excessive overpull observed
+cont rih <number> liner on <number> dp stds f <number>  to <number>  observed <number> klb held up at <number> washed down f<number>  to <number> fr <number> gpmspp <number> psi
+cont washed down f<number>  to <number>  with difficultyfr <number> gpmspp <number> psi
+no progress observed while attempting further washing down f <number>  onward at flow rate of <number> gpmspp <number> psiobserved string stuck while picking for reciproction worked on string between <number> klb overpull  <number> klb slack off till got freediscussed with base  decided to pooh with liner
+pooh f <number>  to <number>  top of <number> csg window no excessive overpull observed
 cont pooh w<number>�� liner on <number> ?�� dp std��s to <number>�� fill up hole  monitor via trip tank make trip sheet
 ld <number>  <number> ?�� hwdp std��s for inspection pu bot cmt head assembly break out <number> pup jts xo  fosv  ld same
 cont pooh w w <number>�� liner on <number> ?�� dp std��s to <number>�� last std dp fill up hole  monitor via trip tank make trip sheet
@@ -550,30 +550,30 @@ pooh <number> liner hanger ld samecont pooh  ld <number> jts of <number> casing 
 cont pooh  ld total <number> jts of <number> casing all centralizers came out and in good condition
 rd odfjell liner running equipment
 rih <number> stds <number> dc pooh ld same for inspection
-hpjsm pu mu  rih <number> reaming bha to <number>' as the following <number> rr pdc bit type maz<number>px sn jj<number> open jet <number> nbrr with float xo <number> x <number> dc <number> strr <number> x <number> dc <number> strr <number> x <number> dc <number> hydr drilling jar <number> x <number> dc xo <number> x <number> hwdp bha wt  <number> klb bha below jar  <number> klb
-cont rih w <number> reaming assy f <number>' to <number>' fill up string every <number> std monitor well via trip tank and trip sheet
+hpjsm pu mu  rih <number> reaming bha to <number>  as the following <number> rr pdc bit type maz<number>px sn jj<number> open jet <number> nbrr with float xo <number> x <number> dc <number> strr <number> x <number> dc <number> strr <number> x <number> dc <number> hydr drilling jar <number> x <number> dc xo <number> x <number> hwdp bha wt  <number> klb bha below jar  <number> klb
+cont rih w <number> reaming assy f <number>  to <number>  fill up string every <number> std monitor well via trip tank and trip sheet
 break circulationfr <number> gpm spp <number> psirecorded scr
-cont to rih with reaming bha obs held up at <number>' reamdown through window reciprocated across window several times ensured free pass of reamers
-cont ream down f <number>' to <number>'had tight hole  <number>' f <number>' to <number>' <number>' to <number>' work same okfr <number> gpm spp <number> psi to <number> psirpm <number> torque <number>xxunitkftlbpumped <number> bbl hivis while reaming at <number>' increased mud wt to <number> pcf
-cont hard ream down f <number>' to <number>'had tight spot  <number>' <number>' <number>' <number>' work same ok reaming parameters  rev <number> rpm fr <number> gpm wob max <number> klb limit torque to <number> ft lb spp <number> psi
-cont hard ream down f <number>' to <number>'had tight spot  <number>' <number>' <number>' work same ok reaming parameters  rev <number> rpm fr <number> gpm wob max <number> klb limit torque to <number> ft lb spp <number> psi
-cont ream down f <number>' to btm  <number>'had tight spot  <number>'<number>' cleared same ok observed splintered cavings on shakers while reaming f<number>' reaming parameters  rev <number> rpm fr <number> gpm wob max <number> klb limit torque to <number> ft lb spp <number> psi
+cont to rih with reaming bha obs held up at <number>  reamdown through window reciprocated across window several times ensured free pass of reamers
+cont ream down f <number>  to <number> had tight hole  <number>  f <number>  to <number>  <number>  to <number>  work same okfr <number> gpm spp <number> psi to <number> psirpm <number> torque <number>xxunitkftlbpumped <number> bbl hivis while reaming at <number>  increased mud wt to <number> pcf
+cont hard ream down f <number>  to <number> had tight spot  <number>  <number>  <number>  <number>  work same ok reaming parameters  rev <number> rpm fr <number> gpm wob max <number> klb limit torque to <number> ft lb spp <number> psi
+cont hard ream down f <number>  to <number> had tight spot  <number>  <number>  <number>  work same ok reaming parameters  rev <number> rpm fr <number> gpm wob max <number> klb limit torque to <number> ft lb spp <number> psi
+cont ream down f <number>  to btm  <number> had tight spot  <number> <number>  cleared same ok observed splintered cavings on shakers while reaming f<number>  reaming parameters  rev <number> rpm fr <number> gpm wob max <number> klb limit torque to <number> ft lb spp <number> psi
 pump <number> bbl hivis circ hole cleanfr <number> gpm spp <number> psi
-pooh f <number>' to <number>' above window for wiper trip hole is in good condition
-rih back to bottom  <number>' no held up observed hole in good condition
+pooh f <number>  to <number>  above window for wiper trip hole is in good condition
+rih back to bottom  <number>  no held up observed hole in good condition
 swept hole w <number> bbls hvp circ hole clean increased and conditioned mud  <number> pcf fr  <number> gpm <number> psi
 spot <number> bbls highly inhibited lubricant pill on btm <number>% kcl and <number>% lube<number>
-hpjsm pooh <number> reaming assy to top of <number> window  <number>' hole in good condition fill up  monitor well via trip tank record trip sheet
+hpjsm pooh <number> reaming assy to top of <number> window  <number>  hole in good condition fill up  monitor well via trip tank record trip sheet
 flow check well static dropped <number> drift
-cont pooh w <number> reaming assy f <number>' to <number>' fill up  monitor well via trip tank record trip sheet
-cont rih with <number> liner on <number> dp stands to <number>' above top of window running speed as per baker liner operator <number> min slip to slip filled the string every <number> stds
+cont pooh w <number> reaming assy f <number>  to <number>  fill up  monitor well via trip tank record trip sheet
+cont rih with <number> liner on <number> dp stands to <number>  above top of window running speed as per baker liner operator <number> min slip to slip filled the string every <number> stds
 pu bot cmt head assembly torqued up one single <number> dp and <number> pup jts xo  fosv ld same
-open the well flow check attempt to rotate slowly while flow check torque increased no rotation no move up no move down had full circulation string stuck  <number>'
+open the well flow check attempt to rotate slowly while flow check torque increased no rotation no move up no move down had full circulation string stuck  <number> 
  work on stuck pipe by torque string  jar down by slack off wt to <number> klb many times without success pup wt  <number> klb soff wt  <number> klb
-cont'd work on stuck pipe by torquing the string  jarring down w <number> klb slack many times without success meanwhile prepared free pipe pill
-pump <number> bbl's free pipe pill pipe lax pill spot <number> bbl's in annular open hole and kept <number> bbl's inside string
-cont'd work on stuck pipe torqued the string while jarring down w <number> klb slack meanwhile displaced <number> bbl's fresh pipe lax from string to the annulus every <number> minutes repeated many times till the string got free
-flushed all surface lines  suction lines with <number> bbl's of filtered water mixed with <number> drum of cct<number>d using all <number> mud pumps circulated thru shear relief valves also
+cont d work on stuck pipe by torquing the string  jarring down w <number> klb slack many times without success meanwhile prepared free pipe pill
+pump <number> bbl s free pipe pill pipe lax pill spot <number> bbl s in annular open hole and kept <number> bbl s inside string
+cont d work on stuck pipe torqued the string while jarring down w <number> klb slack meanwhile displaced <number> bbl s fresh pipe lax from string to the annulus every <number> minutes repeated many times till the string got free
+flushed all surface lines  suction lines with <number> bbl s of filtered water mixed with <number> drum of cct<number>d using all <number> mud pumps circulated thru shear relief valves also
 npt  observed string stuck with <number>xxunittop  <number>xxunittso  without circulation  rotation worked on pipes till free ok   observed pipe stuck after connection  had to rack back last stand to work on pipes 
 npt  worked on stuck pipe string stuck with <number>xxunittop  <number>xxunittslackoff wt  wo rotation or circulation worked on pipes  regained full circulation afer <number> hrs 
 npt  continued to work on stuck pipe obsereved string stuck with <number>xxunittop  <number>xxunittslackoff wt  wih no rotation attempted to restore rotation with max <number> kftlb rh torque  attempted to jar down at different loadsspeeds observed jar not working  placed string under <number>  <number>xxunittcompression  <number> kftlb tq 
@@ -851,7 +851,7 @@ npt  spot <number> pipe lax pill across bha wait to soak while string under tors
 npt  stuck pipe observed obstuction at <number> m worked string up without success attempted to rotate the pipe without success circulated with no restriction full returns observed <number> lpm  <number> psi worked string up with <number> mton casing free
 npt rih with fishing assembly   spear  depth <number>m pjsm record the weight of the string before entering the <number>liner  pu weight<number> tons slack off weight <number> tons rih to <number>m rotate <number> turn left and set the spear inside <number>liner picked up to <number> tons and jarring upward slack off to close the jar observed spear movement downward gradually to <number>m increase woh jarring  to <number> tons and woh without jarring to <number> tons no success kept in tension max <number> tons  after every <number> jarring hits no success increase gradually wohjarring to <number> tons and max woh without jarring to <number>t tons no success durring jarring circulate fr<number> lminpress <number>psi rest the jar to cool after every <number> hits total shots of the jar  <number>down hole losses <number> m<number>  <number> m<number>hr surface losses <number> m<number> m<number>hr
 npt   released spear  kept in neutral point <number> tons rotate right and relesed spear from <number> m top of liner confirmed by stop sub<number> m attempt several times to set spear at  <number> m<number> m inside <number>liner  on <number> m<number> m interval no succes  increase flow rate to <number> lmin to clean spear grapple down hole losses <number> m<number>  <number> m<number>hr surface losses <number> m<number>  <number> m<number>hr
-screw into fish at <number>' jar down no movementjar up limited movement
+screw into fish at <number>  jar down no movementjar up limited movement
 cont jaring up no movement
 flow checked with rov  static attempted to work string up and down at <number>m   no success
 npt  attempt to free drill string  no successoverpull applied <number> klbsslack off weight <number> klbstorque <number> ft lbobserved complete losses after drill string stucktried to fire jar several times without sucesspumped <number> m<number> of caustic pill <number> ppb to cover stuck point and allowed to soak while working the drill string 
@@ -935,7 +935,7 @@ nptpumped <number> m<number> of pipelax in string and displaced with mud to keep
 npt slacked off string <number> mt and torqued up string to <number> kftlbs kept it there for <number> min rleased torque and pull to neutral point repeated above cycle for <number> hour pumped <number> bbl of pipelax after every half hour attempted to jar up with <number> mt ovepull weak indication of jar firing slack off <number> mt string got free and started rotating with prestuck torque of <number> kftlbs
 npt stuck pipe  get free string stuck <number>m off bottom at <number>m while pu after finishing sliding interval full return apply up to <number>t overpull  no progress apply torque  no rotation jar down <number> times wo torque  get free
 npt work on stuck pipe  <number> had <number> mt over pull ream down and pump out 
-observed <number>psi drop and an increasexxunitintorque <number> to <number> kft lb's  picked up off bottom  hole drag <number> klb's torque <number> kftlb's worked stand while rotating at different speeds no changexxunitintorque slb mwdlwd lost communication at same time pressure drop observed recycled pumps pump pressure returned to normal and torque reduced to <number>kftlb's off bottom 
+observed <number>psi drop and an increasexxunitintorque <number> to <number> kft lb s  picked up off bottom  hole drag <number> klb s torque <number> kftlb s worked stand while rotating at different speeds no changexxunitintorque slb mwdlwd lost communication at same time pressure drop observed recycled pumps pump pressure returned to normal and torque reduced to <number>kftlb s off bottom 
 continued working pipe with <number>klbs weight down and <number>klbs overpull <number>klbs hookload completed circulating pills out of hole at <number>gpm no sign of pills over shakers
 continued working pipe with <number>klbs weight down and <number>klbs overpull <number>klbs hookload pumped <number>bbls base oil <number>bbls <number>ppg surfactant pill <number>bbls base oil and <number>bbls <number>ppg mud displaced out of string with <number>ppg active mud and stopped pumps broke circulation by pumping <number>bbls every <number> hours and continued working pipe
 continued working pipe <number>klbs weight down and <number>klbs overpull <number>klbs hookload commenced circulating pills out of hole at <number>gpm
@@ -1003,7 +1003,7 @@ rih with <number> casing on <number> landing string from <number>m to <number>m
 changed out bales from <number>t to <number>t
 continued rih on elevators with <number> casing from <number>m to <number>m tight spot at <number>m <number>k wob washed down at <number>gpm to <number>m cont rih on elevators from <number>m to <number>m
 washed down <number> casing with <number>gpm from <number>m to <number>m
-make up <number> x <number> sn <number>h smith hydraulic drilling jar  <number>'
+make up <number> x <number> sn <number>h smith hydraulic drilling jar  <number> 
 npt worked on stuck pipe tried to recover circulation pressure hold at <number> psi worked string down slacked down whole string wt on stuck point pressure released slowly to <number> psi continued work on stuck pipe jarring down and tried to recover circulation successeded continued work on stuck pipe jaring down with gradual increased flow rate flow rate <number> lmin spp  <number>  <number> psi obseved slow progress pipe could move down to <number> mxxunitin<number> hrs
 npt continued work on stuck pipe continued jaring down on stuck pipe with circulation flow rate <number> lmin  ssp <number> psi no progress
 npt pump and displaced <number> m<number> pipelax pill spotted <number>xxunitmthreof pipelax pillxxunitinthe annulus while keeping <number>xxunitmthrein the string soaked pill for <number> min worked on stuck string by downward jarring displaced <number> lit after every <number>xxunitminand kept on downward jarring  no success preparing offline new bell nipple
@@ -1346,67 +1346,67 @@ commenced washing down into <number> ? hole from <number>m to <number>m observed
 staged flowrate up to <number>gpm  <number>psi  resumed washing down slowly from <number>m to <number>m with rotation
 worked full stand at <number> gpm <number>xxunitpsiover <number> ?�� hole interval <number>m �c <number>m no resistance seen at <number> gpm performedxxunitawiper trip no rotation from <number>m back to <number>m <number>m back to <number>m and <number>m back to shoe at <number>m �c no resistance seen
 commenced circulating hole clean from shoe at <number>m <number> gpm good return of  <number> ?�� drilled rock bit cuttings 
-while pu string for reaming observed pressure shoot up  torque increased and rotation stalls string stuck at <number>' work on string by jarring down  jarring up between <number> klb  <number> klb wos <number> klb till got freeobserved restricted rotation  restricted circulation while working on string
-hole packedoff  <number>'  lost circulation while back reaming out of hole  pumping pressure increased fxxunitthoupsito <number> psi unable to rotate freely  mud losses <number> bbls no returns  work pipe  regain rotation  <number> rpm
+while pu string for reaming observed pressure shoot up  torque increased and rotation stalls string stuck at <number>  work on string by jarring down  jarring up between <number> klb  <number> klb wos <number> klb till got freeobserved restricted rotation  restricted circulation while working on string
+hole packedoff  <number>   lost circulation while back reaming out of hole  pumping pressure increased fxxunitthoupsito <number> psi unable to rotate freely  mud losses <number> bbls no returns  work pipe  regain rotation  <number> rpm
 pump <number>xxunitbblhigh vis sweep w <number> lbsbbl lcm material containing cedar fibre mica fedseal  nutplug  mud losses <number> bbls  no returns  continue rotation  <number> rpm
 work stuck pipe unable to rotate  pu to <number> k so to <number> k
 pump <number>xxunitbblhigh vis lcm sweep containing <number> lbsbbl of mica nutplug cedar fibre fedseal  cotton seed hulls  <number> gpm <number> psi <number> rpm  work pipe  regain rotation  mud losses <number> bbls
 pump <number>xxunitbblhigh vis lcm sweep containing <number> lbsbbl of mica nutplug cedar fibre fedseal  cotton seed hulls  low pump rate bringing flow rate up to <number> gpm <number> psi <number> rpmwork pipe so to <number> k pu to <number> k  break pipe free  regain circulation  losses curred
 circulate  condtion hole  <number> gpm <number> psi <number> rpm <number> kftlbs torque  pu <number> so <number> rot wt <number> k  pump <number> bbls high vis sweep  significant cuttings returned  cont circulating until shakers cleaned up
-pooh w dp f <number>' to <number>'  <number> fphpu <number> k so <number> k rot wt <number> k
-pooh w dp f <number>' to <number>'  <number> fph
-pooh w hwdp f <number>' to <number>'  <number> fph
+pooh w dp f <number>  to <number>   <number> fphpu <number> k so <number> k rot wt <number> k
+pooh w dp f <number>  to <number>   <number> fph
+pooh w hwdp f <number>  to <number>   <number> fph
 replace sensor on the mousehole clamp
-pooh w bha f <number>' to <number>'  collar shearedoff bit bits sub  <number>' of <number> dc leftxxunitinthe hole  section of collar was <number> under gauge  suspected junkxxunitinthe hole  decision has been taken to setxxunitacement plug and sidetrack  <number>'  ld collars  hwdp
+pooh w bha f <number>  to <number>   collar shearedoff bit bits sub  <number>  of <number> dc leftxxunitinthe hole  section of collar was <number> under gauge  suspected junkxxunitinthe hole  decision has been taken to setxxunitacement plug and sidetrack  <number>   ld collars  hwdp
 ru <number> tubing elevators  handling equipment  activate csg mode on pipe handler
-rih w <number> jnts of <number> tubing  disperser f surface to <number>'
+rih w <number> jnts of <number> tubing  disperser f surface to <number> 
 rd tubing handling equipment  activate tripping mode on pipe handler
-rih w dp f <number>' to <number>'  <number> fph
-rih w dp f <number>' to <number>'  tag up fish
-circ  cond hole  <number> gpm <number> psi  schlumberger cementing on location  <number> hrspu string to <number>'
+rih w dp f <number>  to <number>   <number> fph
+rih w dp f <number>  to <number>   tag up fish
+circ  cond hole  <number> gpm <number> psi  schlumberger cementing on location  <number> hrspu string to <number> 
 ru schlumberger cementing
 fill  pressure test cement lines to <number>xxunitpsifor <number> mins  ok
-mix  pump cementpump <number>bbl spacer infrontpump <number>bbl kickoff plug w <number> sks cement  <number> ppg yield <number> ft<number>skpump <number>bbl spacer behinddisplaced <number>bbl w <number>bbl under displacement  plug balancedcalculated top of cement is <number>'bottom of cement <number>'
-pooh w dp f <number>' to  <number>' at controlled rate  pulled dry
-circ  cond mud  <number>' <number> gpm <number> psi
-flow check pump slugpooh w dp f <number>' to <number>'  <number> fph
-pooh w dp f <number>' to <number> '  <number> fph
+mix  pump cementpump <number>bbl spacer infrontpump <number>bbl kickoff plug w <number> sks cement  <number> ppg yield <number> ft<number>skpump <number>bbl spacer behinddisplaced <number>bbl w <number>bbl under displacement  plug balancedcalculated top of cement is <number> bottom of cement <number> 
+pooh w dp f <number>  to  <number>  at controlled rate  pulled dry
+circ  cond mud  <number>  <number> gpm <number> psi
+flow check pump slugpooh w dp f <number>  to <number>   <number> fph
+pooh w dp f <number>  to <number>    <number> fph
 ru <number> tubing handling equipment
-pooh  ld <number> jnts of <number> <number> tubings f <number>' to surface
+pooh  ld <number> jnts of <number> <number> tubings f <number>  to surface
 rd <number> tubing handling equipment
 mu directional bha bha<number>  surface test  scribe motor
-rih w dp f <number>' to <number>'   <number> fph
-rih w bha dp f <number>' to <number>'  <number> fph
+rih w dp f <number>  to <number>    <number> fph
+rih w bha dp f <number>  to <number>   <number> fph
 break circulation  test mwd tool  ok
-rih w hwdp f <number>' to <number>'  <number> fph
-cir  cond mud  <number>' <number> gpm <number> rpm <number> psi <number> kftlbs torque
-dress off plug  pattern bit f <number>' to <number>'
-drill <number> production hole f <number>' to <number>'  <number> fphslide <number>'isolate each mud pump  perform checkcuttings sample  <number> hrs <number>% shale <number>% cement  assume kickoff survey <number>' md <number>xxunitdeginc <number>xxunitdegazm 
-drill <number> production hole f <number>' to <number>'  <number> fphpump <number>xxunitbblhigh vis sweeps xxunitmw<number> vis <number> secqrtsignificant cuttings  cement returned
-drill <number> production hole f <number>' to <number>'  <number> fphslide <number>'pump <number>xxunitbblhigh vis sweep xxunitmw<number> vis <number> secqrt
-drill <number> production hole f <number>' to <number>'  <number> fph
+rih w hwdp f <number>  to <number>   <number> fph
+cir  cond mud  <number>  <number> gpm <number> rpm <number> psi <number> kftlbs torque
+dress off plug  pattern bit f <number>  to <number> 
+drill <number> production hole f <number>  to <number>   <number> fphslide <number> isolate each mud pump  perform checkcuttings sample  <number> hrs <number>% shale <number>% cement  assume kickoff survey <number>  md <number>xxunitdeginc <number>xxunitdegazm 
+drill <number> production hole f <number>  to <number>   <number> fphpump <number>xxunitbblhigh vis sweeps xxunitmw<number> vis <number> secqrtsignificant cuttings  cement returned
+drill <number> production hole f <number>  to <number>   <number> fphslide <number> pump <number>xxunitbblhigh vis sweep xxunitmw<number> vis <number> secqrt
+drill <number> production hole f <number>  to <number>   <number> fph
 take slow pump rates
-drill <number> production hole f <number>' to <number>'  <number> fphpump <number> bbls high vis sweepxxunitmw<number> ppg vis <number> secqrt
-drill <number> production hole f <number>' to <number>'  <number> fphpump <number> bbls high vis sweepxxunitmw<number> vis <number> secqrt
-drill <number> production hole f <number>' to <number>'  <number> fphpump high vis sweep
-drill <number> production hole f <number>' to <number>'  <number> fphshale shaker  <number> breaker shut down motors lost <number> bbls mud to cuttings tanks  pump high vis sweep
-diff pressure increased to <number> psi stpp <number> psi  hole appeared to be packed off  circulation  condition the hole  <number>' motor rubberseal circulated over shakers  suspected motor failure
+drill <number> production hole f <number>  to <number>   <number> fphpump <number> bbls high vis sweepxxunitmw<number> ppg vis <number> secqrt
+drill <number> production hole f <number>  to <number>   <number> fphpump <number> bbls high vis sweepxxunitmw<number> vis <number> secqrt
+drill <number> production hole f <number>  to <number>   <number> fphpump high vis sweep
+drill <number> production hole f <number>  to <number>   <number> fphshale shaker  <number> breaker shut down motors lost <number> bbls mud to cuttings tanks  pump high vis sweep
+diff pressure increased to <number> psi stpp <number> psi  hole appeared to be packed off  circulation  condition the hole  <number>  motor rubberseal circulated over shakers  suspected motor failure
 circulate  condition hole  <number> gpm <number> psi
 attempt to break connection work tooljoint over  unsuccessful
-pooh w dp f <number>' to <number>'  <number> fph  heat tool jointsxxunitinorder to break connections
-pooh w dp f <number>' to <number>'  <number> fph  tool joints heatedxxunitinorder to break some connections  pumped <number>xxunitbblslug  <number>'
-pooh w hwdp f <number>' to <number>'  <number> fph  flow check  <number>' for <number> minutes  well static
-pooh w dp f <number>' to <number>'  <number> fph  flow check  <number>' for <number> minutes  well static
-pooh bha <number> f <number>' to surface  lay down xo nmdc flex spsa dbl pin xo pony nmdc <number> stab m<number> motor  smith mdsi<number> bit serial  jy<number>
+pooh w dp f <number>  to <number>   <number> fph  heat tool jointsxxunitinorder to break connections
+pooh w dp f <number>  to <number>   <number> fph  tool joints heatedxxunitinorder to break some connections  pumped <number>xxunitbblslug  <number> 
+pooh w hwdp f <number>  to <number>   <number> fph  flow check  <number>  for <number> minutes  well static
+pooh w dp f <number>  to <number>   <number> fph  flow check  <number>  for <number> minutes  well static
+pooh bha <number> f <number>  to surface  lay down xo nmdc flex spsa dbl pin xo pony nmdc <number> stab m<number> motor  smith mdsi<number> bit serial  jy<number>
 pu mu  rih w lateral directional assembly  gvr bha <number>
 break circulation  test mwd tool  okflow check  well static
-rih w bha dp f <number>' to <number>'  <number> fphbreak circulation  <number>'
-rih w hwdp f <number>' to <number>'  <number> fphbreak circulation  <number>'
-rih w dp f <number>' to <number>'  <number> fphbreak circulation  <number>'
-rih w dp f <number>' to <number>'  <number> fph  break circulation  <number>'
-drill <number> production hole f <number>' to <number>  <number> fph
+rih w bha dp f <number>  to <number>   <number> fphbreak circulation  <number> 
+rih w hwdp f <number>  to <number>   <number> fphbreak circulation  <number> 
+rih w dp f <number>  to <number>   <number> fphbreak circulation  <number> 
+rih w dp f <number>  to <number>   <number> fph  break circulation  <number> 
+drill <number> production hole f <number>  to <number>  <number> fph
 npt attempted to ream down throght tight spot at <number>m string got stuck circulation possible no rotation work on string and jarring up to <number> klb work on string and jarring down to <number> klb string free reamed up and down and clear tight spot from <number>m
-pulled tight <number>k over at <number>' can't rotate move down or up  circulate free lots of shale comming over shaker slivers like heaving shale and large pieces  pump hivis sweep at reduced rate <number> gpm able to rotate and work down  increased rate and continue to work pipe through tight spots  pump <number>xxunitbblhivis sweeps  reduced rate <number> gpm to prevent packoff  increase rate after sweep is back<number> gpm <number> psi <number> rpm rot torq <number>  <number>k ftlbs  wob <number>k
+pulled tight <number>k over at <number>  can t rotate move down or up  circulate free lots of shale comming over shaker slivers like heaving shale and large pieces  pump hivis sweep at reduced rate <number> gpm able to rotate and work down  increased rate and continue to work pipe through tight spots  pump <number>xxunitbblhivis sweeps  reduced rate <number> gpm to prevent packoff  increase rate after sweep is back<number> gpm <number> psi <number> rpm rot torq <number>  <number>k ftlbs  wob <number>k
 nptworked on stuck drill stringduring pooh to <number> m observed overpull<number> mtattempted to go down no movementattempted to rotate string without successdrill string  stuck at <number> mstarted pumping and slowly increased pumping rate to <number> lpm spp <number> psi  continued working on string and gradually increased pumping rate to <number> lpm  observed returns with  minor cavings and cuttings on shakersworked on string by applying torque and slacking off up to <number> mt with pumpingxxunitafew timesdrill string became free reamed <number> times through tight spot from <number> m to <number> m until able pull freeformation  nahr umr
 nptgot stuck while reaming down at <number> mjared up and got free with <number> mtons overpulladded lubricant to mud
 took <number>klbs overpull at <number>m attempted to work through tight spotxxunitasecond time without success made up 
@@ -1422,13 +1422,13 @@ npt working on stuck pipe  attempted to jarring up so to <number> ton waited <nu
 npt pre job safety meeting prior ru fpit wireline log   ld one <number> dp joint and replaced by <number> pup joint  applied right hand torque in order count the number of turns to reach <number> ktftlb  <number> turns
 mu jetting tool to cleanout assembly  cleanout bop stack with jetting tool rpm <number> flowrate <number> gpm
 ld jetting tool
-string got stuck while pu for relog  <number>' with circulationwork string up  down several times string got free  applied rht up to <number>% mu tq and increased slack off to <number> klbs
-pumped <number> bbl's tandem pill lovis  hiwt reciprocated std updown monitored shakers until clean checked pu so  rotary weights  ok
+string got stuck while pu for relog  <number>  with circulationwork string up  down several times string got free  applied rht up to <number>% mu tq and increased slack off to <number> klbs
+pumped <number> bbl s tandem pill lovis  hiwt reciprocated std updown monitored shakers until clean checked pu so  rotary weights  ok
 observed overpull of <number> mt when attempting to pull next stand out of the slips connected top drive and circulated with <number> lpm unrestricted but rotation impossible differential sticking  <number> m worked string up and down with  without torque from <number>  <number> lbft several times flowrate <number> lpm spp <number> psi activated jar down two times not releasing string   surface loss<number> m<number>hr  total down hole losses <number> m<number>
 pu one single and continued working string jarring down until released and recovered rotation flowrate <number>  <number> lpm torque <number> lbft slack off weight <number> mt   total downhole losses <number> m<number>
-while picking up to recover slips observed over pull and stuck pipe bit depth <number>' worked updown disconnect <number> stand of hwdp and continue working up w<number> klb over pull until observe string free
-while ream  wash down  <number>' had high torque and string stalled  release the torque and pu string free w<number> klb op worked string up and down with pumping  rotation ok decided to pump <number> bbl hvp while pumping hvp  observed mud pump no <number> pup off valve was open at <number> psi  isolate mud pump <number> and start mud pump no<number>  pressure build up to <number> psi and mud pump  <number> pup off valve was open  isolate mud pump no <number> and work only with mud pump no<number> with <number> gpm  <number> psi  <number> rpm  move string up and down free and while moving string from <number> ft to <number> ft  string stalled and get stuck  pack off stuck    hold <number> psi in drill string and try to work string with jaring down  found that jar is not working in jaring down   work on stuck string with torque and slack down while holding <number> psi in drill string  string not free
-work string stuck <number>' applying up <number> klbdown <number> klb after several attempts  to start jarring down many times  until working  ok  work string down and jarring with torque of <number> klbftapply  pressure of <number> psi that decreases to <number> psi after <number>  <number> minutescontinue working on stuck string with jarring down
+while picking up to recover slips observed over pull and stuck pipe bit depth <number>  worked updown disconnect <number> stand of hwdp and continue working up w<number> klb over pull until observe string free
+while ream  wash down  <number>  had high torque and string stalled  release the torque and pu string free w<number> klb op worked string up and down with pumping  rotation ok decided to pump <number> bbl hvp while pumping hvp  observed mud pump no <number> pup off valve was open at <number> psi  isolate mud pump <number> and start mud pump no<number>  pressure build up to <number> psi and mud pump  <number> pup off valve was open  isolate mud pump no <number> and work only with mud pump no<number> with <number> gpm  <number> psi  <number> rpm  move string up and down free and while moving string from <number> ft to <number> ft  string stalled and get stuck  pack off stuck    hold <number> psi in drill string and try to work string with jaring down  found that jar is not working in jaring down   work on stuck string with torque and slack down while holding <number> psi in drill string  string not free
+work string stuck <number>  applying up <number> klbdown <number> klb after several attempts  to start jarring down many times  until working  ok  work string down and jarring with torque of <number> klbftapply  pressure of <number> psi that decreases to <number> psi after <number>  <number> minutescontinue working on stuck string with jarring down
 continue work on stuck string with jarring down  with max so <number> klb and apply <number> torque  no success to move stringcooling the jar for <number> min every <number> hrs
 continue work on stuck string with jarring down with max so <number> klb and apply <number> torque no success to move stringcooling the jar for <number> min every <number> hrs
 work string stuck jarring up applying over pull of <number> klb observing string moving up <number> feet

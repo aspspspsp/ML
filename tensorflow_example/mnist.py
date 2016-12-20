@@ -36,9 +36,6 @@ def RNN(X, weights, biases):
     # X ==> (128 batches * 28 steps, 28 inputs)
     X = tf.reshape(X, [-1, n_inputs])
 
-    x_in = tf.
-
-
     # X_in = W*X + b
     X_in = tf.matmul(X, weights['in']) + biases['in']
     # X_in ==> (128 batches, 28 steps, 128 hidden) 换回3维
