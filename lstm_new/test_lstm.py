@@ -34,7 +34,7 @@ class TextLSTM(object):
             print('self.embedded_chars', self.h_drop)
 
         with tf.variable_scope("RNN"):
-            lstm_cell = tf.nn.rnn_cell.BasicLSTMCell(embedding_size, forget_bias=0.0, state_is_tuple=True)
+            lstm_cell = tf.nn.rnn_cell.BasicLSTMCell(embedding_size, forget_bias=1.0, state_is_tuple=True)
             lstm_cell = tf.nn.rnn_cell.DropoutWrapper(lstm_cell, output_keep_prob=self.dropout_keep_prob)
             cell = tf.nn.rnn_cell.MultiRNNCell([lstm_cell] * 5, state_is_tuple=True)  # 多层lstm cell 堆叠起来
 
