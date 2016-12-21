@@ -98,7 +98,9 @@ with tf.Graph().as_default():
 
         # Define Training procedure
         global_step = tf.Variable(0, name="global_step", trainable=False)
-        optimizer = tf.train.AdamOptimizer(FLAGS.learning_rate)
+        optimizer = tf.train.GradientDescentOptimizer(FLAGS.learning_rate)
+        #AdamOptimizer
+
         grads_and_vars = optimizer.compute_gradients(lstm.loss)
         train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
 
