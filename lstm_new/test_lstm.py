@@ -13,61 +13,59 @@ class TextLSTM(object):
 
         # Placeholders for input, output and dropout
         self.input_x = tf.placeholder(tf.int64, [None, sequence_length], name="input_x")
-        self.input_y = tf.placeholder(tf.int64, [None, num_classes], name="input_y")
+        self.input_y = tf.placeholder(tf.float32, [None, num_classes], name="input_y")
         self.dropout_keep_prob = tf.placeholder(tf.float32, name="dropout_keep_prob")
 
         self.input_size = batch_size
 
         # Keeping track of l2 regularization loss (optional)
         l2_loss = tf.constant(0.0)
-
+        num_steps = 20
         # Embedding layer
         seq_max_len = 20
         with tf.device('/cpu:0'), tf.name_scope("embedding"):
-            W = tf.Variable(
-                    tf.random_uniform([vocab_size, embedding_size], -1.0, 1.0),
-                    name="W")
+            W = tf.Variable(tf.random_uniform([vocab_size, embedding_size], -1, 1))
             self.embedded_chars = tf.nn.embedding_lookup(W, self.input_x)
+            print('input', self.input_x)
 
         # Add dropout
         with tf.name_scope("dropout"):
             self.h_drop = tf.nn.dropout(self.embedded_chars, self.dropout_keep_prob)
-            self.h_drop = tf.transpose(self.h_drop, [0, 2, 1])
             print('self.embedded_chars', self.h_drop)
 
         with tf.variable_scope("RNN"):
-            outputs = []
-            lstm_cell = tf.nn.rnn_cell.BasicLSTMCell(n_hidden, forget_bias=0.0, state_is_tuple=True)
+            lstm_cell = tf.nn.rnn_cell.BasicLSTMCell(embedding_size, forget_bias=0.0, state_is_tuple=True)
             lstm_cell = tf.nn.rnn_cell.DropoutWrapper(lstm_cell, output_keep_prob=self.dropout_keep_prob)
-            cell = tf.nn.rnn_cell.MultiRNNCell([lstm_cell] * 1, state_is_tuple=True)  # 多层lstm cell 堆叠起来
-            self._initial_state = cell.zero_state(embedding_size, tf.float32)  # 参数初始化,rnn_cell.RNNCell.zero_state
+            cell = tf.nn.rnn_cell.MultiRNNCell([lstm_cell] * 5, state_is_tuple=True)  # 多层lstm cell 堆叠起来
 
+            self._initial_state = cell.zero_state(batch_size, tf.float32)  # 参数初始化,rnn_cell.RNNCell.zero_state
+            outputs = []
             state = self._initial_state  # state 表示 各个batch中的状态
-            for i in range(batch_size):
-                if i > 0:
+            for time_step in range(num_steps):
+                if time_step > 0:
                     tf.get_variable_scope().reuse_variables()
                 # cell_out: [batch, hidden_size]
-                (cell_output, state) = cell(self.h_drop[i, : , :], state)
+                (cell_output, state) = cell(self.h_drop[:, time_step, :], state)
                 outputs.append(cell_output)  # output: shape[batch][embedding_size, embedding_size]
 
             # 將結果拼接起來[batch_size, emb_dim, emb_dim]
-            self.output = tf.concat(0, outputs)
-            self.output = tf.reshape(self.output, [-1, batch_size, n_hidden])
+            self.output = tf.reshape(tf.concat(0, outputs), [-1, num_steps * embedding_size])
+            print(self.output)
 
         # Final (unnormalized) scores and predictions
         with tf.name_scope("Softmax_layer_and_output"):
-            softmax_w = tf.get_variable("softmax_w", [n_hidden, num_classes], dtype=tf.float32)
+            softmax_w = tf.get_variable("softmax_w", [num_steps * embedding_size, num_classes], dtype=tf.float32)
             softmax_b = tf.get_variable("softmax_b", [num_classes], dtype=tf.float32)
-            self.predictions = tf.matmul(self.output[-1], softmax_w) + softmax_b
+            self.input_y_hat = tf.matmul(self.output, softmax_w) + softmax_b
 
         # CalculateMean cross-entropy loss
         with tf.name_scope("loss"):
-            losses = tf.nn.softmax_cross_entropy_with_logits(self.predictions, self.input_y)
-            self.loss = tf.reduce_mean(losses) + l2_reg_lambda * l2_loss
+            cross_entropy = tf.nn.softmax_cross_entropy_with_logits(self.input_y_hat, self.input_y)
+            self.loss = tf.reduce_mean(cross_entropy) # + l2_reg_lambda * l2_loss
 
         # Accuracy
         with tf.name_scope("accuracy"):
-            correct_predictions = tf.equal(tf.argmax(self.predictions, 1), tf.argmax(self.input_y, 1))
+            correct_predictions = tf.equal(tf.argmax(self.input_y_hat, 1), tf.argmax(self.input_y, 1))
             self.accuracy = tf.reduce_mean(tf.cast(correct_predictions, "float"), name="accuracy")
 
         print('loading complete')

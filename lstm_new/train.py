@@ -23,14 +23,14 @@ tf.flags.DEFINE_string("other_data_file", "../data/other_data.txt", "Data source
 
 # Model Hyperparameters
 tf.flags.DEFINE_integer("embedding_dim", 128, "Dimensionality of character embedding (default: 128)")
-tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (default: 0.5)")
+tf.flags.DEFINE_float("dropout_keep_prob", 1, "Dropout keep probability (default: 0.5)")
 tf.flags.DEFINE_float("l2_reg_lambda", 0.0, "L2 regularizaion lambda (default: 0.0)")
 tf.flags.DEFINE_integer("forget_bias", 0.5, "Number of forget bias (default: 1)")
 tf.flags.DEFINE_integer("hidden_layer", 128, "Number of hidden layer (default: 128)")
 tf.flags.DEFINE_integer("learning_rate", 0.04, "Learning rate (default: 1e-4)")
 
 # Training parameters
-tf.flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 64)")
+tf.flags.DEFINE_integer("batch_size", 128, "Batch Size (default: 64)")
 tf.flags.DEFINE_integer("num_epochs", 200, "Number of training epochs (default: 200)")
 tf.flags.DEFINE_integer("evaluate_every", 100, "Evaluate model on dev set after this many steps (default: 100)")
 tf.flags.DEFINE_integer("checkpoint_every", 100, "Save model after this many steps (default: 100)")
@@ -69,8 +69,8 @@ y_shuffled = y[shuffle_indices]
 # Split train/test set
 # TODO: This is very crude, should use cross-validation
 dev_sample_index = -1 * int(FLAGS.dev_sample_percentage * float(len(y)))
-x_train, x_dev = x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index + 64:dev_sample_index + 128]
-y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index + 64:dev_sample_index + 128]
+x_train, x_dev = x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index + FLAGS.batch_size:dev_sample_index + FLAGS.batch_size * 2]
+y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index + FLAGS.batch_size:dev_sample_index + FLAGS.batch_size * 2]
 print("Vocabulary Size: {:d}".format(len(vocab_processor.vocabulary_)))
 print("Train/Dev split: {:d}/{:d}".format(len(y_train), len(y_dev)))
 
