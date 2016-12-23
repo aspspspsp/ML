@@ -26,7 +26,7 @@ class TextLSTM(object):
         with tf.device('/cpu:0'), tf.name_scope("embedding"):
             W = tf.Variable(tf.random_uniform([vocab_size, embedding_size], -1, 1))
             self.embedded_chars = tf.nn.embedding_lookup(W, self.input_x)
-            print('input', self.input_x)
+            print('input', self.embedded_chars)
 
         # Add dropout
         with tf.name_scope("dropout"):
@@ -57,6 +57,8 @@ class TextLSTM(object):
             softmax_w = tf.get_variable("softmax_w", [num_steps * embedding_size, num_classes], dtype=tf.float32)
             softmax_b = tf.get_variable("softmax_b", [num_classes], dtype=tf.float32)
             self.input_y_hat = tf.matmul(self.output, softmax_w) + softmax_b
+            print(self.input_y_hat)
+            exit()
 
         # CalculateMean cross-entropy loss
         with tf.name_scope("loss"):
